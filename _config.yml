@@ -26,6 +26,20 @@ exclude:
   - scripts/
   - test/
   - vendor/
+  - pages/info/
+
+include:
+  - pages/info/a5y17lte.md
+  - pages/info/a7y17lte.md
+  - pages/info/addison.md
+  - pages/info/albus.md
+  - pages/info/cedric.md
+  - pages/info/griffin.md
+  - pages/info/hammerhead.md
+  - pages/info/montana.md
+#  - pages/info/ali.md
+#  - pages/info/potter.md
+#  - pages/info/sanders.md
 
 # these are the files and directories that jekyll will exclude from the build
 
