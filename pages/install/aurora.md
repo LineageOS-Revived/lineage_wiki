@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on aurora
+title: Install LineageOS Revived on aurora
 folder: install
 permalink: /devices/aurora/install/
 device: aurora

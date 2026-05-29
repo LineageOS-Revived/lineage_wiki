@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on heart
+title: Upgrade LineageOS Revived on heart
 folder: upgrade
 permalink: /devices/heart/upgrade/
 device: heart

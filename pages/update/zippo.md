@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on zippo
+title: Update LineageOS Revived on zippo
 folder: update
 permalink: /devices/zippo/update/
 device: zippo

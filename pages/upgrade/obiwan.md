@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on obiwan
+title: Upgrade LineageOS Revived on obiwan
 folder: upgrade
 permalink: /devices/obiwan/upgrade/
 device: obiwan

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on marlin
+title: Update LineageOS Revived on marlin
 folder: update
 permalink: /devices/marlin/update/
 device: marlin

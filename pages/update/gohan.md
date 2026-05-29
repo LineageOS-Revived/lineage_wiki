@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on gohan
+title: Update LineageOS Revived on gohan
 folder: update
 permalink: /devices/gohan/update/
 device: gohan

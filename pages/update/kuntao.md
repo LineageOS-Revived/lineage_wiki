@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on kuntao
+title: Update LineageOS Revived on kuntao
 folder: update
 permalink: /devices/kuntao/update/
 device: kuntao

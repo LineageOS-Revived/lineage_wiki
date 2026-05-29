@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gts4lvwifi
+title: Install LineageOS Revived on gts4lvwifi
 folder: install
 permalink: /devices/gts4lvwifi/install/
 device: gts4lvwifi

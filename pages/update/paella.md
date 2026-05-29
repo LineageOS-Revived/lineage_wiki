@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on paella
+title: Update LineageOS Revived on paella
 folder: update
 permalink: /devices/paella/update/
 device: paella

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on G
+title: Install LineageOS Revived on G
 folder: install
 permalink: /devices/G/install/
 device: G

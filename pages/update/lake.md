@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on lake
+title: Update LineageOS Revived on lake
 folder: update
 permalink: /devices/lake/update/
 device: lake

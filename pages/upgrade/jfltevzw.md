@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on jfltevzw
+title: Upgrade LineageOS Revived on jfltevzw
 folder: upgrade
 permalink: /devices/jfltevzw/upgrade/
 device: jfltevzw

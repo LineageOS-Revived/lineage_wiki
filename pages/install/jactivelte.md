@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on jactivelte
+title: Install LineageOS Revived on jactivelte
 folder: install
 permalink: /devices/jactivelte/install/
 device: jactivelte

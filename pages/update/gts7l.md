@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on gts7l
+title: Update LineageOS Revived on gts7l
 folder: update
 permalink: /devices/gts7l/update/
 device: gts7l

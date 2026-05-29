@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on axolotl
+title: Install LineageOS Revived on axolotl
 folder: install
 permalink: /devices/axolotl/install/
 device: axolotl

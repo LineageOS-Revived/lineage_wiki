@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on dumpling
+title: Upgrade LineageOS Revived on dumpling
 folder: upgrade
 permalink: /devices/dumpling/upgrade/
 device: dumpling

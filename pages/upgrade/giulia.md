@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on giulia
+title: Upgrade LineageOS Revived on giulia
 folder: upgrade
 permalink: /devices/giulia/upgrade/
 device: giulia

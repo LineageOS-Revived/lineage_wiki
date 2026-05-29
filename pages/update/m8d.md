@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on m8d
+title: Update LineageOS Revived on m8d
 folder: update
 permalink: /devices/m8d/update/
 device: m8d

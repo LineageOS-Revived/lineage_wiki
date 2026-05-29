@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on taoshan
+title: Update LineageOS Revived on taoshan
 folder: update
 permalink: /devices/taoshan/update/
 device: taoshan

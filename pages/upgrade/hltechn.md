@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on hltechn
+title: Upgrade LineageOS Revived on hltechn
 folder: upgrade
 permalink: /devices/hltechn/upgrade/
 device: hltechn

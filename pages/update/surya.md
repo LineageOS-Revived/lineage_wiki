@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on surya
+title: Update LineageOS Revived on surya
 folder: update
 permalink: /devices/surya/update/
 device: surya

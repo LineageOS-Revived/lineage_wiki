@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on oriole
+title: Update LineageOS Revived on oriole
 folder: update
 permalink: /devices/oriole/update/
 device: oriole

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on flo
+title: Upgrade LineageOS Revived on flo
 folder: upgrade
 permalink: /devices/flo/upgrade/
 device: flo

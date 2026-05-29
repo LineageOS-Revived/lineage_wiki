@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on fajita
+title: Upgrade LineageOS Revived on fajita
 folder: upgrade
 permalink: /devices/fajita/upgrade/
 device: fajita

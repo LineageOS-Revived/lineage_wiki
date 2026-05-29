@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on berkeley
+title: Upgrade LineageOS Revived on berkeley
 folder: upgrade
 permalink: /devices/berkeley/upgrade/
 device: berkeley

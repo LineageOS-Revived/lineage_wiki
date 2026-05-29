@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on hotdogb
+title: Upgrade LineageOS Revived on hotdogb
 folder: upgrade
 permalink: /devices/hotdogb/upgrade/
 device: hotdogb

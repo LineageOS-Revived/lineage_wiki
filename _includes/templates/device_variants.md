@@ -1,5 +1,5 @@
 <br/>
-These devices all use the same LineageOS build. The vendor may have released the same device under multiple names,
+These devices all use the same LineageOS Revived build. The vendor may have released the same device under multiple names,
 or the maintainer may support multiple devices using the same code.<br/>
 <br/>
 Select your variant using the comparison below to make sure your guides are correct.

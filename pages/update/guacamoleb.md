@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on guacamoleb
+title: Update LineageOS Revived on guacamoleb
 folder: update
 permalink: /devices/guacamoleb/update/
 device: guacamoleb

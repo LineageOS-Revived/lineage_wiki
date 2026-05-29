@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on g710ulm
+title: Install LineageOS Revived on g710ulm
 folder: install
 permalink: /devices/g710ulm/install/
 device: g710ulm

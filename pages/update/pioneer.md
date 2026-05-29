@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on pioneer
+title: Update LineageOS Revived on pioneer
 folder: update
 permalink: /devices/pioneer/update/
 device: pioneer

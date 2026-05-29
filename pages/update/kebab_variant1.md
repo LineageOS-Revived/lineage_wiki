@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on kebab
+title: Update LineageOS Revived on kebab
 folder: update
 permalink: /devices/kebab/update/variant1/
 device: kebab_variant1

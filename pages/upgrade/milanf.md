@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on milanf
+title: Upgrade LineageOS Revived on milanf
 folder: upgrade
 permalink: /devices/milanf/upgrade/
 device: milanf

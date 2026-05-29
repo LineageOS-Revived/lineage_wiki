@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on mondrian
+title: Update LineageOS Revived on mondrian
 folder: update
 permalink: /devices/mondrian/update/variant2/
 device: mondrian_variant2

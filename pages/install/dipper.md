@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dipper
+title: Install LineageOS Revived on dipper
 folder: install
 permalink: /devices/dipper/install/
 device: dipper

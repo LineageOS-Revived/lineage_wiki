@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on harpia
+title: Update LineageOS Revived on harpia
 folder: update
 permalink: /devices/harpia/update/
 device: harpia

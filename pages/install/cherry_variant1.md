@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cherry
+title: Install LineageOS Revived on cherry
 folder: install
 permalink: /devices/cherry/install/variant1/
 device: cherry_variant1

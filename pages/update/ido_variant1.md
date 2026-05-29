@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on ido
+title: Update LineageOS Revived on ido
 folder: update
 permalink: /devices/ido/update/variant1/
 device: ido_variant1

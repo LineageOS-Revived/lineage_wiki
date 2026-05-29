@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on hiae
+title: Upgrade LineageOS Revived on hiae
 folder: upgrade
 permalink: /devices/hiae/upgrade/
 device: hiae

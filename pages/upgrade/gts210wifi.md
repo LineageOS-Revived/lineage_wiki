@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gts210wifi
+title: Upgrade LineageOS Revived on gts210wifi
 folder: upgrade
 permalink: /devices/gts210wifi/upgrade/
 device: gts210wifi

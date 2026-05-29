@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on peridot
+title: Install LineageOS Revived on peridot
 folder: install
 permalink: /devices/peridot/install/variant1/
 device: peridot_variant1

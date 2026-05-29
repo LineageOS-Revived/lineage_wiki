@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on gemini
+title: Update LineageOS Revived on gemini
 folder: update
 permalink: /devices/gemini/update/
 device: gemini

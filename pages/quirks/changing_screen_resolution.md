@@ -9,7 +9,7 @@ toc: false
 
 ## Changing screen resolution
 
-Prior to Linux 4.19, Android did not include a standardized method for changing screen resolutions. As a result, each vendor implemented the feature independently — often in fragmented and unsustainable ways, making the function difficult to support on this device while running LineageOS.
+Prior to Linux 4.19, Android did not include a standardized method for changing screen resolutions. As a result, each vendor implemented the feature independently — often in fragmented and unsustainable ways, making the function difficult to support on this device while running LineageOS Revived.
 
 ### Why is that?
 

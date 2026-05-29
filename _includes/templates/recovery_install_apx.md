@@ -8,13 +8,13 @@ Tegraflash is only available for Linux. It will also not run properly in a VM.
 
 ## Installing a custom recovery using `Tegraflash`
 
-1. Download a [flash package](https://download.lineageos.org/devices/{{ device.codename }}) for your device.
+1. Download a [flash package](https://download.lineage.rgbroms.top/devices/{{ device.codename }}) for your device.
 {% if device.flash_download_instructions %}
     * {{ device.flash_download_instructions }}
 {% else %}
     * It will be named `{{ device.flash_codename }}_flash_package.tar.xz`
 {% endif %}
-    {% include alerts/note.html content="If you are in need of flash packages for LineageOS 20.0 or older, you can find them [here](https://www.androidfilehost.com/?w=files&flid=328892)." %}
+    {% include alerts/note.html content="If you are in need of flash packages for LineageOS Revived 20.0 or older, you can find them [here](https://www.androidfilehost.com/?w=files&flid=328892)." %}
 
 2. Install `xz` and `python3`. To do so, run `sudo apt -y install xz-utils python3` (Debian based hosts) or `sudo dnf -y install xz-utils python3` (Red Hat based hosts).
 3. Run the following command in the folder which you downloaded the flash package to:
@@ -32,4 +32,4 @@ Tegraflash is only available for Linux. It will also not run properly in a VM.
 sudo ./flash.sh
 ```
     {% include alerts/note.html content="Please note this will require your user's sudo password, as the script requires direct hardware access, which requires root privledges." %}
-5. The script will flash the boot stack and boot directly to LineageOS Recovery. Now, please skip to the section labeled "[Installing LineageOS from recovery](https://wiki.lineageos.org/devices/{{ device.codename }}/install#installing-lineageos-from-recovery)":
+5. The script will flash the boot stack and boot directly to LineageOS Revived Recovery. Now, please skip to the section labeled "[Installing LineageOS Revived from recovery](https://wiki.lineageos.org/devices/{{ device.codename }}/install#installing-lineageos-from-recovery)":

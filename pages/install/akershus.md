@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on akershus
+title: Install LineageOS Revived on akershus
 folder: install
 permalink: /devices/akershus/install/
 device: akershus

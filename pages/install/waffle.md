@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on waffle
+title: Install LineageOS Revived on waffle
 folder: install
 permalink: /devices/waffle/install/
 device: waffle

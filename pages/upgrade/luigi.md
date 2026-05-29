@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on luigi
+title: Upgrade LineageOS Revived on luigi
 folder: upgrade
 permalink: /devices/luigi/upgrade/
 device: luigi

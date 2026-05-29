@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on charlotte
+title: Upgrade LineageOS Revived on charlotte
 folder: upgrade
 permalink: /devices/charlotte/upgrade/
 device: charlotte

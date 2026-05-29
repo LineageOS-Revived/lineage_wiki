@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on umi
+title: Install LineageOS Revived on umi
 folder: install
 permalink: /devices/umi/install/
 device: umi

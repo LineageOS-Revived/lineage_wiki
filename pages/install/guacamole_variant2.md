@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on guacamole
+title: Install LineageOS Revived on guacamole
 folder: install
 permalink: /devices/guacamole/install/variant2/
 device: guacamole_variant2

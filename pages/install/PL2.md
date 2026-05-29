@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on PL2
+title: Install LineageOS Revived on PL2
 folder: install
 permalink: /devices/PL2/install/
 device: PL2

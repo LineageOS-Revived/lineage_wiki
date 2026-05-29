@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on land
+title: Upgrade LineageOS Revived on land
 folder: upgrade
 permalink: /devices/land/upgrade/
 device: land

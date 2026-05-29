@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cherry
+title: Upgrade LineageOS Revived on cherry
 folder: upgrade
 permalink: /devices/cherry/upgrade/variant2/
 device: cherry_variant2

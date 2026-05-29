@@ -21,7 +21,7 @@ The preferred method of installing a custom recovery is through Download Mode{% 
     * [Windows](https://blob.lineageos.org/downloads/heimdall/Heimdall-Windows-v2.2.2-120625.zip){: .download}: Extract the Heimdall suite zip and take note of the new directory containing `heimdall.exe`. You can verify Heimdall is functioning by opening a Command Prompt or PowerShell in that directory and running `heimdall version`.
     * [Linux](https://blob.lineageos.org/downloads/heimdall/Heimdall-linux-v2.2.2-120625.zip){: .download}: Extract the Heimdall suite zip and take note of the new directory containing `heimdall`. Now copy `heimdall` into a directory in $PATH, a common one on most distros will be /usr/local/bin. For example `cp heimdall /usr/local/bin`. You can verify Heimdall is functioning by opening a Terminal and running `heimdall version`.
     * [macOS](https://blob.lineageos.org/downloads/heimdall/Heimdall-macOS-v2.2.2-120625.dmg){: .download}: Mount the Heimdall suite DMG. Now drag `heimdall` down into the `/usr/local/bin` symlink provided in the DMG. You can verify Heimdall is functioning by opening a Terminal and running `heimdall version`.
-    {% include alerts/note.html content="These Heimdall suite distributions were built by LineageOS Developers, as the Heimdall suite executables distributed on the official Heimdall website were outdated and the repo mostly abandoned. Modifications were made to make it build and function on modern OSes." %}
+    {% include alerts/note.html content="These Heimdall suite distributions were built by LineageOS Revived Developers, as the Heimdall suite executables distributed on the official Heimdall website were outdated and the repo mostly abandoned. Modifications were made to make it build and function on modern OSes." %}
 4. Power off the device, and boot it into download mode:
     * {{ device.download_boot }}
     * Now, click the button that the on screen instructions correlate to "Continue", and insert the USB cable into the device.
@@ -49,10 +49,10 @@ heimdall print-pit
     {% include alerts/tip.html content="Ensure you download the `.img` file and not the `.tar` or `.tar.md5` versions." %}
 {%- elsif device.maintainers != empty %}
 {%- assign is_lineage_recovery = true %}
-1. Download [Lineage Recovery](https://download.lineageos.org/devices/{{ custom_recovery_codename }}). Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
+1. Download [Lineage Recovery](https://download.lineage.rgbroms.top/devices/{{ custom_recovery_codename }}). Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
 {%- else %}
 {%- assign is_lineage_recovery = true %}
-1. [Build]({{ device | device_link: "build" | relative_url }}) a LineageOS installation package. The recovery will be built as part of it!
+1. [Build]({{ device | device_link: "build" | relative_url }}) a LineageOS Revived installation package. The recovery will be built as part of it!
 {%- endif %}
     {% include alerts/important.html content="Other recoveries may not work for installation or updates. We strongly recommend to use the one linked above!" %}
 2. Power off the device, and boot it into download mode:

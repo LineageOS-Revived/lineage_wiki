@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hotdog
+title: Install LineageOS Revived on hotdog
 folder: install
 permalink: /devices/hotdog/install/
 device: hotdog

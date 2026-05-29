@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on oscar
+title: Upgrade LineageOS Revived on oscar
 folder: upgrade
 permalink: /devices/oscar/upgrade/variant1/
 device: oscar_variant1

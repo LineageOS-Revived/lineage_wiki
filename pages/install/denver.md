@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on denver
+title: Install LineageOS Revived on denver
 folder: install
 permalink: /devices/denver/install/
 device: denver

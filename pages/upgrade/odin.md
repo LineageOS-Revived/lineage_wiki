@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on odin
+title: Upgrade LineageOS Revived on odin
 folder: upgrade
 permalink: /devices/odin/upgrade/
 device: odin

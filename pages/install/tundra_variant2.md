@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tundra
+title: Install LineageOS Revived on tundra
 folder: install
 permalink: /devices/tundra/install/variant2/
 device: tundra_variant2

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on pme
+title: Upgrade LineageOS Revived on pme
 folder: upgrade
 permalink: /devices/pme/upgrade/
 device: pme

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on lentislte
+title: Update LineageOS Revived on lentislte
 folder: update
 permalink: /devices/lentislte/update/
 device: lentislte

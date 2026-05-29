@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cebu
+title: Upgrade LineageOS Revived on cebu
 folder: upgrade
 permalink: /devices/cebu/upgrade/variant1/
 device: cebu_variant1

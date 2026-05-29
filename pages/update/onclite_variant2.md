@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on onclite
+title: Update LineageOS Revived on onclite
 folder: update
 permalink: /devices/onclite/update/variant2/
 device: onclite_variant2

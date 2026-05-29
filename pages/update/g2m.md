@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on g2m
+title: Update LineageOS Revived on g2m
 folder: update
 permalink: /devices/g2m/update/
 device: g2m

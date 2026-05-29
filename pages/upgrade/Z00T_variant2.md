@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on Z00T
+title: Upgrade LineageOS Revived on Z00T
 folder: upgrade
 permalink: /devices/Z00T/upgrade/variant2/
 device: Z00T_variant2

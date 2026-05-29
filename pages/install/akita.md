@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on akita
+title: Install LineageOS Revived on akita
 folder: install
 permalink: /devices/akita/install/
 device: akita

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on akari
+title: Update LineageOS Revived on akari
 folder: update
 permalink: /devices/akari/update/
 device: akari

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on alioth
+title: Upgrade LineageOS Revived on alioth
 folder: upgrade
 permalink: /devices/alioth/upgrade/
 device: alioth

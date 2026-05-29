@@ -4,8 +4,8 @@ title: Building and installing for libvirt QEMU virtual machine
 permalink: libvirt-qemu.html
 ---
 
-{% include alerts/warning.html content="The following `virtio_*` build targets are not officially supported and are maintained by individual LineageOS maintainers. Due to this, unlike Cuttlefish/Emulator/AVD which is guaranteed to function when built, `virtio_*` build targets carry no such guarantee." %}
-{% include alerts/warning.html content="None of the `virtio_*` build targets are built by LineageOS build servers, and no OTA updates will be delivered to builds of these targets. As such, you must build all images and update the builds manually." %}
+{% include alerts/warning.html content="The following `virtio_*` build targets are not officially supported and are maintained by individual LineageOS Revived maintainers. Due to this, unlike Cuttlefish/Emulator/AVD which is guaranteed to function when built, `virtio_*` build targets carry no such guarantee." %}
+{% include alerts/warning.html content="None of the `virtio_*` build targets are built by LineageOS Revived build servers, and no OTA updates will be delivered to builds of these targets. As such, you must build all images and update the builds manually." %}
 
 ## Known issues
 
@@ -16,15 +16,15 @@ Please note the following list of known issues with the `virtio_*` targets:
 
 ## Introduction
 
-This is a good option if you want to use LineageOS without a physical device, test Generic System Images (GSIs), or experiment with low-level Android components.
+This is a good option if you want to use LineageOS Revived without a physical device, test Generic System Images (GSIs), or experiment with low-level Android components.
 
 {% include alerts/tip.html content="For Android application development and debugging, [Emulator/AVD](emulator.html) is a better choice." %}
 
-These instructions will help you build a LineageOS image that is suitable to run in libvirt QEMU virtual machine.
+These instructions will help you build a LineageOS Revived image that is suitable to run in libvirt QEMU virtual machine.
 
 {% include templates/device_build_before_init.md %}
 
-### Initialize the LineageOS source repository
+### Initialize the LineageOS Revived source repository
 
 The following branches are currently supported for building image for libvirt QEMU virtual machine:
 
@@ -70,12 +70,12 @@ breakfast <Sub target>
 
 |   Main target    |      Sub target      |           Architecture           |    Type    | Available since |
 |------------------|----------------------|----------------------------------|------------|-----------------|
-| virtio_arm64only | virtio_arm64only_16k | ARM (64-bit only, 16KB pagesize) | PC         | LineageOS 22.0  |
-| virtio_arm64only | virtio_arm64only_go  | ARM (64-bit only)                | Android Go | LineageOS 21.0  |
-| virtio_x86_64    | virtio_x86_64_go     | x86 (64-bit only)                | Android Go | LineageOS 21.0  |
+| virtio_arm64only | virtio_arm64only_16k | ARM (64-bit only, 16KB pagesize) | PC         | LineageOS Revived 22.0  |
+| virtio_arm64only | virtio_arm64only_go  | ARM (64-bit only)                | Android Go | LineageOS Revived 21.0  |
+| virtio_x86_64    | virtio_x86_64_go     | x86 (64-bit only)                | Android Go | LineageOS Revived 21.0  |
 {: .table }
 
-{% include alerts/important.html content="Running one of the x86_64 targets require a CPU which supports SSE 4.2 instruction set, otherwise it will not boot. For LineageOS 22.1 and earlier, AVX instruction set is also required." %}
+{% include alerts/important.html content="Running one of the x86_64 targets require a CPU which supports SSE 4.2 instruction set, otherwise it will not boot. For LineageOS Revived 22.1 and earlier, AVX instruction set is also required." %}
 
 {% include alerts/important.html content="If you wish to run the virtual machine on ARMv9 devices (with hardware acceleration), you must select the `virtio_arm64only` target. The `virtio_arm64` target will not boot on these processor variants, as they don't support 32-bit mode." %}
 
@@ -204,9 +204,9 @@ On `Memory` tab, toggle `Enable shared memory`, and then click `Apply`.
 
 Use a tablet input device if you're using a touchscreen or controlling the virtual machine remotely.
 
-Tablet input devices are supported in all scenarios since LineageOS 22.
+Tablet input devices are supported in all scenarios since LineageOS Revived 22.
 With tablet input device, you can move the mouse cursor across the border without grabbing the mouse cursor.
-However, tablet input devices are unsupported in recovery mode in versions earlier than LineageOS 22.2.
+However, tablet input devices are unsupported in recovery mode in versions earlier than LineageOS Revived 22.2.
 
 {% include alerts/note.html content="Both EvTouch and VirtIO types of tablets are supported." %}
 
@@ -261,24 +261,24 @@ Sound card model `AC97` (which is the default) is recommended. Other models migh
 ### Create the new virtual machine
 Click `Begin Installation` in the top left corner, the installation process will proceed, and then the virtual machine will start for the first time.
 
-## Install LineageOS to the virtual machine
+## Install LineageOS Revived to the virtual machine
 
 The virtual machine should boot into the boot manager menu of the installation image.
 
-1. Select the first option, which is called something akin to `Install LineageOS` using arrow keys, and then press Enter.
-2. The virtual machine should enter LineageOS Recovery. You can select options using the arrow keys and enter it by pressing Enter.
+1. Select the first option, which is called something akin to `Install LineageOS Revived` using arrow keys, and then press Enter.
+2. The virtual machine should enter LineageOS Revived Recovery. You can select options using the arrow keys and enter it by pressing Enter.
 3. Select `Factory reset` > `Format data/factory reset` > `Format data`.
 4. Select `Apply update` > `Choose INSTALL` > Select `lineage-*-{{ site.time | date: "%Y%m%d" }}-UNOFFICIAL-<target>.zip`.
 
-Congratulations! You have installed LineageOS in a virtual machine.
+Congratulations! You have installed LineageOS Revived in a virtual machine.
 
-You can now select `Reboot system now` to boot into LineageOS.
+You can now select `Reboot system now` to boot into LineageOS Revived.
 
-## Run LineageOS inside the virtual machine
+## Run LineageOS Revived inside the virtual machine
 
-The virtual machine should enter the LineageOS boot menu.
+The virtual machine should enter the LineageOS Revived boot menu.
 
-Select the first option (which should be automatically selected by default) to boot LineageOS.
+Select the first option (which should be automatically selected by default) to boot LineageOS Revived.
 
 ## Run Generic System Images inside the virtual machine
 
@@ -303,7 +303,7 @@ Here we will utilize GSIs from the Android Open Source Project website as an exa
 2. Extract `system.img` from the downloaded archive.
 3. Add `system.img` as the third VirtIO disk.
 4. Boot the virtual machine into recovery mode, and perform a factory reset.
-5. Reboot to the boot menu, and select `Advanced options` > `Boot GSI from /dev/block/vdc with LineageOS * (Kernel version *)`.
+5. Reboot to the boot menu, and select `Advanced options` > `Boot GSI from /dev/block/vdc with LineageOS Revived * (Kernel version *)`.
 
 ### Flash GSI image to `system` logical partition
 
@@ -350,7 +350,7 @@ fastboot -s tcp:<IPv4 address that shown on menu header> [fastboot command...]
 
 ### GPU passthrough (for `virtio_x86_64` target)
 
-Since LineageOS 22.1, the `virtio_x86_64` target supports direct display on a monitor connected to a real GPU via GPU passthrough in normal boot mode.
+Since LineageOS Revived 22.1, the `virtio_x86_64` target supports direct display on a monitor connected to a real GPU via GPU passthrough in normal boot mode.
 
 Currently, only Intel GPUs (iGPU or dGPU) are supported.
 
@@ -361,7 +361,7 @@ Currently, only Intel GPUs (iGPU or dGPU) are supported.
 #### Additional build dependencies required for Intel Broadwell and later GPUs
 
 * Install the package `python3-ply` with this command: `python3 -m pip install ply`.
-* For versions earlier than LineageOS 23.0, provide Intel OpenCL C compiler executable at `prebuilts/intel-clc/intel_clc`.
+* For versions earlier than LineageOS Revived 23.0, provide Intel OpenCL C compiler executable at `prebuilts/intel-clc/intel_clc`.
 
 #### Add GPU to the virtual machine
 
@@ -380,7 +380,7 @@ If something that's related with graphics doesn't work in GPU passthrough mode, 
 
 #### ADB sideload
 
-ADB sideload (over Ethernet or VirtIO VSOCK) on these targets is supported since LineageOS 22.1.
+ADB sideload (over Ethernet or VirtIO VSOCK) on these targets is supported since LineageOS Revived 22.1.
 
 To establish the connection, refer to [ADB connection](#adb-connection).
 

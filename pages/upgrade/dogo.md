@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on dogo
+title: Upgrade LineageOS Revived on dogo
 folder: upgrade
 permalink: /devices/dogo/upgrade/
 device: dogo

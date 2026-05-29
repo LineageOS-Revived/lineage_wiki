@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on marble
+title: Install LineageOS Revived on marble
 folder: install
 permalink: /devices/marble/install/variant2/
 device: marble_variant2

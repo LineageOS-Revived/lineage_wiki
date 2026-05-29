@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on equuleus
+title: Update LineageOS Revived on equuleus
 folder: update
 permalink: /devices/equuleus/update/
 device: equuleus

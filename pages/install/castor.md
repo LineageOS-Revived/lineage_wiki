@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on castor
+title: Install LineageOS Revived on castor
 folder: install
 permalink: /devices/castor/install/
 device: castor

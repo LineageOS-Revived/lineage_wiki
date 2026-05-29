@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cmi
+title: Upgrade LineageOS Revived on cmi
 folder: upgrade
 permalink: /devices/cmi/upgrade/
 device: cmi

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on jflteatt
+title: Upgrade LineageOS Revived on jflteatt
 folder: upgrade
 permalink: /devices/jflteatt/upgrade/
 device: jflteatt

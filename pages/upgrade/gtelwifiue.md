@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gtelwifiue
+title: Upgrade LineageOS Revived on gtelwifiue
 folder: upgrade
 permalink: /devices/gtelwifiue/upgrade/
 device: gtelwifiue

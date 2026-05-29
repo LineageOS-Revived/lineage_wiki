@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on rhannah
+title: Install LineageOS Revived on rhannah
 folder: install
 permalink: /devices/rhannah/install/
 device: rhannah

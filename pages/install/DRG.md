@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on DRG
+title: Install LineageOS Revived on DRG
 folder: install
 permalink: /devices/DRG/install/
 device: DRG

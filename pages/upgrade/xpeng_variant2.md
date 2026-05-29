@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on xpeng
+title: Upgrade LineageOS Revived on xpeng
 folder: upgrade
 permalink: /devices/xpeng/upgrade/variant2/
 device: xpeng_variant2

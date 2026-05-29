@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on billie
+title: Upgrade LineageOS Revived on billie
 folder: upgrade
 permalink: /devices/billie/upgrade/
 device: billie

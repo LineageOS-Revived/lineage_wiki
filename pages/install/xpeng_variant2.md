@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on xpeng
+title: Install LineageOS Revived on xpeng
 folder: install
 permalink: /devices/xpeng/install/variant2/
 device: xpeng_variant2

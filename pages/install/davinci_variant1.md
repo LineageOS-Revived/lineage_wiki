@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on davinci
+title: Install LineageOS Revived on davinci
 folder: install
 permalink: /devices/davinci/install/variant1/
 device: davinci_variant1

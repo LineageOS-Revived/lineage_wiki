@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on xz2c
+title: Upgrade LineageOS Revived on xz2c
 folder: upgrade
 permalink: /devices/xz2c/upgrade/
 device: xz2c

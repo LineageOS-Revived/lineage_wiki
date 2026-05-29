@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on bronco
+title: Update LineageOS Revived on bronco
 folder: update
 permalink: /devices/bronco/update/
 device: bronco

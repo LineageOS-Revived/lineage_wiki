@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on odroidc4_tab
+title: Upgrade LineageOS Revived on odroidc4_tab
 folder: upgrade
 permalink: /devices/odroidc4_tab/upgrade/
 device: odroidc4_tab

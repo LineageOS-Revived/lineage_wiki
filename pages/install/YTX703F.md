@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on YTX703F
+title: Install LineageOS Revived on YTX703F
 folder: install
 permalink: /devices/YTX703F/install/
 device: YTX703F

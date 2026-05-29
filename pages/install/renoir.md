@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on renoir
+title: Install LineageOS Revived on renoir
 folder: install
 permalink: /devices/renoir/install/
 device: renoir

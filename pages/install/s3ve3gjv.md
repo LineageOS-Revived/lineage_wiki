@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on s3ve3gjv
+title: Install LineageOS Revived on s3ve3gjv
 folder: install
 permalink: /devices/s3ve3gjv/install/
 device: s3ve3gjv

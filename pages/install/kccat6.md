@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kccat6
+title: Install LineageOS Revived on kccat6
 folder: install
 permalink: /devices/kccat6/install/
 device: kccat6

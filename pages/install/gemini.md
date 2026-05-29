@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gemini
+title: Install LineageOS Revived on gemini
 folder: install
 permalink: /devices/gemini/install/
 device: gemini

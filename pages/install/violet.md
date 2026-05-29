@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on violet
+title: Install LineageOS Revived on violet
 folder: install
 permalink: /devices/violet/install/
 device: violet

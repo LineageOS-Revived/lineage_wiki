@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kugo
+title: Install LineageOS Revived on kugo
 folder: install
 permalink: /devices/kugo/install/
 device: kugo

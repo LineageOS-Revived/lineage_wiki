@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on ham
+title: Upgrade LineageOS Revived on ham
 folder: upgrade
 permalink: /devices/ham/upgrade/
 device: ham

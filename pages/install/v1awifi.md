@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on v1awifi
+title: Install LineageOS Revived on v1awifi
 folder: install
 permalink: /devices/v1awifi/install/
 device: v1awifi

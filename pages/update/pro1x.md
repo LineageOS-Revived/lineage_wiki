@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on pro1x
+title: Update LineageOS Revived on pro1x
 folder: update
 permalink: /devices/pro1x/update/
 device: pro1x

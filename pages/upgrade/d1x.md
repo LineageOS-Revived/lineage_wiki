@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on d1x
+title: Upgrade LineageOS Revived on d1x
 folder: upgrade
 permalink: /devices/d1x/upgrade/
 device: d1x

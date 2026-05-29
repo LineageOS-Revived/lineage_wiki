@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on guacamole
+title: Update LineageOS Revived on guacamole
 folder: update
 permalink: /devices/guacamole/update/variant1/
 device: guacamole_variant1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bale
+title: Install LineageOS Revived on bale
 folder: install
 permalink: /devices/bale/install/
 device: bale

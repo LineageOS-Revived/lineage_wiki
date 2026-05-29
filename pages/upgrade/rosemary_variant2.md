@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on rosemary
+title: Upgrade LineageOS Revived on rosemary
 folder: upgrade
 permalink: /devices/rosemary/upgrade/variant2/
 device: rosemary_variant2

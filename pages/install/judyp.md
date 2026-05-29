@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on judyp
+title: Install LineageOS Revived on judyp
 folder: install
 permalink: /devices/judyp/install/
 device: judyp

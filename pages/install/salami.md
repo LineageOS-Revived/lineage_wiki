@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on salami
+title: Install LineageOS Revived on salami
 folder: install
 permalink: /devices/salami/install/
 device: salami

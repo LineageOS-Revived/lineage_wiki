@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on vegetalte
+title: Upgrade LineageOS Revived on vegetalte
 folder: upgrade
 permalink: /devices/vegetalte/upgrade/variant2/
 device: vegetalte_variant2

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on giulia
+title: Install LineageOS Revived on giulia
 folder: install
 permalink: /devices/giulia/install/
 device: giulia

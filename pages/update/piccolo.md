@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on piccolo
+title: Update LineageOS Revived on piccolo
 folder: update
 permalink: /devices/piccolo/update/
 device: piccolo

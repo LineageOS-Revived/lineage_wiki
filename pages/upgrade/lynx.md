@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on lynx
+title: Upgrade LineageOS Revived on lynx
 folder: upgrade
 permalink: /devices/lynx/upgrade/
 device: lynx

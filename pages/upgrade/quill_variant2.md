@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on quill
+title: Upgrade LineageOS Revived on quill
 folder: upgrade
 permalink: /devices/quill/upgrade/variant2/
 device: quill_variant2

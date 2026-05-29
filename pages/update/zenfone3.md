@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on zenfone3
+title: Update LineageOS Revived on zenfone3
 folder: update
 permalink: /devices/zenfone3/update/
 device: zenfone3

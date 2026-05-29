@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on montana
+title: Upgrade LineageOS Revived on montana
 folder: upgrade
 permalink: /devices/montana/upgrade/
 device: montana

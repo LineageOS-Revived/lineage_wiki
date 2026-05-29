@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ether
+title: Install LineageOS Revived on ether
 folder: install
 permalink: /devices/ether/install/
 device: ether

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on karin
+title: Install LineageOS Revived on karin
 folder: install
 permalink: /devices/karin/install/
 device: karin

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on zl1
+title: Upgrade LineageOS Revived on zl1
 folder: upgrade
 permalink: /devices/zl1/upgrade/variant1/
 device: zl1_variant1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on onyx
+title: Update LineageOS Revived on onyx
 folder: update
 permalink: /devices/onyx/update/
 device: onyx

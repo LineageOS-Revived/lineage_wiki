@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sabrina
+title: Install LineageOS Revived on sabrina
 folder: install
 permalink: /devices/sabrina/install/
 device: sabrina

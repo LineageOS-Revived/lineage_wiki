@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on oneplus3
+title: Upgrade LineageOS Revived on oneplus3
 folder: upgrade
 permalink: /devices/oneplus3/upgrade/
 device: oneplus3

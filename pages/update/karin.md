@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on karin
+title: Update LineageOS Revived on karin
 folder: update
 permalink: /devices/karin/update/
 device: karin

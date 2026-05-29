@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gts4lv
+title: Upgrade LineageOS Revived on gts4lv
 folder: upgrade
 permalink: /devices/gts4lv/upgrade/
 device: gts4lv

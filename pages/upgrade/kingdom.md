@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on kingdom
+title: Upgrade LineageOS Revived on kingdom
 folder: upgrade
 permalink: /devices/kingdom/upgrade/
 device: kingdom

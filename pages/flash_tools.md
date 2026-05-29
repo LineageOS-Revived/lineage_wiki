@@ -4,7 +4,7 @@ title: Using Lineage Flash Tools
 permalink: web_flash_tools.html
 ---
 
-Lineage Flash Tools is a web based utility that allows you to run some select adb and fastboot commands to install LineageOS recovery and OTA packages without installing [adb and fastboot]({{ "adb_fastboot_guide" | relative_url }}) locally. Access it on our downloads page [here](https://download.lineageos.org/flash).
+Lineage Flash Tools is a web based utility that allows you to run some select adb and fastboot commands to install LineageOS Revived recovery and OTA packages without installing [adb and fastboot]({{ "adb_fastboot_guide" | relative_url }}) locally. Access it on our downloads page [here](https://download.lineage.rgbroms.top/flash).
 
 As installation steps vary by device, please refer to the device-specific installation instructions.
 
@@ -44,4 +44,4 @@ Sometimes Android devices have trouble communicating through certain USB ports, 
 
 ## Need help?
 
-You can find assistance with LineageOS on [our subreddit](https://reddit.com/r/LineageOS), on [our Discord server](https://discord.gg/gD6DMtf), or in [#LineageOS on Libera.Chat](https://web.libera.chat/gamja/?channel=#lineageos).
+You can find assistance with LineageOS Revived on [our subreddit](https://reddit.com/r/LineageOS Revived), on [our Discord server](https://discord.gg/gD6DMtf), or in [#LineageOS Revived on Libera.Chat](https://web.libera.chat/gamja/?channel=#lineageos).

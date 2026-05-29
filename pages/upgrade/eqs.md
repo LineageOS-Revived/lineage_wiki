@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on eqs
+title: Upgrade LineageOS Revived on eqs
 folder: upgrade
 permalink: /devices/eqs/upgrade/
 device: eqs

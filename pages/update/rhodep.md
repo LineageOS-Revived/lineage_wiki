@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on rhodep
+title: Update LineageOS Revived on rhodep
 folder: update
 permalink: /devices/rhodep/update/
 device: rhodep

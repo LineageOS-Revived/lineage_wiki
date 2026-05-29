@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on shark
+title: Install LineageOS Revived on shark
 folder: install
 permalink: /devices/shark/install/
 device: shark

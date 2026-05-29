@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on avatrn
+title: Install LineageOS Revived on avatrn
 folder: install
 permalink: /devices/avatrn/install/
 device: avatrn

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lmi
+title: Install LineageOS Revived on lmi
 folder: install
 permalink: /devices/lmi/install/variant1/
 device: lmi_variant1

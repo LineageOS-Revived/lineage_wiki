@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on coral
+title: Install LineageOS Revived on coral
 folder: install
 permalink: /devices/coral/install/
 device: coral

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on marlin
+title: Install LineageOS Revived on marlin
 folder: install
 permalink: /devices/marlin/install/
 device: marlin

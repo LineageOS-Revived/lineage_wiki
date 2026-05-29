@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: LineageOS contributors
+title: LineageOS Revived contributors
 permalink: contributors.html
 ---
 
@@ -9,7 +9,7 @@ permalink: contributors.html
 
 ## Maintainers
 
-### Head Developers (LineageOS Directors)
+### Head Developers (LineageOS Revived Directors)
 
 Head Developers have extensive knowledge of the OS, and are project leads. These people have responsibility over the direction of
 the project and are committed to improving it.
@@ -78,7 +78,7 @@ their feedback is held as backed by project leads and recognized as a distinct g
 
 {% for version in versions %}
 
-#### LineageOS {{ version }}
+#### LineageOS Revived {{ version }}
 
 <table class="table">
 <thead>
@@ -123,11 +123,11 @@ Infrastructure Managers are responsible for running the day-to-day infrastructur
 
 ## Translations
 
-We use [crowdin](https://crowdin.com/profile/LineageOS) as our translation system. To see how that works and how to contribute, click [here]({{ "how-to/translate" | relative_url }})
+We use [crowdin](https://crowdin.com/profile/LineageOS Revived) as our translation system. To see how that works and how to contribute, click [here]({{ "how-to/translate" | relative_url }})
 
 ### Translations managers
 
-Translation managers are responsible for the general project. They approve new memberships and are responsible for keeping LineageOS and the translations in sync.
+Translation managers are responsible for the general project. They approve new memberships and are responsible for keeping LineageOS Revived and the translations in sync.
 
 <table class="table">
 <thead>

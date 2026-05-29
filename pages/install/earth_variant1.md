@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on earth
+title: Install LineageOS Revived on earth
 folder: install
 permalink: /devices/earth/install/variant1/
 device: earth_variant1

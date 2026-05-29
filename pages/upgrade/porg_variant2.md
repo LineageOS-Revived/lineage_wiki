@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on porg
+title: Upgrade LineageOS Revived on porg
 folder: upgrade
 permalink: /devices/porg/upgrade/variant2/
 device: porg_variant2

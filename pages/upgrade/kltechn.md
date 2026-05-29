@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on kltechn
+title: Upgrade LineageOS Revived on kltechn
 folder: upgrade
 permalink: /devices/kltechn/upgrade/
 device: kltechn

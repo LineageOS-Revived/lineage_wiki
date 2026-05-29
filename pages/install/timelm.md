@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on timelm
+title: Install LineageOS Revived on timelm
 folder: install
 permalink: /devices/timelm/install/
 device: timelm

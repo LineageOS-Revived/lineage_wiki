@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on m8d
+title: Install LineageOS Revived on m8d
 folder: install
 permalink: /devices/m8d/install/
 device: m8d

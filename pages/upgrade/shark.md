@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on shark
+title: Upgrade LineageOS Revived on shark
 folder: upgrade
 permalink: /devices/shark/upgrade/
 device: shark

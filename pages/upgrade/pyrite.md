@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on pyrite
+title: Upgrade LineageOS Revived on pyrite
 folder: upgrade
 permalink: /devices/pyrite/upgrade/
 device: pyrite

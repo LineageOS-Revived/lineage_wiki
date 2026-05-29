@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bacon
+title: Install LineageOS Revived on bacon
 folder: install
 permalink: /devices/bacon/install/
 device: bacon

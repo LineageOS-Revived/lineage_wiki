@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on aston
+title: Update LineageOS Revived on aston
 folder: update
 permalink: /devices/aston/update/
 device: aston

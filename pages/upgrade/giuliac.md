@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on giuliac
+title: Upgrade LineageOS Revived on giuliac
 folder: upgrade
 permalink: /devices/giuliac/upgrade/
 device: giuliac

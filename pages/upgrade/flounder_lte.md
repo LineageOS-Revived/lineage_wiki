@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on flounder_lte
+title: Upgrade LineageOS Revived on flounder_lte
 folder: upgrade
 permalink: /devices/flounder_lte/upgrade/
 device: flounder_lte

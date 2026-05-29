@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on bramble
+title: Update LineageOS Revived on bramble
 folder: update
 permalink: /devices/bramble/update/
 device: bramble

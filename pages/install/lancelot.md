@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lancelot
+title: Install LineageOS Revived on lancelot
 folder: install
 permalink: /devices/lancelot/install/
 device: lancelot

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on hltetmo
+title: Upgrade LineageOS Revived on hltetmo
 folder: upgrade
 permalink: /devices/hltetmo/upgrade/
 device: hltetmo

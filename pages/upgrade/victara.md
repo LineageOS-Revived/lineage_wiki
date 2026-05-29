@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on victara
+title: Upgrade LineageOS Revived on victara
 folder: upgrade
 permalink: /devices/victara/upgrade/
 device: victara

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on d1x
+title: Install LineageOS Revived on d1x
 folder: install
 permalink: /devices/d1x/install/
 device: d1x

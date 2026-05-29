@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on radxa0
+title: Install LineageOS Revived on radxa0
 folder: install
 permalink: /devices/radxa0/install/
 device: radxa0

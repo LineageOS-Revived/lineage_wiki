@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on zerofltexx
+title: Update LineageOS Revived on zerofltexx
 folder: update
 permalink: /devices/zerofltexx/update/
 device: zerofltexx

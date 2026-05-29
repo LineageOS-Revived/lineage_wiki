@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on messi
+title: Update LineageOS Revived on messi
 folder: update
 permalink: /devices/messi/update/
 device: messi

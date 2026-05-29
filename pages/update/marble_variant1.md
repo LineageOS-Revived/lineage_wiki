@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on marble
+title: Update LineageOS Revived on marble
 folder: update
 permalink: /devices/marble/update/variant1/
 device: marble_variant1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gohan
+title: Upgrade LineageOS Revived on gohan
 folder: upgrade
 permalink: /devices/gohan/upgrade/
 device: gohan

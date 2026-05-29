@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on astonc
+title: Upgrade LineageOS Revived on astonc
 folder: upgrade
 permalink: /devices/astonc/upgrade/
 device: astonc

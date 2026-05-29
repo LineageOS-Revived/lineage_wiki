@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on seed
+title: Install LineageOS Revived on seed
 folder: install
 permalink: /devices/seed/install/
 device: seed

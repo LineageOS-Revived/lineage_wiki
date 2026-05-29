@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lemonadep
+title: Install LineageOS Revived on lemonadep
 folder: install
 permalink: /devices/lemonadep/install/variant1/
 device: lemonadep_variant1

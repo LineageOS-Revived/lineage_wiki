@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on judyln
+title: Install LineageOS Revived on judyln
 folder: install
 permalink: /devices/judyln/install/variant2/
 device: judyln_variant2

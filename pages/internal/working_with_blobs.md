@@ -10,11 +10,11 @@ tags:
 
 ## Working with proprietary blobs
 
-All devices should have a list of proprietary blobs in their device tree called ```proprietary-files.txt```.  This list is used to create the vendor repository for building the device by extracting blobs from a device running the latest copy of LineageOS and/or from a system dump.  Generally devices need only one list of blobs although you may encounter devices that have both ```proprietary-files.txt``` and ```proprietary-files-qc.txt``` (or more).  There is no need to split the files and the reason for the split is largely historical at this point.
+All devices should have a list of proprietary blobs in their device tree called ```proprietary-files.txt```.  This list is used to create the vendor repository for building the device by extracting blobs from a device running the latest copy of LineageOS Revived and/or from a system dump.  Generally devices need only one list of blobs although you may encounter devices that have both ```proprietary-files.txt``` and ```proprietary-files-qc.txt``` (or more).  There is no need to split the files and the reason for the split is largely historical at this point.
 
-For LineageOS 21 and below, copy the appropriate ```extract-files.sh``` and ```setup-makefiles.sh``` templates from ```tools/extract-utils/templates``` (```vendor/lineage/build/templates``` on LineageOS 17.1 and older) to your device tree and edit them to fill in the three required fields (device, vendor, and copyright year).
+For LineageOS Revived 21 and below, copy the appropriate ```extract-files.sh``` and ```setup-makefiles.sh``` templates from ```tools/extract-utils/templates``` (```vendor/lineage/build/templates``` on LineageOS Revived 17.1 and older) to your device tree and edit them to fill in the three required fields (device, vendor, and copyright year).
 
-Starting with LineageOS 22, you should use the Python extract utilities, which are faster and more versatile. Copy the ```extract-files.py``` and ```setup-makefiles.py``` templates from ```tools/extract-utils/templates``` to your device tree and edit them similarly to fill in the required fields.
+Starting with LineageOS Revived 22, you should use the Python extract utilities, which are faster and more versatile. Copy the ```extract-files.py``` and ```setup-makefiles.py``` templates from ```tools/extract-utils/templates``` to your device tree and edit them similarly to fill in the required fields.
 
 The contents of ```proprietary-files.txt``` is a list of blobs with optional comments (lines beginning with ```#```).  Each blob line is of the form:
 
@@ -36,7 +36,7 @@ libstock.so|sha1sum
 
 If the entry begins with a dash (```-```) then the vendor repository will declare a module that provides the blob.  This is needed if the blob is used to build another component in Android.  If the dash does not exist then the blob will simply be copied during the build.
 
-If the entry has a colon (```:```) with ```source``` and ```destination``` names, the extractor will check to see if the destination file exists.  If the destination file exists it will be extracted.  If not, the source filename will be extracted but saved to the destination name.  This allows you to pull either from a stock (unrenamed) dump or a LineageOS dump/device while renaming it.
+If the entry has a colon (```:```) with ```source``` and ```destination``` names, the extractor will check to see if the destination file exists.  If the destination file exists it will be extracted.  If not, the source filename will be extracted but saved to the destination name.  This allows you to pull either from a stock (unrenamed) dump or a LineageOS Revived dump/device while renaming it.
 
 The ```sha1sum```, is the checksum of the version of the blob that we want to "pin".  If the copy of that blob in the existing vendor tree does not match the ```sha1sum``` then it is ignored and extraction proceeds normally.  If it does match then it will be kept regardless of the contents of the device/dump you are pulling from.
 

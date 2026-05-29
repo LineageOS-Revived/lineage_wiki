@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on mayfly
+title: Upgrade LineageOS Revived on mayfly
 folder: upgrade
 permalink: /devices/mayfly/upgrade/
 device: mayfly

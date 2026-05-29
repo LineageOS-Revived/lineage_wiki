@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on messi
+title: Install LineageOS Revived on messi
 folder: install
 permalink: /devices/messi/install/
 device: messi

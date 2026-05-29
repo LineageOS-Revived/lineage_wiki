@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on twolip
+title: Update LineageOS Revived on twolip
 folder: update
 permalink: /devices/twolip/update/
 device: twolip

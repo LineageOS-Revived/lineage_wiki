@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mh2lm
+title: Install LineageOS Revived on mh2lm
 folder: install
 permalink: /devices/mh2lm/install/variant3/
 device: mh2lm_variant3

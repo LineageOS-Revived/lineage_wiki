@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on tsubasa
+title: Update LineageOS Revived on tsubasa
 folder: update
 permalink: /devices/tsubasa/update/
 device: tsubasa

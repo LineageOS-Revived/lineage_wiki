@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lettuce
+title: Install LineageOS Revived on lettuce
 folder: install
 permalink: /devices/lettuce/install/
 device: lettuce

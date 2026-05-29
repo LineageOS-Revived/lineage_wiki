@@ -17,7 +17,7 @@ This device does not have more than one version so far, therefore we can't provi
 ## Basic requirements
 
 1. Read through the instructions at least once before actually following them, so as to avoid any problems due to any missed steps!
-2. You actually want to upgrade your device to the newest version - if you wish to downgrade to an earlier version of LineageOS, follow your [device's]({{ device | device_link: "install" | relative_url }}) instructions for installing LineageOS the first time.
+2. You actually want to upgrade your device to the newest version - if you wish to downgrade to an earlier version of LineageOS Revived, follow your [device's]({{ device | device_link: "install" | relative_url }}) instructions for installing LineageOS Revived the first time.
 
 {%- if device.quirks %}
 {%- capture link %}{{ device | device_link | absolute_url | append: "#known+quirks" }}{% endcapture %}
@@ -37,7 +37,7 @@ This device does not have more than one version so far, therefore we can't provi
 {% assign userspace_architecture = device.architecture %}
 {%- endif %}
 
-## Manually upgrading LineageOS
+## Manually upgrading LineageOS Revived
 
 {%- include snippets/format_on_upgrade.md %}
 
@@ -48,7 +48,7 @@ This device does not have more than one version so far, therefore we can't provi
 {%- elsif device.uses_twrp %}
 1. Verify your device is using the latest [TWRP](https://dl.twrp.me/{{ custom_recovery_codename }}). Simply download the latest recovery file, named something like `twrp-x.x.x-x-{{ custom_recovery_codename }}.img`.
 {%- else %}
-1. Verify your device is using the latest [Lineage Recovery](https://download.lineageos.org/devices/{{ custom_recovery_codename }}). Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
+1. Verify your device is using the latest [Lineage Recovery](https://download.lineage.rgbroms.top/devices/{{ custom_recovery_codename }}). Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
 {%- endif %}
 Follow your [device's installation guide]({{ device | device_link: "install" | relative_url }}) to see how you can update your recovery image.
     {% include alerts/important.html content="These instructions may not work if you choose to use a different recovery!" %}
@@ -58,19 +58,19 @@ Follow your [device's installation guide]({{ device | device_link: "install" | r
 {%- for version in device.versions %}
 {%- if version < 17.1 %}
 {%- capture adbRoot -%}
-3. Additionally if you are on LineageOS 16.0 or below, open Settings, then "System", then "Developer Options", then select "Root Access Options", and finally "ADB Only". Now, run `adb -d root`
+3. Additionally if you are on LineageOS Revived 16.0 or below, open Settings, then "System", then "Developer Options", then select "Root Access Options", and finally "ADB Only". Now, run `adb -d root`
 {%- endcapture -%}
 {%- break %}
 {%- endif %}
 {%- endfor %}
 
-The updater app does not support upgrades from one version of LineageOS to another, and will block installation to any update for a different version. Upgrading manually requires similar steps to installing LineageOS for the first time.
+The updater app does not support upgrades from one version of LineageOS Revived to another, and will block installation to any update for a different version. Upgrading manually requires similar steps to installing LineageOS Revived for the first time.
 
 {{ recovery_update }}
 {%- if device.maintainers != empty %}
-1. Download the [LineageOS zip file](https://download.lineageos.org/devices/{{ device.codename }}) that you would like to install or [build]({{ device | device_link: "build" | relative_url }}) the package yourself.
+1. Download the [LineageOS Revived zip file](https://download.lineage.rgbroms.top/devices/{{ device.codename }}) that you would like to install or [build]({{ device | device_link: "build" | relative_url }}) the package yourself.
 {%- else %}
-1. [Build]({{ device | device_link: "build" | relative_url }}) a LineageOS install package.
+1. [Build]({{ device | device_link: "build" | relative_url }}) a LineageOS Revived install package.
 {%- endif %}
 2. If you are currently using (or now want to use) an application package add-on such as [Google Apps]({{ "gapps" | relative_url }}), you have the following options:
     - keep using them: Download the appropriate version [now]({{ "gapps" | relative_url }}) (use the `{{ userspace_architecture }}` architecture)
@@ -107,14 +107,14 @@ The updater app does not support upgrades from one version of LineageOS to anoth
     fastboot wipe-super --slot=all /path/to/super_empty.img
     ```
     {% capture upgrade_note %}
-    This process only needs to be performed if you are upgrading from LineageOS versions **older than {{ device.is_ab_rdap_version }}** that still utilize the legacy partition layout.
+    This process only needs to be performed if you are upgrading from LineageOS Revived versions **older than {{ device.is_ab_rdap_version }}** that still utilize the legacy partition layout.
     {% endcapture %}
     {% include alerts/note.html content=upgrade_note %}
     {% capture content -%}
     If you get the following error: `fastboot: usage: unknown command wipe-super`, make sure [ADB and fastboot are updated to the latest version]({{ "adb_fastboot_guide.html" | relative_url }}). You need fastboot version 28.0.2 or greater.
     {%- endcapture %}
     {%- include alerts/note.html content=content %}
-7. Update to the latest [Lineage Recovery](https://download.lineageos.org/devices/{{ device.codename }}) image. Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
+7. Update to the latest [Lineage Recovery](https://download.lineage.rgbroms.top/devices/{{ device.codename }}) image. Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
 Follow your [device's installation guide]({{ device | device_link: "/install" | relative_url }}) to upgrade your recovery image.
 8. While you are in bootloader mode, run this command to enter recovery mode:
     ```
@@ -122,7 +122,7 @@ Follow your [device's installation guide]({{ device | device_link: "/install" | 
     ```
     Or by performing the following:
     * {{ device.recovery_boot }}
-9. Once you are in LineageOS recovery, select “Apply update”, then “Apply from ADB” to put the device into sideload mode.
+9. Once you are in LineageOS Revived recovery, select “Apply update”, then “Apply from ADB” to put the device into sideload mode.
 {%- else %}
 4. Run:
     ```
@@ -130,7 +130,7 @@ Follow your [device's installation guide]({{ device | device_link: "/install" | 
     ```
     {% include alerts/important.html content="The device may reboot to a blank black screen, fear not, this is a known bug on some recoveries, proceed with the instructions." %}
 {%- endif %}
-5. Run (inserting the path to your LineageOS package):
+5. Run (inserting the path to your LineageOS Revived package):
     ```
     adb -d sideload /path/to/zip
     ```
@@ -179,10 +179,5 @@ Follow your [device's installation guide]({{ device | device_link: "/install" | 
 {%- if device.custom_recovery_link or device.uses_twrp %}
 {% include alerts/specific/warning_recovery_app.html %}
 {%- endif %}
-
-## Get assistance
-
-After you've double checked that you followed the steps precisely, didn't skip any and still have questions or got stuck, feel free to ask on [our subreddit](https://reddit.com/r/LineageOS), on [our Discord server](https://discord.gg/gD6DMtf), or in
-[#LineageOS on Libera.Chat](https://web.libera.chat/gamja/?channel=#lineageos).
 
 {% endif %}

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on guam
+title: Upgrade LineageOS Revived on guam
 folder: upgrade
 permalink: /devices/guam/upgrade/
 device: guam

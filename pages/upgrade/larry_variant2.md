@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on larry
+title: Upgrade LineageOS Revived on larry
 folder: upgrade
 permalink: /devices/larry/upgrade/variant2/
 device: larry_variant2

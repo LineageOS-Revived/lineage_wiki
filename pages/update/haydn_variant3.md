@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on haydn
+title: Update LineageOS Revived on haydn
 folder: update
 permalink: /devices/haydn/update/variant3/
 device: haydn_variant3

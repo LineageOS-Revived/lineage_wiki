@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on clark
+title: Upgrade LineageOS Revived on clark
 folder: upgrade
 permalink: /devices/clark/upgrade/variant1/
 device: clark_variant1

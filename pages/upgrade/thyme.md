@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on thyme
+title: Upgrade LineageOS Revived on thyme
 folder: upgrade
 permalink: /devices/thyme/upgrade/
 device: thyme

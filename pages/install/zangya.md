@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on zangya
+title: Install LineageOS Revived on zangya
 folder: install
 permalink: /devices/zangya/install/
 device: zangya

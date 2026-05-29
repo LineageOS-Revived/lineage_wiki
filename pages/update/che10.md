@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on che10
+title: Update LineageOS Revived on che10
 folder: update
 permalink: /devices/che10/update/
 device: che10

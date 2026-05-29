@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on flounder
+title: Install LineageOS Revived on flounder
 folder: install
 permalink: /devices/flounder/install/
 device: flounder

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on tangorpro
+title: Update LineageOS Revived on tangorpro
 folder: update
 permalink: /devices/tangorpro/update/
 device: tangorpro

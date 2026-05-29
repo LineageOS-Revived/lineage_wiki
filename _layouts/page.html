@@ -29,11 +29,11 @@ layout: default
     <h1 class="post-title-main">Select your {{ page.device }} variant</h1>
   {%- elsif action %}
     {%- if action == "build" %}
-      {%- assign firstLine = action | capitalize | append: " LineageOS for" %}
+      {%- assign firstLine = action | capitalize | append: " LineageOS Revived for" %}
     {%- elsif action == "fw_update" %}
       {%- assign firstLine = "Update firmware on" %}
     {%- else %}
-      {%- assign firstLine = action | capitalize | append: " LineageOS on" %}
+      {%- assign firstLine = action | capitalize | append: " LineageOS Revived on" %}
     {%- endif %}
     <h1 class="post-title-main">{{ firstLine }}<br/>
     {{ device.vendor }} {{ device.name }}</h1>

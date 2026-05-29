@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on falcon
+title: Upgrade LineageOS Revived on falcon
 folder: upgrade
 permalink: /devices/falcon/upgrade/
 device: falcon

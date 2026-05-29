@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on rhodep
+title: Install LineageOS Revived on rhodep
 folder: install
 permalink: /devices/rhodep/install/
 device: rhodep

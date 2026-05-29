@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on FP5
+title: Install LineageOS Revived on FP5
 folder: install
 permalink: /devices/FP5/install/
 device: FP5

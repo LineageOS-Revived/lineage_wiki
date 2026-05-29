@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on thor
+title: Update LineageOS Revived on thor
 folder: update
 permalink: /devices/thor/update/
 device: thor

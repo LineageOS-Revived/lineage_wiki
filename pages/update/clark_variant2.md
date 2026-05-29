@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on clark
+title: Update LineageOS Revived on clark
 folder: update
 permalink: /devices/clark/update/variant2/
 device: clark_variant2

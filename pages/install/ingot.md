@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ingot
+title: Install LineageOS Revived on ingot
 folder: install
 permalink: /devices/ingot/install/
 device: ingot

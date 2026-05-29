@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on serrano3gxx
+title: Upgrade LineageOS Revived on serrano3gxx
 folder: upgrade
 permalink: /devices/serrano3gxx/upgrade/
 device: serrano3gxx

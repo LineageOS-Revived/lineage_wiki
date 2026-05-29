@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on wayne
+title: Install LineageOS Revived on wayne
 folder: install
 permalink: /devices/wayne/install/
 device: wayne

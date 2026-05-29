@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on diting
+title: Install LineageOS Revived on diting
 folder: install
 permalink: /devices/diting/install/variant2/
 device: diting_variant2

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on betalm
+title: Upgrade LineageOS Revived on betalm
 folder: upgrade
 permalink: /devices/betalm/upgrade/
 device: betalm

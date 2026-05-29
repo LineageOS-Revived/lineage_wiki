@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on yuga
+title: Upgrade LineageOS Revived on yuga
 folder: upgrade
 permalink: /devices/yuga/upgrade/
 device: yuga

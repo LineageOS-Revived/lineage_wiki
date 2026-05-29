@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on beckham
+title: Update LineageOS Revived on beckham
 folder: update
 permalink: /devices/beckham/update/
 device: beckham

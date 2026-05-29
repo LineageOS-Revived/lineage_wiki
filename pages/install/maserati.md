@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on maserati
+title: Install LineageOS Revived on maserati
 folder: install
 permalink: /devices/maserati/install/
 device: maserati

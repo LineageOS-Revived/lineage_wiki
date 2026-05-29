@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on polaris
+title: Install LineageOS Revived on polaris
 folder: install
 permalink: /devices/polaris/install/
 device: polaris

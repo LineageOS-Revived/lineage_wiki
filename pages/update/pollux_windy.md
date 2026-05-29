@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on pollux_windy
+title: Update LineageOS Revived on pollux_windy
 folder: update
 permalink: /devices/pollux_windy/update/
 device: pollux_windy

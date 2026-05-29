@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on dragon
+title: Upgrade LineageOS Revived on dragon
 folder: upgrade
 permalink: /devices/dragon/upgrade/
 device: dragon

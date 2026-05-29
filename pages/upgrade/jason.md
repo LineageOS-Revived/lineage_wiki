@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on jason
+title: Upgrade LineageOS Revived on jason
 folder: upgrade
 permalink: /devices/jason/upgrade/
 device: jason

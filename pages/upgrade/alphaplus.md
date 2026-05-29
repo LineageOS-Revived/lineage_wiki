@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on alphaplus
+title: Upgrade LineageOS Revived on alphaplus
 folder: upgrade
 permalink: /devices/alphaplus/upgrade/
 device: alphaplus

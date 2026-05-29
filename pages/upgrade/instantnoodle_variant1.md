@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on instantnoodle
+title: Upgrade LineageOS Revived on instantnoodle
 folder: upgrade
 permalink: /devices/instantnoodle/upgrade/variant1/
 device: instantnoodle_variant1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on mdarcy
+title: Update LineageOS Revived on mdarcy
 folder: update
 permalink: /devices/mdarcy/update/
 device: mdarcy

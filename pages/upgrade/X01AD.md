@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on X01AD
+title: Upgrade LineageOS Revived on X01AD
 folder: upgrade
 permalink: /devices/X01AD/upgrade/
 device: X01AD

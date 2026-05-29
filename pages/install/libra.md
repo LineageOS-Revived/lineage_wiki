@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on libra
+title: Install LineageOS Revived on libra
 folder: install
 permalink: /devices/libra/install/
 device: libra

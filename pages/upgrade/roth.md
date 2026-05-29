@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on roth
+title: Upgrade LineageOS Revived on roth
 folder: upgrade
 permalink: /devices/roth/upgrade/
 device: roth

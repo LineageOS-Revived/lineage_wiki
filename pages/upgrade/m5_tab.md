@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on m5_tab
+title: Upgrade LineageOS Revived on m5_tab
 folder: upgrade
 permalink: /devices/m5_tab/upgrade/
 device: m5_tab

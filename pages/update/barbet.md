@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on barbet
+title: Update LineageOS Revived on barbet
 folder: update
 permalink: /devices/barbet/update/
 device: barbet

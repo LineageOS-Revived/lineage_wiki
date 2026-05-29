@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tissot
+title: Install LineageOS Revived on tissot
 folder: install
 permalink: /devices/tissot/install/
 device: tissot

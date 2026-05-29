@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on lavender
+title: Update LineageOS Revived on lavender
 folder: update
 permalink: /devices/lavender/update/
 device: lavender

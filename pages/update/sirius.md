@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on sirius
+title: Update LineageOS Revived on sirius
 folder: update
 permalink: /devices/sirius/update/
 device: sirius

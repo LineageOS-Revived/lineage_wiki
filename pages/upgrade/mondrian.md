@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on mondrian
+title: Upgrade LineageOS Revived on mondrian
 folder: upgrade
 permalink: /devices/mondrian/upgrade/
 device: mondrian

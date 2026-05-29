@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on chagallwifi
+title: Install LineageOS Revived on chagallwifi
 folder: install
 permalink: /devices/chagallwifi/install/
 device: chagallwifi

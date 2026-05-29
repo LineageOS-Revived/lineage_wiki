@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lentislte
+title: Install LineageOS Revived on lentislte
 folder: install
 permalink: /devices/lentislte/install/
 device: lentislte

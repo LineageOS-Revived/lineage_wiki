@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on liber
+title: Upgrade LineageOS Revived on liber
 folder: upgrade
 permalink: /devices/liber/upgrade/variant1/
 device: liber_variant1

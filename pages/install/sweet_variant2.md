@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sweet
+title: Install LineageOS Revived on sweet
 folder: install
 permalink: /devices/sweet/install/variant2/
 device: sweet_variant2

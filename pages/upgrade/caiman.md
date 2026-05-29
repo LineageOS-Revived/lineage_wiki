@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on caiman
+title: Upgrade LineageOS Revived on caiman
 folder: upgrade
 permalink: /devices/caiman/upgrade/
 device: caiman

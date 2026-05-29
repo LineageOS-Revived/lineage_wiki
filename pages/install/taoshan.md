@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on taoshan
+title: Install LineageOS Revived on taoshan
 folder: install
 permalink: /devices/taoshan/install/
 device: taoshan

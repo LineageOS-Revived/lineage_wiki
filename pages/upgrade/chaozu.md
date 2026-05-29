@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on chaozu
+title: Upgrade LineageOS Revived on chaozu
 folder: upgrade
 permalink: /devices/chaozu/upgrade/
 device: chaozu

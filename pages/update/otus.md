@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on otus
+title: Update LineageOS Revived on otus
 folder: update
 permalink: /devices/otus/update/
 device: otus

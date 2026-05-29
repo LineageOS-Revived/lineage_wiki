@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on channel
+title: Upgrade LineageOS Revived on channel
 folder: upgrade
 permalink: /devices/channel/upgrade/
 device: channel

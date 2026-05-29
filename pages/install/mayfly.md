@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mayfly
+title: Install LineageOS Revived on mayfly
 folder: install
 permalink: /devices/mayfly/install/
 device: mayfly

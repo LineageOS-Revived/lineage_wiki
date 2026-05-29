@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on bardockpro
+title: Update LineageOS Revived on bardockpro
 folder: update
 permalink: /devices/bardockpro/update/
 device: bardockpro

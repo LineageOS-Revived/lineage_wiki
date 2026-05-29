@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on aura
+title: Install LineageOS Revived on aura
 folder: install
 permalink: /devices/aura/install/
 device: aura

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on guacamoleb
+title: Upgrade LineageOS Revived on guacamoleb
 folder: upgrade
 permalink: /devices/guacamoleb/upgrade/
 device: guacamoleb

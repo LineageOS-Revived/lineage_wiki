@@ -15,13 +15,13 @@ As of Q4-2024, the following restrictions apply to the unlock process:
 
 Please note that once you have been granted unlock access, you **must** follow the instructions below and unlock your device within 7 days. Each application is valid for a single device only and cannot be transferred to any other device. If your application is declined for any reason, you can resubmit until it is accepted.
 
-LineageOS is not affiliated with Realme, nor will you find any support with filling out these applications in our community. Only proceed once you have followed all required steps to unlock the bootloader.
+LineageOS Revived is not affiliated with Realme, nor will you find any support with filling out these applications in our community. Only proceed once you have followed all required steps to unlock the bootloader.
 
 ## Unlocking the bootloader
 
 {% include alerts/note.html content="The steps below only need to be done once per device." %}
 {% include alerts/warning.html content="Unlocking the bootloader will erase all data on your device!
-Before proceeding, ensure the data you would like to retain is backed up to your PC and/or your Google account, or equivalent. Please note that OEM backup solutions like Samsung and Motorola backup may not be accessible from LineageOS once installed." %}
+Before proceeding, ensure the data you would like to retain is backed up to your PC and/or your Google account, or equivalent. Please note that OEM backup solutions like Samsung and Motorola backup may not be accessible from LineageOS Revived once installed." %}
 
 1. Create a HeyTap account on [HeyTap's website](https://id.heytap.com/v3/auth/register).
 2. Enable Developer Options by pressing the "Build Number" option at least 7 times, in the "Settings" app within the "About" menu

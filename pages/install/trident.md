@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on trident
+title: Install LineageOS Revived on trident
 folder: install
 permalink: /devices/trident/install/
 device: trident

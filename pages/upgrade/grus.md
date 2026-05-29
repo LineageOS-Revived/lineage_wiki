@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on grus
+title: Upgrade LineageOS Revived on grus
 folder: upgrade
 permalink: /devices/grus/upgrade/
 device: grus

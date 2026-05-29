@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on kane
+title: Upgrade LineageOS Revived on kane
 folder: upgrade
 permalink: /devices/kane/upgrade/variant1/
 device: kane_variant1

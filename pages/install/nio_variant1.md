@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nio
+title: Install LineageOS Revived on nio
 folder: install
 permalink: /devices/nio/install/variant1/
 device: nio_variant1

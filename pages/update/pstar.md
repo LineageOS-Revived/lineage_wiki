@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on pstar
+title: Update LineageOS Revived on pstar
 folder: update
 permalink: /devices/pstar/update/
 device: pstar

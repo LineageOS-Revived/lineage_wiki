@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on titan
+title: Update LineageOS Revived on titan
 folder: update
 permalink: /devices/titan/update/
 device: titan

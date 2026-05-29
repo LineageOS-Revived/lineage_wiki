@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on nicki
+title: Upgrade LineageOS Revived on nicki
 folder: upgrade
 permalink: /devices/nicki/upgrade/
 device: nicki

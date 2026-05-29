@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on pyxis
+title: Install LineageOS Revived on pyxis
 folder: install
 permalink: /devices/pyxis/install/variant1/
 device: pyxis_variant1

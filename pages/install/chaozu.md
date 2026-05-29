@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on chaozu
+title: Install LineageOS Revived on chaozu
 folder: install
 permalink: /devices/chaozu/install/
 device: chaozu

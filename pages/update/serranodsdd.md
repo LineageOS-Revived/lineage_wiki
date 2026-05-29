@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on serranodsdd
+title: Update LineageOS Revived on serranodsdd
 folder: update
 permalink: /devices/serranodsdd/update/
 device: serranodsdd

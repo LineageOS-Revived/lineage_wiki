@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on peach
+title: Update LineageOS Revived on peach
 folder: update
 permalink: /devices/peach/update/
 device: peach

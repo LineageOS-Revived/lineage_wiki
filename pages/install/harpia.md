@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on harpia
+title: Install LineageOS Revived on harpia
 folder: install
 permalink: /devices/harpia/install/
 device: harpia

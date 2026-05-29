@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on casuarina
+title: Install LineageOS Revived on casuarina
 folder: install
 permalink: /devices/casuarina/install/variant2/
 device: casuarina_variant2

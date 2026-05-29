@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on mint
+title: Upgrade LineageOS Revived on mint
 folder: upgrade
 permalink: /devices/mint/upgrade/
 device: mint

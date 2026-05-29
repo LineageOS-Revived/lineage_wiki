@@ -17,7 +17,7 @@ In some cases it might be required to get adb access to your device without plug
 otherwise any command used after connection won't get through to the correct device" %}
 
 
-## For your mobile device running LineageOS 18.1+
+## For your mobile device running LineageOS Revived 18.1+
 
 ### On your device
 
@@ -41,7 +41,7 @@ Additionally you will get a notification on your device.
 {% include alerts/note.html content="This method is supported natively since Android 11." %}
 
 
-## For your Android TV device running LineageOS 16.0+, or mobile device running LineageOS 17.1 or lower
+## For your Android TV device running LineageOS Revived 16.0+, or mobile device running LineageOS Revived 17.1 or lower
 
 ### On your device
 

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cheryl
+title: Upgrade LineageOS Revived on cheryl
 folder: upgrade
 permalink: /devices/cheryl/upgrade/
 device: cheryl

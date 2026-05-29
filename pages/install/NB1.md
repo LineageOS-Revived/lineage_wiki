@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on NB1
+title: Install LineageOS Revived on NB1
 folder: install
 permalink: /devices/NB1/install/
 device: NB1

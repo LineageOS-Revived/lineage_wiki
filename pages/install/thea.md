@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on thea
+title: Install LineageOS Revived on thea
 folder: install
 permalink: /devices/thea/install/
 device: thea

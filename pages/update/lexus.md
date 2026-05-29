@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on lexus
+title: Update LineageOS Revived on lexus
 folder: update
 permalink: /devices/lexus/update/
 device: lexus

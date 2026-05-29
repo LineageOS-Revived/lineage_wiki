@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on FP4
+title: Upgrade LineageOS Revived on FP4
 folder: upgrade
 permalink: /devices/FP4/upgrade/
 device: FP4

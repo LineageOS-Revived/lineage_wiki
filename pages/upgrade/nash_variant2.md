@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on nash
+title: Upgrade LineageOS Revived on nash
 folder: upgrade
 permalink: /devices/nash/upgrade/variant2/
 device: nash_variant2

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on figo
+title: Upgrade LineageOS Revived on figo
 folder: upgrade
 permalink: /devices/figo/upgrade/
 device: figo

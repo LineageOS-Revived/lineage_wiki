@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on mako
+title: Update LineageOS Revived on mako
 folder: update
 permalink: /devices/mako/update/
 device: mako

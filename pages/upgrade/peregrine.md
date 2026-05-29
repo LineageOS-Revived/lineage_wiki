@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on peregrine
+title: Upgrade LineageOS Revived on peregrine
 folder: upgrade
 permalink: /devices/peregrine/upgrade/
 device: peregrine

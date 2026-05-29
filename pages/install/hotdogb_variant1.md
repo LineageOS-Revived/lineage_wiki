@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hotdogb
+title: Install LineageOS Revived on hotdogb
 folder: install
 permalink: /devices/hotdogb/install/variant1/
 device: hotdogb_variant1

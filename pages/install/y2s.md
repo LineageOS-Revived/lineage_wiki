@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on y2s
+title: Install LineageOS Revived on y2s
 folder: install
 permalink: /devices/y2s/install/
 device: y2s

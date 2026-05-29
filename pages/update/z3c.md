@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on z3c
+title: Update LineageOS Revived on z3c
 folder: update
 permalink: /devices/z3c/update/
 device: z3c

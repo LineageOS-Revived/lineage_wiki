@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on jactivelte
+title: Update LineageOS Revived on jactivelte
 folder: update
 permalink: /devices/jactivelte/update/
 device: jactivelte

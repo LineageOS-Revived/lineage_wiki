@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dumpling
+title: Install LineageOS Revived on dumpling
 folder: install
 permalink: /devices/dumpling/install/
 device: dumpling

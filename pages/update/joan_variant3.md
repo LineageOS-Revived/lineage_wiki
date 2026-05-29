@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on joan
+title: Update LineageOS Revived on joan
 folder: update
 permalink: /devices/joan/update/variant3/
 device: joan_variant3

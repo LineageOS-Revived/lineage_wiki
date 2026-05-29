@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on ghost
+title: Upgrade LineageOS Revived on ghost
 folder: upgrade
 permalink: /devices/ghost/upgrade/
 device: ghost

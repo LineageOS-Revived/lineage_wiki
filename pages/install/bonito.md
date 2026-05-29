@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bonito
+title: Install LineageOS Revived on bonito
 folder: install
 permalink: /devices/bonito/install/
 device: bonito

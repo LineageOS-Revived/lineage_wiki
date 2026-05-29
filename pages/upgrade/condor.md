@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on condor
+title: Upgrade LineageOS Revived on condor
 folder: upgrade
 permalink: /devices/condor/upgrade/
 device: condor

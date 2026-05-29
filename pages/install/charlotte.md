@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on charlotte
+title: Install LineageOS Revived on charlotte
 folder: install
 permalink: /devices/charlotte/install/
 device: charlotte

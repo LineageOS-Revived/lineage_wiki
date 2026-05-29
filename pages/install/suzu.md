@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on suzu
+title: Install LineageOS Revived on suzu
 folder: install
 permalink: /devices/suzu/install/
 device: suzu

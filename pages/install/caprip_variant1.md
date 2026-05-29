@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on caprip
+title: Install LineageOS Revived on caprip
 folder: install
 permalink: /devices/caprip/install/variant1/
 device: caprip_variant1

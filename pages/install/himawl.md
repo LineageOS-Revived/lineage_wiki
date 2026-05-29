@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on himawl
+title: Install LineageOS Revived on himawl
 folder: install
 permalink: /devices/himawl/install/
 device: himawl

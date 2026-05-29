@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mars
+title: Install LineageOS Revived on mars
 folder: install
 permalink: /devices/mars/install/
 device: mars

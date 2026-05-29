@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on nicole
+title: Upgrade LineageOS Revived on nicole
 folder: upgrade
 permalink: /devices/nicole/upgrade/
 device: nicole

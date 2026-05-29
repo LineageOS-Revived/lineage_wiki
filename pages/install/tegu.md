@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tegu
+title: Install LineageOS Revived on tegu
 folder: install
 permalink: /devices/tegu/install/
 device: tegu

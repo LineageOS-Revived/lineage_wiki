@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kiev
+title: Install LineageOS Revived on kiev
 folder: install
 permalink: /devices/kiev/install/variant1/
 device: kiev_variant1

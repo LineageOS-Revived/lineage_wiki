@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on gts210vewifi
+title: Update LineageOS Revived on gts210vewifi
 folder: update
 permalink: /devices/gts210vewifi/update/
 device: gts210vewifi

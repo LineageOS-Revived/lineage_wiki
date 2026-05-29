@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on ginkgo
+title: Upgrade LineageOS Revived on ginkgo
 folder: upgrade
 permalink: /devices/ginkgo/upgrade/
 device: ginkgo

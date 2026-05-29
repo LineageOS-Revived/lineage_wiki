@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on bathena
+title: Upgrade LineageOS Revived on bathena
 folder: upgrade
 permalink: /devices/bathena/upgrade/
 device: bathena

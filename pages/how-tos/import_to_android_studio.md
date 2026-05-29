@@ -21,7 +21,7 @@ Open Android Studio and click on **Import Asfp Project**. On newer versions (suc
 
 Then set the Repo checkout to your Android source directory.
 
-{% include alerts/tip.html content="As of LineageOS 22.0, the lunch target now requires the release configuration value. Navigate to `vendor/lineage/release/aconfig` and check the folder name to get this value." %}
+{% include alerts/tip.html content="As of LineageOS Revived 22.0, the lunch target now requires the release configuration value. Navigate to `vendor/lineage/release/aconfig` and check the folder name to get this value." %}
 Set your lunch target to the device you want to build in this format: `lineage_<device>-<release version>-userdebug` (e.g. `lineage_arm64-ap4a-userdebug`), replacing the missing values in brackets accordingly. Check our [list of devices]({{ "/devices" | relative_url }}) to get started.
 
 If there are any modules you want to work on, you must specify them as module paths. By default, Android Studio will not open any paths.
@@ -36,5 +36,5 @@ Now, after all the previous steps are done, you can actually start developing an
 
 ### Contribute!
 
-After you have modified the sources and tested your change, you can contribute to LineageOS by [submitting your work]({{ "/how-to/submitting-patches" | relative_url }}).
+After you have modified the sources and tested your change, you can contribute to LineageOS Revived by [submitting your work]({{ "/how-to/submitting-patches" | relative_url }}).
 

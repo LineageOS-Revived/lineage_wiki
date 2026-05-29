@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on klimtwifi
+title: Install LineageOS Revived on klimtwifi
 folder: install
 permalink: /devices/klimtwifi/install/
 device: klimtwifi

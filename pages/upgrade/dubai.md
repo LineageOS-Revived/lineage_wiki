@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on dubai
+title: Upgrade LineageOS Revived on dubai
 folder: upgrade
 permalink: /devices/dubai/upgrade/
 device: dubai

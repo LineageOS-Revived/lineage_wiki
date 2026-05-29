@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on fogo
+title: Update LineageOS Revived on fogo
 folder: update
 permalink: /devices/fogo/update/
 device: fogo

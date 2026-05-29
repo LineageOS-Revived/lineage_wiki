@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on f1f
+title: Update LineageOS Revived on f1f
 folder: update
 permalink: /devices/f1f/update/
 device: f1f

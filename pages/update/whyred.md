@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on whyred
+title: Update LineageOS Revived on whyred
 folder: update
 permalink: /devices/whyred/update/
 device: whyred

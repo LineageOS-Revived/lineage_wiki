@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on perseus
+title: Install LineageOS Revived on perseus
 folder: install
 permalink: /devices/perseus/install/
 device: perseus

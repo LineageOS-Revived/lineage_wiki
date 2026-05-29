@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on r7sf
+title: Install LineageOS Revived on r7sf
 folder: install
 permalink: /devices/r7sf/install/
 device: r7sf

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Extracting proprietary blobs from LineageOS zip files manually
+title: Extracting proprietary blobs from LineageOS Revived zip files manually
 permalink: extracting_blobs_from_zips_manually.html
 ---
 ## Introduction
@@ -11,7 +11,7 @@ mkdir -p ~/android/system_dump/
 cd ~/android/system_dump/
 ```
 
-Extract all files from the installable LineageOS zip:
+Extract all files from the installable LineageOS Revived zip:
 ```
 unzip path/to/lineage-*.zip
 ```
@@ -30,7 +30,7 @@ If your zip has a `payload.bin` file, then you have a payload-based OTA. Jump to
 
 ## Extracting files from block-based OTAs
 
-Some block-based OTAs are split into multiple files, each for separate partitions like system, vendor, product, oem, odm and others. You can verify if yours is split by looking for the corresponding `*.transfer.list` files for each in the root of the installable LineageOS zip.
+Some block-based OTAs are split into multiple files, each for separate partitions like system, vendor, product, oem, odm and others. You can verify if yours is split by looking for the corresponding `*.transfer.list` files for each in the root of the installable LineageOS Revived zip.
 
 If you have a split block-based OTA file, you will need to decompress, extract and mount each file as described below.
 
@@ -56,7 +56,7 @@ mkdir -p system/
 sudo mount -r system.img system/
 ```
 
-Unlike the above, if you have a `super.img` file, you need to get a copy of `lpunpack` to extract images from it. This script can extract the content of the Super partition into it's respective component partitions that can be mounted. Luckily, `lpunpack` is easily buildable, execute the following from a LineageOS 17.1 or greater tree:
+Unlike the above, if you have a `super.img` file, you need to get a copy of `lpunpack` to extract images from it. This script can extract the content of the Super partition into it's respective component partitions that can be mounted. Luckily, `lpunpack` is easily buildable, execute the following from a LineageOS Revived 17.1 or greater tree:
 ```
 source build/envsetup.sh
 breakfast your_device_codename

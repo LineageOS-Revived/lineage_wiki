@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on z2_plus
+title: Update LineageOS Revived on z2_plus
 folder: update
 permalink: /devices/z2_plus/update/
 device: z2_plus

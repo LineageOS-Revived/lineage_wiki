@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on voyager
+title: Upgrade LineageOS Revived on voyager
 folder: upgrade
 permalink: /devices/voyager/upgrade/
 device: voyager

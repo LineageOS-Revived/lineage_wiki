@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on river
+title: Upgrade LineageOS Revived on river
 folder: upgrade
 permalink: /devices/river/upgrade/
 device: river

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on zerofltexx
+title: Upgrade LineageOS Revived on zerofltexx
 folder: upgrade
 permalink: /devices/zerofltexx/upgrade/
 device: zerofltexx

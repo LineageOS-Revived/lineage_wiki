@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on apollon
+title: Upgrade LineageOS Revived on apollon
 folder: upgrade
 permalink: /devices/apollon/upgrade/variant3/
 device: apollon_variant3

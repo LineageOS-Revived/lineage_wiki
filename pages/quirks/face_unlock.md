@@ -9,7 +9,7 @@ toc: false
 
 ## Face Unlock
 
-You have been redirected here because LineageOS builds for your device do not support face unlock biometric functions.
+You have been redirected here because LineageOS Revived builds for your device do not support face unlock biometric functions.
 
 ### Why is that?
 

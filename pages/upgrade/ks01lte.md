@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on ks01lte
+title: Upgrade LineageOS Revived on ks01lte
 folder: upgrade
 permalink: /devices/ks01lte/upgrade/
 device: ks01lte

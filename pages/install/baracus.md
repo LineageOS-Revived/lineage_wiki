@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on baracus
+title: Install LineageOS Revived on baracus
 folder: install
 permalink: /devices/baracus/install/
 device: baracus

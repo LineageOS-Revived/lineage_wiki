@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on venus
+title: Install LineageOS Revived on venus
 folder: install
 permalink: /devices/venus/install/
 device: venus

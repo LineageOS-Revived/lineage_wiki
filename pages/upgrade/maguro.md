@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on maguro
+title: Upgrade LineageOS Revived on maguro
 folder: upgrade
 permalink: /devices/maguro/upgrade/
 device: maguro

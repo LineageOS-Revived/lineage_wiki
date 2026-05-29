@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ido
+title: Install LineageOS Revived on ido
 folder: install
 permalink: /devices/ido/install/variant1/
 device: ido_variant1

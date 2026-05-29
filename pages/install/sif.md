@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sif
+title: Install LineageOS Revived on sif
 folder: install
 permalink: /devices/sif/install/
 device: sif

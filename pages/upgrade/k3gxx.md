@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on k3gxx
+title: Upgrade LineageOS Revived on k3gxx
 folder: upgrade
 permalink: /devices/k3gxx/upgrade/
 device: k3gxx

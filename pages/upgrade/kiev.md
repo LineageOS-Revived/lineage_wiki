@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on kiev
+title: Upgrade LineageOS Revived on kiev
 folder: upgrade
 permalink: /devices/kiev/upgrade/
 device: kiev

@@ -10,7 +10,7 @@ toc: false
 ## eSIM
 
 To read about eSIM in general, see [here](https://en.wikipedia.org/wiki/eSIM).
-You have been redirected here because LineageOS builds for your device do not support eSIM functions.
+You have been redirected here because LineageOS Revived builds for your device do not support eSIM functions.
 
 ### Why is that?
 

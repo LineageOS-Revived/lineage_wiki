@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on husky
+title: Update LineageOS Revived on husky
 folder: update
 permalink: /devices/husky/update/
 device: husky

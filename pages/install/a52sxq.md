@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on a52sxq
+title: Install LineageOS Revived on a52sxq
 folder: install
 permalink: /devices/a52sxq/install/
 device: a52sxq

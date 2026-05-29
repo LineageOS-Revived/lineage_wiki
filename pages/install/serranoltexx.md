@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on serranoltexx
+title: Install LineageOS Revived on serranoltexx
 folder: install
 permalink: /devices/serranoltexx/install/
 device: serranoltexx

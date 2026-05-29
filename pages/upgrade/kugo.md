@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on kugo
+title: Upgrade LineageOS Revived on kugo
 folder: upgrade
 permalink: /devices/kugo/upgrade/
 device: kugo

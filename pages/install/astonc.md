@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on astonc
+title: Install LineageOS Revived on astonc
 folder: install
 permalink: /devices/astonc/install/
 device: astonc

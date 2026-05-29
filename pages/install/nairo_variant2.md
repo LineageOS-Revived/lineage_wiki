@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nairo
+title: Install LineageOS Revived on nairo
 folder: install
 permalink: /devices/nairo/install/variant2/
 device: nairo_variant2

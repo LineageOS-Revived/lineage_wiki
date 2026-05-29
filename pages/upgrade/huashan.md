@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on huashan
+title: Upgrade LineageOS Revived on huashan
 folder: upgrade
 permalink: /devices/huashan/upgrade/
 device: huashan

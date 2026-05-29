@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on guamp
+title: Install LineageOS Revived on guamp
 folder: install
 permalink: /devices/guamp/install/variant3/
 device: guamp_variant3

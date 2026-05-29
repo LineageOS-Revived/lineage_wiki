@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on berlin
+title: Install LineageOS Revived on berlin
 folder: install
 permalink: /devices/berlin/install/
 device: berlin

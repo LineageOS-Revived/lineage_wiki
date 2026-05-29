@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gtowifi
+title: Upgrade LineageOS Revived on gtowifi
 folder: upgrade
 permalink: /devices/gtowifi/upgrade/
 device: gtowifi

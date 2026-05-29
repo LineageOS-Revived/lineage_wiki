@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on himaul
+title: Update LineageOS Revived on himaul
 folder: update
 permalink: /devices/himaul/update/
 device: himaul

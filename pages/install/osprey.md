@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on osprey
+title: Install LineageOS Revived on osprey
 folder: install
 permalink: /devices/osprey/install/
 device: osprey

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on guamp
+title: Update LineageOS Revived on guamp
 folder: update
 permalink: /devices/guamp/update/variant1/
 device: guamp_variant1

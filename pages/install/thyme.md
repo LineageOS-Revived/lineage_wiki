@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on thyme
+title: Install LineageOS Revived on thyme
 folder: install
 permalink: /devices/thyme/install/
 device: thyme

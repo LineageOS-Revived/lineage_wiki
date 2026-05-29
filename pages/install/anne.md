@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on anne
+title: Install LineageOS Revived on anne
 folder: install
 permalink: /devices/anne/install/
 device: anne

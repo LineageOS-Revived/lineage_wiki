@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on deadpool
+title: Update LineageOS Revived on deadpool
 folder: update
 permalink: /devices/deadpool/update/
 device: deadpool

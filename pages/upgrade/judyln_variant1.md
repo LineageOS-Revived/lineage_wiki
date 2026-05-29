@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on judyln
+title: Upgrade LineageOS Revived on judyln
 folder: upgrade
 permalink: /devices/judyln/upgrade/variant1/
 device: judyln_variant1

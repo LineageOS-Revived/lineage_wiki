@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on natrium
+title: Upgrade LineageOS Revived on natrium
 folder: upgrade
 permalink: /devices/natrium/upgrade/
 device: natrium

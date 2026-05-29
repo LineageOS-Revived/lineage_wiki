@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bathena
+title: Install LineageOS Revived on bathena
 folder: install
 permalink: /devices/bathena/install/
 device: bathena

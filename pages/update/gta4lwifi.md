@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on gta4lwifi
+title: Update LineageOS Revived on gta4lwifi
 folder: update
 permalink: /devices/gta4lwifi/update/
 device: gta4lwifi

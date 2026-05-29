@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lux
+title: Install LineageOS Revived on lux
 folder: install
 permalink: /devices/lux/install/
 device: lux

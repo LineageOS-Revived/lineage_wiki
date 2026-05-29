@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on castor
+title: Upgrade LineageOS Revived on castor
 folder: upgrade
 permalink: /devices/castor/upgrade/
 device: castor

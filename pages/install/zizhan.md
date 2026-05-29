@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on zizhan
+title: Install LineageOS Revived on zizhan
 folder: install
 permalink: /devices/zizhan/install/
 device: zizhan

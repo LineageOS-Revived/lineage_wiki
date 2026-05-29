@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kenzo
+title: Install LineageOS Revived on kenzo
 folder: install
 permalink: /devices/kenzo/install/
 device: kenzo

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on s5neolte
+title: Upgrade LineageOS Revived on s5neolte
 folder: upgrade
 permalink: /devices/s5neolte/upgrade/
 device: s5neolte

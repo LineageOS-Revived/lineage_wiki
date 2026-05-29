@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on y2s
+title: Upgrade LineageOS Revived on y2s
 folder: upgrade
 permalink: /devices/y2s/upgrade/
 device: y2s

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on evert
+title: Update LineageOS Revived on evert
 folder: update
 permalink: /devices/evert/update/
 device: evert

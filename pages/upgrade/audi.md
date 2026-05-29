@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on audi
+title: Upgrade LineageOS Revived on audi
 folder: upgrade
 permalink: /devices/audi/upgrade/
 device: audi

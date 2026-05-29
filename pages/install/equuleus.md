@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on equuleus
+title: Install LineageOS Revived on equuleus
 folder: install
 permalink: /devices/equuleus/install/
 device: equuleus

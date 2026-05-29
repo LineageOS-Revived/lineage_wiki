@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on milanf
+title: Install LineageOS Revived on milanf
 folder: install
 permalink: /devices/milanf/install/
 device: milanf

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on zeus
+title: Upgrade LineageOS Revived on zeus
 folder: upgrade
 permalink: /devices/zeus/upgrade/
 device: zeus

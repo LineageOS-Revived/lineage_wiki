@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bangkk
+title: Install LineageOS Revived on bangkk
 folder: install
 permalink: /devices/bangkk/install/
 device: bangkk

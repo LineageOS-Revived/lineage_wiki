@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on d2spr
+title: Install LineageOS Revived on d2spr
 folder: install
 permalink: /devices/d2spr/install/
 device: d2spr

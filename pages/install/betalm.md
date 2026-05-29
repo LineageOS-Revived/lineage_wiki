@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on betalm
+title: Install LineageOS Revived on betalm
 folder: install
 permalink: /devices/betalm/install/
 device: betalm

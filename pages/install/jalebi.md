@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on jalebi
+title: Install LineageOS Revived on jalebi
 folder: install
 permalink: /devices/jalebi/install/
 device: jalebi

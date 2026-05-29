@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on guam
+title: Install LineageOS Revived on guam
 folder: install
 permalink: /devices/guam/install/variant2/
 device: guam_variant2

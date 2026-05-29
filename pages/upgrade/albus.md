@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on albus
+title: Upgrade LineageOS Revived on albus
 folder: upgrade
 permalink: /devices/albus/upgrade/
 device: albus

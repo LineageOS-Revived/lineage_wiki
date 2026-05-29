@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on s3ve3gxx
+title: Update LineageOS Revived on s3ve3gxx
 folder: update
 permalink: /devices/s3ve3gxx/update/
 device: s3ve3gxx

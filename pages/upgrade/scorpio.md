@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on scorpio
+title: Upgrade LineageOS Revived on scorpio
 folder: upgrade
 permalink: /devices/scorpio/upgrade/
 device: scorpio

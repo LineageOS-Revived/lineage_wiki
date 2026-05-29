@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on raven
+title: Install LineageOS Revived on raven
 folder: install
 permalink: /devices/raven/install/
 device: raven

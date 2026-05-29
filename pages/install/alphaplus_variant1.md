@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on alphaplus
+title: Install LineageOS Revived on alphaplus
 folder: install
 permalink: /devices/alphaplus/install/variant1/
 device: alphaplus_variant1

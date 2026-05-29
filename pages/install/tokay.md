@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tokay
+title: Install LineageOS Revived on tokay
 folder: install
 permalink: /devices/tokay/install/
 device: tokay

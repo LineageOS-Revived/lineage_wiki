@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kebab
+title: Install LineageOS Revived on kebab
 folder: install
 permalink: /devices/kebab/install/variant2/
 device: kebab_variant2

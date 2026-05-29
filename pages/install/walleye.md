@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on walleye
+title: Install LineageOS Revived on walleye
 folder: install
 permalink: /devices/walleye/install/
 device: walleye

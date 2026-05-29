@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on baracus
+title: Update LineageOS Revived on baracus
 folder: update
 permalink: /devices/baracus/update/
 device: baracus

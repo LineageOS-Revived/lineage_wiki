@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on tokay
+title: Upgrade LineageOS Revived on tokay
 folder: upgrade
 permalink: /devices/tokay/upgrade/
 device: tokay

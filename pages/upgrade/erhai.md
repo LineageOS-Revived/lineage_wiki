@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on erhai
+title: Upgrade LineageOS Revived on erhai
 folder: upgrade
 permalink: /devices/erhai/upgrade/
 device: erhai

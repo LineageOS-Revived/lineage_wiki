@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on taimen
+title: Install LineageOS Revived on taimen
 folder: install
 permalink: /devices/taimen/install/
 device: taimen

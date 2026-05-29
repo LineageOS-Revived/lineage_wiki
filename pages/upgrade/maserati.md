@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on maserati
+title: Upgrade LineageOS Revived on maserati
 folder: upgrade
 permalink: /devices/maserati/upgrade/
 device: maserati

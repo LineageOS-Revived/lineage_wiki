@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on tissot
+title: Update LineageOS Revived on tissot
 folder: update
 permalink: /devices/tissot/update/
 device: tissot

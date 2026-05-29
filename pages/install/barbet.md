@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on barbet
+title: Install LineageOS Revived on barbet
 folder: install
 permalink: /devices/barbet/install/
 device: barbet

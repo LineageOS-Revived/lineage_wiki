@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on jasmine
+title: Upgrade LineageOS Revived on jasmine
 folder: upgrade
 permalink: /devices/jasmine/upgrade/
 device: jasmine

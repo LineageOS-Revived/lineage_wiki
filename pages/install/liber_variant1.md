@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on liber
+title: Install LineageOS Revived on liber
 folder: install
 permalink: /devices/liber/install/variant1/
 device: liber_variant1

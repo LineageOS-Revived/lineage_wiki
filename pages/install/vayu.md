@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on vayu
+title: Install LineageOS Revived on vayu
 folder: install
 permalink: /devices/vayu/install/
 device: vayu

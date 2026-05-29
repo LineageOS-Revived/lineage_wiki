@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on jason
+title: Install LineageOS Revived on jason
 folder: install
 permalink: /devices/jason/install/
 device: jason

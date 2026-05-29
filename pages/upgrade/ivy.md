@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on ivy
+title: Upgrade LineageOS Revived on ivy
 folder: upgrade
 permalink: /devices/ivy/upgrade/
 device: ivy

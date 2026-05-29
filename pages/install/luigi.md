@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on luigi
+title: Install LineageOS Revived on luigi
 folder: install
 permalink: /devices/luigi/install/
 device: luigi

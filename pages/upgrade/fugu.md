@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on fugu
+title: Upgrade LineageOS Revived on fugu
 folder: upgrade
 permalink: /devices/fugu/upgrade/
 device: fugu

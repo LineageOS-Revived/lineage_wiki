@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on deb
+title: Upgrade LineageOS Revived on deb
 folder: upgrade
 permalink: /devices/deb/upgrade/
 device: deb

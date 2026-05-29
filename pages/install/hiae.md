@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hiae
+title: Install LineageOS Revived on hiae
 folder: install
 permalink: /devices/hiae/install/
 device: hiae

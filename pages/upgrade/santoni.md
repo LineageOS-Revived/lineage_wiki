@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on santoni
+title: Upgrade LineageOS Revived on santoni
 folder: upgrade
 permalink: /devices/santoni/upgrade/
 device: santoni

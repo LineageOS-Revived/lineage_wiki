@@ -6,11 +6,11 @@ permalink: verifying-builds.html
 toc: false
 ---
 
-All official builds from LineageOS are signed with our private keys. You can verify whether a build has been signed with our keys by following these steps:
+All official builds from LineageOS Revived are signed with our private keys. You can verify whether a build has been signed with our keys by following these steps:
 
 ## Using the OTA Verifier page
 
-Head to the [OTA Verifier](https://download.lineageos.org/verify) and follow instructions on screen.
+Head to the [OTA Verifier](https://download.lineage.rgbroms.top/verify) and follow instructions on screen.
 
 ## Using the update_verifier Python script
 
@@ -19,7 +19,7 @@ Head to the [OTA Verifier](https://download.lineageos.org/verify) and follow ins
 Download the verifier and install its dependencies:
 
 ```
-git clone https://github.com/LineageOS/update_verifier
+git clone https://github.com/LineageOS-Revived/update_verifier
 cd update_verifier
 pip3 install -r requirements.txt
 ```

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on sargo
+title: Update LineageOS Revived on sargo
 folder: update
 permalink: /devices/sargo/update/
 device: sargo

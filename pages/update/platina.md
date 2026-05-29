@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on platina
+title: Update LineageOS Revived on platina
 folder: update
 permalink: /devices/platina/update/
 device: platina

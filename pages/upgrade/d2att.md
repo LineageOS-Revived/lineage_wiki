@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on d2att
+title: Upgrade LineageOS Revived on d2att
 folder: upgrade
 permalink: /devices/d2att/upgrade/
 device: d2att

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on obiwan
+title: Install LineageOS Revived on obiwan
 folder: install
 permalink: /devices/obiwan/install/
 device: obiwan

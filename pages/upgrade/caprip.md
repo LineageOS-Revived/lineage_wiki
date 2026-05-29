@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on caprip
+title: Upgrade LineageOS Revived on caprip
 folder: upgrade
 permalink: /devices/caprip/upgrade/
 device: caprip

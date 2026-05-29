@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on rhannah
+title: Upgrade LineageOS Revived on rhannah
 folder: upgrade
 permalink: /devices/rhannah/upgrade/
 device: rhannah

@@ -1,6 +1,6 @@
 ## Repartitioning
 
-{% include alerts/warning.html content="This step is not optional, the device will not boot LineageOS without repartitioning first!" %}
+{% include alerts/warning.html content="This step is not optional, the device will not boot LineageOS Revived without repartitioning first!" %}
 {% include alerts/warning.html content="This process will wipe all data on the device, including your internal storage!" %}
 1. If you are not in recovery, reboot into recovery:
     * {{ device.recovery_boot }}

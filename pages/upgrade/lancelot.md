@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on lancelot
+title: Upgrade LineageOS Revived on lancelot
 folder: upgrade
 permalink: /devices/lancelot/upgrade/
 device: lancelot

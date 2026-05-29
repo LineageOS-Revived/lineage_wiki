@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on payton
+title: Upgrade LineageOS Revived on payton
 folder: upgrade
 permalink: /devices/payton/upgrade/
 device: payton

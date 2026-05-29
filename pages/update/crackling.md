@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on crackling
+title: Update LineageOS Revived on crackling
 folder: update
 permalink: /devices/crackling/update/
 device: crackling

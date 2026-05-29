@@ -10,7 +10,7 @@ toc: false
 ## ANT+
 
 To read about ANT+ in general, see [here](https://en.wikipedia.org/wiki/ANT_(network)).
-You have been redirected here because LineageOS builds for your device do not support ANT+ functions.
+You have been redirected here because LineageOS Revived builds for your device do not support ANT+ functions.
 
 ### Why is that?
 

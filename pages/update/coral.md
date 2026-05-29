@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on coral
+title: Update LineageOS Revived on coral
 folder: update
 permalink: /devices/coral/update/
 device: coral

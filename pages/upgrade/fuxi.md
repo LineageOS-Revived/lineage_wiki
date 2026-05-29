@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on fuxi
+title: Upgrade LineageOS Revived on fuxi
 folder: upgrade
 permalink: /devices/fuxi/upgrade/
 device: fuxi

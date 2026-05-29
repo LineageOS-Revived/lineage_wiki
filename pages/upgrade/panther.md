@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on panther
+title: Upgrade LineageOS Revived on panther
 folder: upgrade
 permalink: /devices/panther/upgrade/
 device: panther

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on a5y17lte
+title: Install LineageOS Revived on a5y17lte
 folder: install
 permalink: /devices/a5y17lte/install/
 device: a5y17lte

@@ -17,7 +17,7 @@ Any recent 64-bit version should work great, but the latest Long Term Support (L
 
 Let's begin!
 
-## Build LineageOS
+## Build LineageOS Revived
 
 {% if device %}
 {% include alerts/note.html content="You only need to do these steps once. If you have already prepared your build environment and downloaded the source code,
@@ -51,7 +51,7 @@ Then, run `source ~/.profile` to update your environment.
 
 ### Install the build packages
 
-Several packages are needed to build LineageOS. You can install these using your distribution's package manager.
+Several packages are needed to build LineageOS Revived. You can install these using your distribution's package manager.
 
 {% include alerts/tip.html content="A [package manager](https://en.wikipedia.org/wiki/Package_manager) in Linux is a system used to install or remove software
 (usually originating from the Internet) on your computer. With Ubuntu, you can use the Ubuntu Software Center. Even better, you may also use the `apt install`
@@ -65,7 +65,7 @@ command directly in the Terminal." %}
 {%- endif -%}
 {%- endcapture -%}
 
-To build LineageOS, you'll need:
+To build LineageOS Revived, you'll need:
 
 * `bc bison build-essential ccache curl flex g++-multilib gcc-multilib git git-lfs gnupg gperf imagemagick protobuf-compiler python3-protobuf lib32readline-dev lib32z1-dev libdw-dev libelf-dev libgnutls28-dev lz4 libsdl1.2-dev libssl-dev libxml2 libxml2-utils lzop pngcrush rsync schedtool squashfs-tools xsltproc xxd {% if cpu_architecture contains 'x86' %}yasm {% endif %}zip zlib1g-dev`
 
@@ -77,7 +77,7 @@ To build LineageOS, you'll need:
    or device.versions contains 18.1
    or device.versions contains 19.1
    or device.versions contains 20 %}
-To build LineageOS 20 and older on Ubuntu 23.10 (mantic) or newer, also install `libncurses5` from 23.04 (lunar) as follows:
+To build LineageOS Revived 20 and older on Ubuntu 23.10 (mantic) or newer, also install `libncurses5` from 23.04 (lunar) as follows:
 
 ```
 wget https://archive.ubuntu.com/ubuntu/pool/universe/n/ncurses/libtinfo5_6.3-2_amd64.deb && sudo dpkg -i libtinfo5_6.3-2_amd64.deb && rm -f libtinfo5_6.3-2_amd64.deb
@@ -90,13 +90,13 @@ While for Ubuntu versions older than 23.10 (mantic), simply install:
 {% endif %}
 
 {% if device.versions contains 13.0 %}
-To build LineageOS 13.0, you'll also need:
+To build LineageOS Revived 13.0, you'll also need:
 
 * `maven`
 {% endif %}
 
 {% if page.name == "libvirt-qemu.md" or page.name == "utm-vm-on-apple-silicon-mac.md" %}
-Since LineageOS 22.0 the `virtio_*` targets use a Mesa that is based on upstream repository. To build LineageOS 22.0 and above for the `virtio_*` targets, you'll also need:
+Since LineageOS Revived 22.0 the `virtio_*` targets use a Mesa that is based on upstream repository. To build LineageOS Revived 22.0 and above for the `virtio_*` targets, you'll also need:
 
 * `meson glslang-tools python3-mako`
 {% endif %}
@@ -111,22 +111,22 @@ While for Ubuntu versions older than 16.04 (xenial), install:
 
 #### Java
 
-Different versions of LineageOS require different JDK (Java Development Kit) versions.
+Different versions of LineageOS Revived require different JDK (Java Development Kit) versions.
 
-* LineageOS 18.1+: OpenJDK 11 (included in source download)
-* LineageOS 16.0-17.1: OpenJDK 1.9 (included in source download)
-* LineageOS 14.1-15.1: OpenJDK 1.8 (install `openjdk-8-jdk`)
+* LineageOS Revived 18.1+: OpenJDK 11 (included in source download)
+* LineageOS Revived 16.0-17.1: OpenJDK 1.9 (included in source download)
+* LineageOS Revived 14.1-15.1: OpenJDK 1.8 (install `openjdk-8-jdk`)
   * NOTE: For building these versions you'll need to remove `TLSv1` and `TLSv1.1` from `jdk.tls.disabledAlgorithms` in `/etc/java-8-openjdk/security/java.security`.
-* LineageOS 11.0-13.0: OpenJDK 1.7 (install `openjdk-7-jdk`)\*
+* LineageOS Revived 11.0-13.0: OpenJDK 1.7 (install `openjdk-7-jdk`)\*
 
 \* Ubuntu 16.04 and newer do not have OpenJDK 1.7 in the standard package repositories. See the *Ask Ubuntu* question "[How do I install openjdk 7 on Ubuntu 16.04 or higher?](http://askubuntu.com/questions/761127/how-do-i-install-openjdk-7-on-ubuntu-16-04-or-higher)". Note that the suggestion to use PPA openjdk-r is outdated (the PPA has never updated their offering of openjdk-7-jdk, so it lacks security fixes); skip that answer even if it is the most upvoted.
 
 #### Python
 
-Different versions of LineageOS require different default Python versions.
+Different versions of LineageOS Revived require different default Python versions.
 
-* LineageOS 17.1+: Python 3 (install `python-is-python3`)
-* LineageOS 11.0-16.0: Python 2 (install `python-is-python2`)
+* LineageOS Revived 17.1+: Python 3 (install `python-is-python3`)
+* LineageOS Revived 11.0-16.0: Python 2 (install `python-is-python2`)
 
 If your default is `python3`, but you're building branch that requires `python2`, there are various methods to using it, e.g. [symlinking it manually](https://stackoverflow.com/a/66129356) or creating a [virtualenv](https://pypi.org/project/virtualenv/) for it.
 We recommend the latter:
@@ -146,7 +146,7 @@ mkdir -p ~/bin
 mkdir -p ~/android/lineage
 ```
 
-The `~/bin` directory will contain the git-repo tool (commonly named "repo") and the `~/android/lineage` directory will contain the source code of LineageOS.
+The `~/bin` directory will contain the git-repo tool (commonly named "repo") and the `~/android/lineage` directory will contain the source code of LineageOS Revived.
 
 ### Install the `repo` command
 
@@ -220,7 +220,7 @@ ccache -o compression=true
 {% if device.current_branch >= 14 and device.current_branch < 16 %}
 ### Configure jack
 
-[Jack](http://source.android.com/source/jack.html) is the currently used Java toolchain for building LineageOS 14.1 and 15.1. It is known to run out of memory often if not configured correctly - a simple fix is to run this command:
+[Jack](http://source.android.com/source/jack.html) is the currently used Java toolchain for building LineageOS Revived 14.1 and 15.1. It is known to run out of memory often if not configured correctly - a simple fix is to run this command:
 
 ```
 export ANDROID_JACK_VM_ARGS="-Dfile.encoding=UTF-8 -XX:+TieredCompilation -Xmx4G"

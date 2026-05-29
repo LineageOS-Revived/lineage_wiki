@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on oneplus2
+title: Update LineageOS Revived on oneplus2
 folder: update
 permalink: /devices/oneplus2/update/
 device: oneplus2

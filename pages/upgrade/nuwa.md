@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on nuwa
+title: Upgrade LineageOS Revived on nuwa
 folder: upgrade
 permalink: /devices/nuwa/upgrade/
 device: nuwa

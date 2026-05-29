@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on nio
+title: Upgrade LineageOS Revived on nio
 folder: upgrade
 permalink: /devices/nio/upgrade/variant2/
 device: nio_variant2

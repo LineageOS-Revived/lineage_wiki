@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on hydrogen
+title: Update LineageOS Revived on hydrogen
 folder: update
 permalink: /devices/hydrogen/update/
 device: hydrogen

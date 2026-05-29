@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on troika
+title: Install LineageOS Revived on troika
 folder: install
 permalink: /devices/troika/install/
 device: troika

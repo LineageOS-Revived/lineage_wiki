@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on angler
+title: Update LineageOS Revived on angler
 folder: update
 permalink: /devices/angler/update/
 device: angler

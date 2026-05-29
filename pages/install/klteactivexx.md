@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on klteactivexx
+title: Install LineageOS Revived on klteactivexx
 folder: install
 permalink: /devices/klteactivexx/install/
 device: klteactivexx

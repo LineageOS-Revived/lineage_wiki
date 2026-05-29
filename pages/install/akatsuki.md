@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on akatsuki
+title: Install LineageOS Revived on akatsuki
 folder: install
 permalink: /devices/akatsuki/install/
 device: akatsuki

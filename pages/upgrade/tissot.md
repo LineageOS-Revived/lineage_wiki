@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on tissot
+title: Upgrade LineageOS Revived on tissot
 folder: upgrade
 permalink: /devices/tissot/upgrade/
 device: tissot

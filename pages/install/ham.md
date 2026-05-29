@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ham
+title: Install LineageOS Revived on ham
 folder: install
 permalink: /devices/ham/install/
 device: ham

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on discovery
+title: Update LineageOS Revived on discovery
 folder: update
 permalink: /devices/discovery/update/
 device: discovery

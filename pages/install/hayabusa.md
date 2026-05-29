@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hayabusa
+title: Install LineageOS Revived on hayabusa
 folder: install
 permalink: /devices/hayabusa/install/
 device: hayabusa

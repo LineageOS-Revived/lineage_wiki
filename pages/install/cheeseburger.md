@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cheeseburger
+title: Install LineageOS Revived on cheeseburger
 folder: install
 permalink: /devices/cheeseburger/install/
 device: cheeseburger

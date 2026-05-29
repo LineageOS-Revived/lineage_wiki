@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on miami
+title: Update LineageOS Revived on miami
 folder: update
 permalink: /devices/miami/update/
 device: miami

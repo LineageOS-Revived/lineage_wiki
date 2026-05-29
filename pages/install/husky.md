@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on husky
+title: Install LineageOS Revived on husky
 folder: install
 permalink: /devices/husky/install/
 device: husky

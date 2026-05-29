@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gta4xlswifi
+title: Upgrade LineageOS Revived on gta4xlswifi
 folder: upgrade
 permalink: /devices/gta4xlswifi/upgrade/
 device: gta4xlswifi

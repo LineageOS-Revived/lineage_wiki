@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on komodo
+title: Update LineageOS Revived on komodo
 folder: update
 permalink: /devices/komodo/update/
 device: komodo

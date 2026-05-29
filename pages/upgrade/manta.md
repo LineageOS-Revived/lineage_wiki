@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on manta
+title: Upgrade LineageOS Revived on manta
 folder: upgrade
 permalink: /devices/manta/upgrade/
 device: manta

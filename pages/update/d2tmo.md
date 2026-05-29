@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on d2tmo
+title: Update LineageOS Revived on d2tmo
 folder: update
 permalink: /devices/d2tmo/update/
 device: d2tmo

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on klteaio
+title: Install LineageOS Revived on klteaio
 folder: install
 permalink: /devices/klteaio/install/
 device: klteaio

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on devon
+title: Upgrade LineageOS Revived on devon
 folder: upgrade
 permalink: /devices/devon/upgrade/
 device: devon

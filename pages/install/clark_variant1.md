@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on clark
+title: Install LineageOS Revived on clark
 folder: install
 permalink: /devices/clark/install/variant1/
 device: clark_variant1

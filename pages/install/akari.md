@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on akari
+title: Install LineageOS Revived on akari
 folder: install
 permalink: /devices/akari/install/
 device: akari

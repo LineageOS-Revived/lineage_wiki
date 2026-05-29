@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on berlin
+title: Update LineageOS Revived on berlin
 folder: update
 permalink: /devices/berlin/update/
 device: berlin

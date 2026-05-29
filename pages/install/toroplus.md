@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on toroplus
+title: Install LineageOS Revived on toroplus
 folder: install
 permalink: /devices/toroplus/install/
 device: toroplus

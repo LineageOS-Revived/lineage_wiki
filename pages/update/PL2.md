@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on PL2
+title: Update LineageOS Revived on PL2
 folder: update
 permalink: /devices/PL2/update/
 device: PL2

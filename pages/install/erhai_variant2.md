@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on erhai
+title: Install LineageOS Revived on erhai
 folder: install
 permalink: /devices/erhai/install/variant2/
 device: erhai_variant2

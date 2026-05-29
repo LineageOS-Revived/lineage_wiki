@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on rhode
+title: Install LineageOS Revived on rhode
 folder: install
 permalink: /devices/rhode/install/
 device: rhode

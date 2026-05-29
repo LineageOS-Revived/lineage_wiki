@@ -21,7 +21,7 @@ There are multiple variants of this device. [Make sure you're viewing the right 
 
 {% if device.maintainers != empty %}
 ## Downloads
-[Get the builds here](https://download.lineageos.org/devices/{{ device.codename }})
+[Get the builds here](https://download.lineage.rgbroms.top/devices/{{ device.codename }})
 {% endif %}
 
 ## Guides
@@ -48,10 +48,10 @@ There are multiple variants of this device. [Make sure you're viewing the right 
 {%- if device.firmware_update %}
 - [Update to a newer vendor firmware version]({{ device | device_link: "fw_update" | relative_url }})
 {%- endif %}
-- [Update to a newer build of the same LineageOS version]({{ device | device_link: "update" | relative_url }})
+- [Update to a newer build of the same LineageOS Revived version]({{ device | device_link: "update" | relative_url }})
 {% assign versions_count = device.versions|count_ints -%}
 {%- if versions_count > 1 -%}
-- [Upgrade to a higher version of LineageOS (e.g. lineage-{{ prev_branch }} -> lineage-{{ curr_branch }})]({{ device | device_link: "upgrade" | relative_url }})
+- [Upgrade to a higher version of LineageOS Revived (e.g. lineage-{{ prev_branch }} -> lineage-{{ curr_branch }})]({{ device | device_link: "upgrade" | relative_url }})
 {%- endif -%}
 
 {% if device.note_title and device.note_title != "" %}
@@ -93,12 +93,3 @@ There are multiple variants of this device. [Make sure you're viewing the right 
 - [{{ title }}]({{ match.url | relative_url }})
 {%- endfor %}
 
-## Find help online
-
-You can find assistance with LineageOS on [our subreddit](https://reddit.com/r/LineageOS), on [our Discord server](https://discord.gg/gD6DMtf), or in [#LineageOS on Libera.Chat](https://web.libera.chat/gamja/?channel=#lineageos).
-
-{% if device.maintainers != empty %}
-## Report a bug
-
-If you'd like to report a bug, follow the instructions [here]({{ "/how-to/bugreport" | relative_url }}).
-{% endif %}

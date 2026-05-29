@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on lithium
+title: Update LineageOS Revived on lithium
 folder: update
 permalink: /devices/lithium/update/
 device: lithium

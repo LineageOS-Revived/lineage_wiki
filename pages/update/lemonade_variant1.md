@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on lemonade
+title: Update LineageOS Revived on lemonade
 folder: update
 permalink: /devices/lemonade/update/variant1/
 device: lemonade_variant1

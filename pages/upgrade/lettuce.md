@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on lettuce
+title: Upgrade LineageOS Revived on lettuce
 folder: upgrade
 permalink: /devices/lettuce/upgrade/
 device: lettuce

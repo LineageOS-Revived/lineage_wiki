@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on hayabusa
+title: Update LineageOS Revived on hayabusa
 folder: update
 permalink: /devices/hayabusa/update/
 device: hayabusa

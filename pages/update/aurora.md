@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on aurora
+title: Update LineageOS Revived on aurora
 folder: update
 permalink: /devices/aurora/update/
 device: aurora

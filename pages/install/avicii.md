@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on avicii
+title: Install LineageOS Revived on avicii
 folder: install
 permalink: /devices/avicii/install/
 device: avicii

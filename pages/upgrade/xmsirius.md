@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on xmsirius
+title: Upgrade LineageOS Revived on xmsirius
 folder: upgrade
 permalink: /devices/xmsirius/upgrade/
 device: xmsirius

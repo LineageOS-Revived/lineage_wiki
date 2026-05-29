@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on capri
+title: Upgrade LineageOS Revived on capri
 folder: upgrade
 permalink: /devices/capri/upgrade/variant2/
 device: capri_variant2

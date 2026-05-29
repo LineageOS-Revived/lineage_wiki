@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on martini
+title: Upgrade LineageOS Revived on martini
 folder: upgrade
 permalink: /devices/martini/upgrade/
 device: martini

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on herolte
+title: Update LineageOS Revived on herolte
 folder: update
 permalink: /devices/herolte/update/
 device: herolte

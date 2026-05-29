@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on redfin
+title: Upgrade LineageOS Revived on redfin
 folder: upgrade
 permalink: /devices/redfin/upgrade/
 device: redfin

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on dre
+title: Update LineageOS Revived on dre
 folder: update
 permalink: /devices/dre/update/
 device: dre

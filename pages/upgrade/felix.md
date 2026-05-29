@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on felix
+title: Upgrade LineageOS Revived on felix
 folder: upgrade
 permalink: /devices/felix/upgrade/
 device: felix

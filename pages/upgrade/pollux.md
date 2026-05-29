@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on pollux
+title: Upgrade LineageOS Revived on pollux
 folder: upgrade
 permalink: /devices/pollux/upgrade/
 device: pollux

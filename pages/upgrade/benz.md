@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on benz
+title: Upgrade LineageOS Revived on benz
 folder: upgrade
 permalink: /devices/benz/upgrade/
 device: benz

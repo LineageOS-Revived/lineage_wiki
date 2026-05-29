@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on merlinx
+title: Update LineageOS Revived on merlinx
 folder: update
 permalink: /devices/merlinx/update/
 device: merlinx

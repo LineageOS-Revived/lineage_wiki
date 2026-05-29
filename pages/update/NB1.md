@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on NB1
+title: Update LineageOS Revived on NB1
 folder: update
 permalink: /devices/NB1/update/
 device: NB1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on I01WD
+title: Install LineageOS Revived on I01WD
 folder: install
 permalink: /devices/I01WD/install/
 device: I01WD

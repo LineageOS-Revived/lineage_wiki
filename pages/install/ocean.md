@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ocean
+title: Install LineageOS Revived on ocean
 folder: install
 permalink: /devices/ocean/install/
 device: ocean

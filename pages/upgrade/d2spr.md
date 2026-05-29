@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on d2spr
+title: Upgrade LineageOS Revived on d2spr
 folder: upgrade
 permalink: /devices/d2spr/upgrade/
 device: d2spr

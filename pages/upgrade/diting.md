@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on diting
+title: Upgrade LineageOS Revived on diting
 folder: upgrade
 permalink: /devices/diting/upgrade/
 device: diting

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dragon
+title: Install LineageOS Revived on dragon
 folder: install
 permalink: /devices/dragon/install/
 device: dragon

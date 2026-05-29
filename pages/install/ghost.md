@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ghost
+title: Install LineageOS Revived on ghost
 folder: install
 permalink: /devices/ghost/install/
 device: ghost

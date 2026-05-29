@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on oscaro
+title: Upgrade LineageOS Revived on oscaro
 folder: upgrade
 permalink: /devices/oscaro/upgrade/
 device: oscaro

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on shieldtablet
+title: Upgrade LineageOS Revived on shieldtablet
 folder: upgrade
 permalink: /devices/shieldtablet/upgrade/
 device: shieldtablet

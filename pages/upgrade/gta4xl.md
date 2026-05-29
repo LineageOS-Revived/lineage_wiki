@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gta4xl
+title: Upgrade LineageOS Revived on gta4xl
 folder: upgrade
 permalink: /devices/gta4xl/upgrade/
 device: gta4xl

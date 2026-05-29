@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on osprey
+title: Upgrade LineageOS Revived on osprey
 folder: upgrade
 permalink: /devices/osprey/upgrade/
 device: osprey

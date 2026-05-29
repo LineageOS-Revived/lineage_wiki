@@ -7,12 +7,12 @@
 {% capture content -%}
 
 Your device needs a specific [firmware]({{ "glossary#firmware" | absolute_url }}){: .glossary} version before proceeding.<br/>
-If your device is currently using a newer or older version than the required version, please up- or downgrade to the required version before proceeding with your LineageOS installation.
+If your device is currently using a newer or older version than the required version, please up- or downgrade to the required version before proceeding with your LineageOS Revived installation.
 <br/><br/>
 {%- if device.before_install_device_variants and device.before_install_device_variants.size > 0 %}
 The required version can be found in the table below.
 {%- else %}
-The required version is **Android {{ device.before_install.version }}**, which may be lower than the LineageOS version you are about to install - this is not an error!<br/>
+The required version is **Android {{ device.before_install.version }}**, which may be lower than the LineageOS Revived version you are about to install - this is not an error!<br/>
 If there are multiple updates of that version (e.g. security updates), make sure to use the latest!
 {%- endif %}
 <br/><br/>
@@ -27,7 +27,7 @@ We are unable to provide specific instructions here and on our support platforms
 {%- unless page.folder == "install" %}
 {%- if device.before_install.lineage_version > 0 %}
 <br/><br/>
-This requirement is already met when you are upgrading from **LineageOS {{ device.before_install.lineage_version }}** or newer!
+This requirement is already met when you are upgrading from **LineageOS Revived {{ device.before_install.lineage_version }}** or newer!
 {%- endif %}
 {%- endunless %}
 {%- endcapture %}

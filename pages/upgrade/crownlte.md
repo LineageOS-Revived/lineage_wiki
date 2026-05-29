@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on crownlte
+title: Upgrade LineageOS Revived on crownlte
 folder: upgrade
 permalink: /devices/crownlte/upgrade/
 device: crownlte

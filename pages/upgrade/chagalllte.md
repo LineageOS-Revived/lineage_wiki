@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on chagalllte
+title: Upgrade LineageOS Revived on chagalllte
 folder: upgrade
 permalink: /devices/chagalllte/upgrade/
 device: chagalllte

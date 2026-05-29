@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on dopinder
+title: Upgrade LineageOS Revived on dopinder
 folder: upgrade
 permalink: /devices/dopinder/upgrade/
 device: dopinder

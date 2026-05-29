@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on deadpool
+title: Install LineageOS Revived on deadpool
 folder: install
 permalink: /devices/deadpool/install/
 device: deadpool

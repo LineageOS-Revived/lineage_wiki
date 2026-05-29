@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on akershus
+title: Update LineageOS Revived on akershus
 folder: update
 permalink: /devices/akershus/update/
 device: akershus

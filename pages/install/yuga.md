@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on yuga
+title: Install LineageOS Revived on yuga
 folder: install
 permalink: /devices/yuga/install/
 device: yuga

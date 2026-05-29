@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on d2s
+title: Install LineageOS Revived on d2s
 folder: install
 permalink: /devices/d2s/install/
 device: d2s

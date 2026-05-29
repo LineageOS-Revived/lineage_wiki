@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on zangya
+title: Update LineageOS Revived on zangya
 folder: update
 permalink: /devices/zangya/update/
 device: zangya

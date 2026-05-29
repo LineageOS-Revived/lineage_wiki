@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on Mi8937
+title: Upgrade LineageOS Revived on Mi8937
 folder: upgrade
 permalink: /devices/Mi8937/upgrade/variant5/
 device: Mi8937_variant5

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on martini
+title: Install LineageOS Revived on martini
 folder: install
 permalink: /devices/martini/install/
 device: martini

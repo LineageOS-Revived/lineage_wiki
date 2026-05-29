@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on scorpio
+title: Update LineageOS Revived on scorpio
 folder: update
 permalink: /devices/scorpio/update/
 device: scorpio

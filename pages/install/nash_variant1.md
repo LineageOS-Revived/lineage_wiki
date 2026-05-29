@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nash
+title: Install LineageOS Revived on nash
 folder: install
 permalink: /devices/nash/install/variant1/
 device: nash_variant1

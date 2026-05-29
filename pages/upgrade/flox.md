@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on flox
+title: Upgrade LineageOS Revived on flox
 folder: upgrade
 permalink: /devices/flox/upgrade/
 device: flox

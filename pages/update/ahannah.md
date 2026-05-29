@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on ahannah
+title: Update LineageOS Revived on ahannah
 folder: update
 permalink: /devices/ahannah/update/
 device: ahannah

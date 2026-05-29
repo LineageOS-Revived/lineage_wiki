@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on capricorn
+title: Upgrade LineageOS Revived on capricorn
 folder: upgrade
 permalink: /devices/capricorn/upgrade/
 device: capricorn

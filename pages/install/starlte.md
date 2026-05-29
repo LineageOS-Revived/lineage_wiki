@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on starlte
+title: Install LineageOS Revived on starlte
 folder: install
 permalink: /devices/starlte/install/
 device: starlte

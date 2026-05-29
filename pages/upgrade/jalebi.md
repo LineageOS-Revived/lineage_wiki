@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on jalebi
+title: Upgrade LineageOS Revived on jalebi
 folder: upgrade
 permalink: /devices/jalebi/upgrade/
 device: jalebi

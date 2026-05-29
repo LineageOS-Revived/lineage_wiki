@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on sake
+title: Update LineageOS Revived on sake
 folder: update
 permalink: /devices/sake/update/
 device: sake

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on rtwo
+title: Install LineageOS Revived on rtwo
 folder: install
 permalink: /devices/rtwo/install/variant1/
 device: rtwo_variant1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on hawao
+title: Upgrade LineageOS Revived on hawao
 folder: upgrade
 permalink: /devices/hawao/upgrade/
 device: hawao

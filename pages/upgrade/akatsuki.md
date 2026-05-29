@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on akatsuki
+title: Upgrade LineageOS Revived on akatsuki
 folder: upgrade
 permalink: /devices/akatsuki/upgrade/
 device: akatsuki

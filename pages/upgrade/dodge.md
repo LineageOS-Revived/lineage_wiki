@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on dodge
+title: Upgrade LineageOS Revived on dodge
 folder: upgrade
 permalink: /devices/dodge/upgrade/
 device: dodge

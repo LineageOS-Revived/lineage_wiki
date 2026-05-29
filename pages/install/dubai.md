@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dubai
+title: Install LineageOS Revived on dubai
 folder: install
 permalink: /devices/dubai/install/
 device: dubai

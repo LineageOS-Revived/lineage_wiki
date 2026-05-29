@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on crackling
+title: Install LineageOS Revived on crackling
 folder: install
 permalink: /devices/crackling/install/
 device: crackling

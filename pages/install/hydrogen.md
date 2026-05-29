@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hydrogen
+title: Install LineageOS Revived on hydrogen
 folder: install
 permalink: /devices/hydrogen/install/
 device: hydrogen

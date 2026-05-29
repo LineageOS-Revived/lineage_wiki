@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on beryllium
+title: Install LineageOS Revived on beryllium
 folder: install
 permalink: /devices/beryllium/install/
 device: beryllium

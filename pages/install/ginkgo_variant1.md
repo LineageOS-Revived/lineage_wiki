@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ginkgo
+title: Install LineageOS Revived on ginkgo
 folder: install
 permalink: /devices/ginkgo/install/variant1/
 device: ginkgo_variant1

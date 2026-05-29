@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on jfltespr
+title: Update LineageOS Revived on jfltespr
 folder: update
 permalink: /devices/jfltespr/update/
 device: jfltespr

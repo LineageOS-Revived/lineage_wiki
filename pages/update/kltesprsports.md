@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on kltesprsports
+title: Update LineageOS Revived on kltesprsports
 folder: update
 permalink: /devices/kltesprsports/update/
 device: kltesprsports

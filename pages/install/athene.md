@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on athene
+title: Install LineageOS Revived on athene
 folder: install
 permalink: /devices/athene/install/
 device: athene

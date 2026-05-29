@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on flame
+title: Update LineageOS Revived on flame
 folder: update
 permalink: /devices/flame/update/
 device: flame

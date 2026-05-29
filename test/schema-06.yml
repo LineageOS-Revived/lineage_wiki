@@ -212,7 +212,7 @@ definitions:
         type: string
       version:
         "$ref": "#/definitions/valid_branches"
-        description: LineageOS version that mandated the migration
+        description: LineageOS Revived version that mandated the migration
     required:
       - codename
       - version

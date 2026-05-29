@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on benz
+title: Install LineageOS Revived on benz
 folder: install
 permalink: /devices/benz/install/
 device: benz

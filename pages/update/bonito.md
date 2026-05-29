@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on bonito
+title: Update LineageOS Revived on bonito
 folder: update
 permalink: /devices/bonito/update/
 device: bonito

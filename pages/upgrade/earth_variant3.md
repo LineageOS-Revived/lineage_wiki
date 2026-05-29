@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on earth
+title: Upgrade LineageOS Revived on earth
 folder: upgrade
 permalink: /devices/earth/upgrade/variant3/
 device: earth_variant3

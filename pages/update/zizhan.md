@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on zizhan
+title: Update LineageOS Revived on zizhan
 folder: update
 permalink: /devices/zizhan/update/
 device: zizhan

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on land
+title: Install LineageOS Revived on land
 folder: install
 permalink: /devices/land/install/
 device: land

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on judyln
+title: Update LineageOS Revived on judyln
 folder: update
 permalink: /devices/judyln/update/variant2/
 device: judyln_variant2

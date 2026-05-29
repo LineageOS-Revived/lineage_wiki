@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on raven
+title: Upgrade LineageOS Revived on raven
 folder: upgrade
 permalink: /devices/raven/upgrade/
 device: raven

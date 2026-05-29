@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tangorpro
+title: Install LineageOS Revived on tangorpro
 folder: install
 permalink: /devices/tangorpro/install/
 device: tangorpro

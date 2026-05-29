@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on avicii
+title: Update LineageOS Revived on avicii
 folder: update
 permalink: /devices/avicii/update/
 device: avicii

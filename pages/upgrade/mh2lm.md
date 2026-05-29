@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on mh2lm
+title: Upgrade LineageOS Revived on mh2lm
 folder: upgrade
 permalink: /devices/mh2lm/upgrade/
 device: mh2lm

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on blueline
+title: Upgrade LineageOS Revived on blueline
 folder: upgrade
 permalink: /devices/blueline/upgrade/
 device: blueline

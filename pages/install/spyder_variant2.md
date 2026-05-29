@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on spyder
+title: Install LineageOS Revived on spyder
 folder: install
 permalink: /devices/spyder/install/variant2/
 device: spyder_variant2

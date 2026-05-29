@@ -9,7 +9,7 @@ toc: false
 
 ## Dolby Vision
 
-You have been redirected here because LineageOS builds for your device do not support Dolby Vision, or local Dolby content decoding.
+You have been redirected here because LineageOS Revived builds for your device do not support Dolby Vision, or local Dolby content decoding.
 
 ### Why is that?
 

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lisa
+title: Install LineageOS Revived on lisa
 folder: install
 permalink: /devices/lisa/install/variant2/
 device: lisa_variant2

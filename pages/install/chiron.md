@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on chiron
+title: Install LineageOS Revived on chiron
 folder: install
 permalink: /devices/chiron/install/
 device: chiron

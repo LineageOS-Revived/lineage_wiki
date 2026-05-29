@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on crosshatch
+title: Upgrade LineageOS Revived on crosshatch
 folder: upgrade
 permalink: /devices/crosshatch/upgrade/
 device: crosshatch

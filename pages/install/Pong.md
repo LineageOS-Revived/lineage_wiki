@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on Pong
+title: Install LineageOS Revived on Pong
 folder: install
 permalink: /devices/Pong/install/
 device: Pong

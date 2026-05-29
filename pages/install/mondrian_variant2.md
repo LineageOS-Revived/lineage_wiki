@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mondrian
+title: Install LineageOS Revived on mondrian
 folder: install
 permalink: /devices/mondrian/install/variant2/
 device: mondrian_variant2

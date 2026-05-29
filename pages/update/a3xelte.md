@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on a3xelte
+title: Update LineageOS Revived on a3xelte
 folder: update
 permalink: /devices/a3xelte/update/
 device: a3xelte

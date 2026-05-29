@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on sunfish
+title: Update LineageOS Revived on sunfish
 folder: update
 permalink: /devices/sunfish/update/
 device: sunfish

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on pyxis
+title: Update LineageOS Revived on pyxis
 folder: update
 permalink: /devices/pyxis/update/variant2/
 device: pyxis_variant2

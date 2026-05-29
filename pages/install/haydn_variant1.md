@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on haydn
+title: Install LineageOS Revived on haydn
 folder: install
 permalink: /devices/haydn/install/variant1/
 device: haydn_variant1

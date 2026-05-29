@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on jfltevzw
+title: Install LineageOS Revived on jfltevzw
 folder: install
 permalink: /devices/jfltevzw/install/
 device: jfltevzw

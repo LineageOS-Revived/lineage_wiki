@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on nx
+title: Upgrade LineageOS Revived on nx
 folder: upgrade
 permalink: /devices/nx/upgrade/
 device: nx

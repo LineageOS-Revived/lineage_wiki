@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on voyager
+title: Install LineageOS Revived on voyager
 folder: install
 permalink: /devices/voyager/install/
 device: voyager

@@ -109,7 +109,7 @@ com.qorvo.uwb
 {% assign apexapks = apexapks | newline_to_br | strip_newlines | replace: "<br />", " " | strip | split: " " %}
 {% assign apexes = apexes | newline_to_br | strip_newlines | replace: "<br />", " " | strip | split: " " %}
 
-LineageOS 19.1 and above will also require APEXes be re-signed.
+LineageOS Revived 19.1 and above will also require APEXes be re-signed.
 Each APEX file is signed with two keys: one for the mini file system image within an APEX and the other for the entire APEX.
 In this case, only SHA256_RSA4096 keys are allowed, default is SHA256_RSA2048. So you need to make a copy of `./development/tools/make_key`
 file and edit to use SHA256_RSA4096.
@@ -119,7 +119,7 @@ sed -i 's|2048|4096|g' ~/.android-certs/make_key
 ```
 Then generate the APEX keys altering the `subject` line below to reflect your information.
 
-{% include alerts/note.html content="Signing keys are usually password protected to ensure if they are accessed by unauthorized individuals they cannot be used to sign packages without knowledge of the password as well.  In this case to sign a LineageOS build, it requires you to setup a password file as described later on this page, which can be securely stored and retrieved as part of your build process.  Alternatively you can create the signing keys without a password by pressing enter when prompted by `make_key`, however this leaves your private keys unprotected if accessed by unauthorized individuals and you should take precautions to protect them and your build system from unauthorized access." %}
+{% include alerts/note.html content="Signing keys are usually password protected to ensure if they are accessed by unauthorized individuals they cannot be used to sign packages without knowledge of the password as well.  In this case to sign a LineageOS Revived build, it requires you to setup a password file as described later on this page, which can be securely stored and retrieved as part of your build process.  Alternatively you can create the signing keys without a password by pressing enter when prompted by `make_key`, however this leaves your private keys unprotected if accessed by unauthorized individuals and you should take precautions to protect them and your build system from unauthorized access." %}
 
 ### Generate keys without a password
 You will need to enter the blank passphrase twice for each APEX key generated.
@@ -147,7 +147,7 @@ You should keep these keys safe, and store the passphrase in a secure location.
 
 ## Generating an install package
 
-{% include alerts/tip.html content="If you wish to preserve your data coming from a LineageOS build you
+{% include alerts/tip.html content="If you wish to preserve your data coming from a LineageOS Revived build you
 didn't build, see [Changing keys](#changing-keys)." %}
 
 ### Generating and signing target files
@@ -163,7 +163,7 @@ mka target-files-package otatools
 Sit back and wait for a while - it may take a while depending on your computer's specs. After
 it's finished, you just need to sign all the APKs and APEXes:
 
-{% include alerts/note.html content="For LineageOS versions older than 18.1 you will have to prepend \"./build/tools/releasetools/\" on the \"sign_target_files_apks\" and \"ota_from_target_files\" commands below." %}
+{% include alerts/note.html content="For LineageOS Revived versions older than 18.1 you will have to prepend \"./build/tools/releasetools/\" on the \"sign_target_files_apks\" and \"ota_from_target_files\" commands below." %}
 
 You may set `ANDROID_PW_FILE` and `EDITOR` environment variables for a more convenient way to enter certificate passwords. When you invoke the `sign_target_files_apks` command, the editor will open `ANDROID_PW_FILE` if this file is missing any relevant certificate passwords.
 ```
@@ -176,14 +176,14 @@ etc...
 ```
 Populate the missing passwords, save the file, and close the editor. Make sure to store this file in a secure location.
 
-Signing process for LineageOS versions 18.1 and below:
+Signing process for LineageOS Revived versions 18.1 and below:
 ```
 croot
 sign_target_files_apks -o -d ~/.android-certs \
     $OUT/obj/PACKAGING/target_files_intermediates/*-target_files-*.zip \
     signed-target_files.zip
 ```
-Signing process for LineageOS versions 19.1 and above:
+Signing process for LineageOS Revived versions 19.1 and above:
 ```
 croot
 sign_target_files_apks -o -d ~/.android-certs \
@@ -222,63 +222,63 @@ on all packages at every boot. Install them for as little time as possible." %}
 
 You can set up your own migration builds by running:
 
-LineageOS 23.0:
+LineageOS Revived 23.0:
 ```
 repopick -f 452269
 ```
 
-LineageOS 22.2:
+LineageOS Revived 22.2:
 ```
 repopick -f 413919
 ```
 
-LineageOS 22.1:
+LineageOS Revived 22.1:
 ```
 repopick -f 413919
 ```
 
-LineageOS 21.0:
+LineageOS Revived 21.0:
 ```
 repopick -f 399285
 ```
 
-LineageOS 20.0:
+LineageOS Revived 20.0:
 ```
 repopick -f 380125
 ```
 
-LineageOS 19.1:
+LineageOS Revived 19.1:
 ```
 repopick -f 327460
 ```
 
-LineageOS 18.1:
+LineageOS Revived 18.1:
 ```
 repopick -f 297539
 ```
 
-LineageOS 17.1:
+LineageOS Revived 17.1:
 ```
 repopick -f 266939
 ```
 
-LineageOS 16.0:
+LineageOS Revived 16.0:
 ```
 repopick -f 239520
 ```
 
-LineageOS 15.1:
+LineageOS Revived 15.1:
 ```
 repopick -f 192655 -P vendor/lineage
 repopick -f 192656 -P frameworks/base
 ```
 
-LineageOS 14.1:
+LineageOS Revived 14.1:
 ```
 repopick -f 156047 162144
 ```
 
-LineageOS 13.0:
+LineageOS Revived 13.0:
 ```
 repopick -f 160272
 ```
@@ -289,31 +289,31 @@ Then, follow the [instructions to generate an install package](#generating-an-in
 
 After installing the migration build, you can switch back to building normal builds:
 
-LineageOS 19.1:
+LineageOS Revived 19.1:
 ```
 cd frameworks/base
 git reset --hard github/lineage-19.1
 ```
 
-LineageOS 18.1:
+LineageOS Revived 18.1:
 ```
 cd frameworks/base
 git reset --hard github/lineage-18.1
 ```
 
-LineageOS 17.1:
+LineageOS Revived 17.1:
 ```
 cd frameworks/base
 git reset --hard github/lineage-17.1
 ```
 
-LineageOS 16.0:
+LineageOS Revived 16.0:
 ```
 cd frameworks/base
 git reset --hard github/lineage-16.0
 ```
 
-LineageOS 15.1:
+LineageOS Revived 15.1:
 ```
 cd vendor/lineage
 git reset --hard github/lineage-15.1
@@ -322,7 +322,7 @@ cd frameworks/base
 git reset --hard github/lineage-15.1
 ```
 
-LineageOS 14.1:
+LineageOS Revived 14.1:
 ```
 cd vendor/cm
 git reset --hard github/cm-14.1
@@ -345,7 +345,7 @@ the recovery.
 #### Test-keys to official or vice versa
 
 If you are moving from a test-keys build (e.g. an "unsigned" unofficial build) to an official
-LineageOS build, you can push the script to your device and run it from Android:
+LineageOS Revived build, you can push the script to your device and run it from Android:
 
 ```
 adb root # This requires an userdebug/eng build and ADB root access to be enabled
@@ -353,7 +353,7 @@ adb shell stop
 adb push ./lineage/scripts/key-migration/migration.sh /data/local/tmp/migration.sh
 adb shell sh /data/local/tmp/migration.sh official
 adb reboot recovery
-# Now install the official LineageOS install zip
+# Now install the official LineageOS Revived install zip
 ```
 
 If you are migrating from an official build to your own "unsigned" builds, you can run the

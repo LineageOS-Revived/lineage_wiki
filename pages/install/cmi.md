@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cmi
+title: Install LineageOS Revived on cmi
 folder: install
 permalink: /devices/cmi/install/
 device: cmi

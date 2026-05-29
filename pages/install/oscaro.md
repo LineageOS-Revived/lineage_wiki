@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on oscaro
+title: Install LineageOS Revived on oscaro
 folder: install
 permalink: /devices/oscaro/install/
 device: oscaro

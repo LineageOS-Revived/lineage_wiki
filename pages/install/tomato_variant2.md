@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tomato
+title: Install LineageOS Revived on tomato
 folder: install
 permalink: /devices/tomato/install/variant2/
 device: tomato_variant2

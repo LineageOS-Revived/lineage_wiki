@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on tomato
+title: Upgrade LineageOS Revived on tomato
 folder: upgrade
 permalink: /devices/tomato/upgrade/variant2/
 device: tomato_variant2

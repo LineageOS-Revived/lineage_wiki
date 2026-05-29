@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on targa
+title: Upgrade LineageOS Revived on targa
 folder: upgrade
 permalink: /devices/targa/upgrade/
 device: targa

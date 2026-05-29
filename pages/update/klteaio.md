@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on klteaio
+title: Update LineageOS Revived on klteaio
 folder: update
 permalink: /devices/klteaio/update/
 device: klteaio

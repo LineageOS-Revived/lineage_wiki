@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on kingdom
+title: Update LineageOS Revived on kingdom
 folder: update
 permalink: /devices/kingdom/update/
 device: kingdom

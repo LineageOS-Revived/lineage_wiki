@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on parker
+title: Update LineageOS Revived on parker
 folder: update
 permalink: /devices/parker/update/
 device: parker

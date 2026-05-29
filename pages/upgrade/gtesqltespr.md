@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gtesqltespr
+title: Upgrade LineageOS Revived on gtesqltespr
 folder: upgrade
 permalink: /devices/gtesqltespr/upgrade/
 device: gtesqltespr

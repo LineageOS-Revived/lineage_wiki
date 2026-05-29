@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on ursa
+title: Update LineageOS Revived on ursa
 folder: update
 permalink: /devices/ursa/update/
 device: ursa

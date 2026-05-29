@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on komodo
+title: Install LineageOS Revived on komodo
 folder: install
 permalink: /devices/komodo/install/
 device: komodo

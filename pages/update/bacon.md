@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on bacon
+title: Update LineageOS Revived on bacon
 folder: update
 permalink: /devices/bacon/update/
 device: bacon

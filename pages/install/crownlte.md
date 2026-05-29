@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on crownlte
+title: Install LineageOS Revived on crownlte
 folder: install
 permalink: /devices/crownlte/install/
 device: crownlte

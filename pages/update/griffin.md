@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on griffin
+title: Update LineageOS Revived on griffin
 folder: update
 permalink: /devices/griffin/update/
 device: griffin

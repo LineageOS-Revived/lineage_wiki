@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cheetah
+title: Install LineageOS Revived on cheetah
 folder: install
 permalink: /devices/cheetah/install/
 device: cheetah

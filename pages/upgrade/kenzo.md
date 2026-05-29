@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on kenzo
+title: Upgrade LineageOS Revived on kenzo
 folder: upgrade
 permalink: /devices/kenzo/upgrade/
 device: kenzo

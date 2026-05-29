@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on peridot
+title: Upgrade LineageOS Revived on peridot
 folder: upgrade
 permalink: /devices/peridot/upgrade/
 device: peridot

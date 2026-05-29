@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on FP3
+title: Update LineageOS Revived on FP3
 folder: update
 permalink: /devices/FP3/update/variant2/
 device: FP3_variant2

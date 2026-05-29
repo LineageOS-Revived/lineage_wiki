@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on mt2
+title: Upgrade LineageOS Revived on mt2
 folder: upgrade
 permalink: /devices/mt2/upgrade/
 device: mt2

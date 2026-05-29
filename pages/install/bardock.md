@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bardock
+title: Install LineageOS Revived on bardock
 folder: install
 permalink: /devices/bardock/install/
 device: bardock

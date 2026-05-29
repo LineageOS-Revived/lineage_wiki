@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on caihong
+title: Install LineageOS Revived on caihong
 folder: install
 permalink: /devices/caihong/install/variant2/
 device: caihong_variant2

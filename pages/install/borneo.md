@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on borneo
+title: Install LineageOS Revived on borneo
 folder: install
 permalink: /devices/borneo/install/
 device: borneo

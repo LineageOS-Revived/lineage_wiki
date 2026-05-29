@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gauguin
+title: Install LineageOS Revived on gauguin
 folder: install
 permalink: /devices/gauguin/install/variant3/
 device: gauguin_variant3

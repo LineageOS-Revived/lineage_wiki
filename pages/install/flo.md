@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on flo
+title: Install LineageOS Revived on flo
 folder: install
 permalink: /devices/flo/install/
 device: flo

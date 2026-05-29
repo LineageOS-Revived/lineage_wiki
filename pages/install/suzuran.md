@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on suzuran
+title: Install LineageOS Revived on suzuran
 folder: install
 permalink: /devices/suzuran/install/
 device: suzuran

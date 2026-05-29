@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on shamu
+title: Upgrade LineageOS Revived on shamu
 folder: upgrade
 permalink: /devices/shamu/upgrade/
 device: shamu

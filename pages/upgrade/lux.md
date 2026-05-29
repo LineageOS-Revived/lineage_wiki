@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on lux
+title: Upgrade LineageOS Revived on lux
 folder: upgrade
 permalink: /devices/lux/upgrade/
 device: lux

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on foster
+title: Install LineageOS Revived on foster
 folder: install
 permalink: /devices/foster/install/variant1/
 device: foster_variant1

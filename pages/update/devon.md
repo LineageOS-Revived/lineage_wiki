@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on devon
+title: Update LineageOS Revived on devon
 folder: update
 permalink: /devices/devon/update/
 device: devon

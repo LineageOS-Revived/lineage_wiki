@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on taimen
+title: Update LineageOS Revived on taimen
 folder: update
 permalink: /devices/taimen/update/
 device: taimen

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gunnar
+title: Install LineageOS Revived on gunnar
 folder: install
 permalink: /devices/gunnar/install/
 device: gunnar

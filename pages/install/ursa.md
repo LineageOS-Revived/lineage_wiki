@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ursa
+title: Install LineageOS Revived on ursa
 folder: install
 permalink: /devices/ursa/install/
 device: ursa

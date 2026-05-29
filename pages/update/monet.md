@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on monet
+title: Update LineageOS Revived on monet
 folder: update
 permalink: /devices/monet/update/
 device: monet

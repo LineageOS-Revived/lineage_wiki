@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on Amber
+title: Update LineageOS Revived on Amber
 folder: update
 permalink: /devices/Amber/update/
 device: Amber

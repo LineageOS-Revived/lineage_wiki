@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on avalon
+title: Install LineageOS Revived on avalon
 folder: install
 permalink: /devices/avalon/install/
 device: avalon

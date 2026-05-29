@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on Spacewar
+title: Upgrade LineageOS Revived on Spacewar
 folder: upgrade
 permalink: /devices/Spacewar/upgrade/
 device: Spacewar

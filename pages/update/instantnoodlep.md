@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on instantnoodlep
+title: Update LineageOS Revived on instantnoodlep
 folder: update
 permalink: /devices/instantnoodlep/update/
 device: instantnoodlep

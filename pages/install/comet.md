@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on comet
+title: Install LineageOS Revived on comet
 folder: install
 permalink: /devices/comet/install/
 device: comet

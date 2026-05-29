@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dm1q
+title: Install LineageOS Revived on dm1q
 folder: install
 permalink: /devices/dm1q/install/
 device: dm1q

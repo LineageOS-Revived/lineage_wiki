@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on violet
+title: Update LineageOS Revived on violet
 folder: update
 permalink: /devices/violet/update/
 device: violet

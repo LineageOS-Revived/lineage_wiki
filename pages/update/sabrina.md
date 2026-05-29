@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on sabrina
+title: Update LineageOS Revived on sabrina
 folder: update
 permalink: /devices/sabrina/update/
 device: sabrina

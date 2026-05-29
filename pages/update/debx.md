@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on debx
+title: Update LineageOS Revived on debx
 folder: update
 permalink: /devices/debx/update/
 device: debx

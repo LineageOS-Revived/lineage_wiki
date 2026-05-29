@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gts7l
+title: Install LineageOS Revived on gts7l
 folder: install
 permalink: /devices/gts7l/install/
 device: gts7l

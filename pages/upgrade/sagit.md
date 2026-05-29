@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on sagit
+title: Upgrade LineageOS Revived on sagit
 folder: upgrade
 permalink: /devices/sagit/upgrade/
 device: sagit

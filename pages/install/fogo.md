@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on fogo
+title: Install LineageOS Revived on fogo
 folder: install
 permalink: /devices/fogo/install/
 device: fogo

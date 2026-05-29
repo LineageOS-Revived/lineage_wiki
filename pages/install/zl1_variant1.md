@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on zl1
+title: Install LineageOS Revived on zl1
 folder: install
 permalink: /devices/zl1/install/variant1/
 device: zl1_variant1

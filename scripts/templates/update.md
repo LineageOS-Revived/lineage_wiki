@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on {codename}
+title: Update LineageOS Revived on {codename}
 folder: update
 permalink: /devices/{codename}/update/
 device: {codename}

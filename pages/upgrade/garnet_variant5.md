@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on garnet
+title: Upgrade LineageOS Revived on garnet
 folder: upgrade
 permalink: /devices/garnet/upgrade/variant5/
 device: garnet_variant5

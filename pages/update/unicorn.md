@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on unicorn
+title: Update LineageOS Revived on unicorn
 folder: update
 permalink: /devices/unicorn/update/
 device: unicorn

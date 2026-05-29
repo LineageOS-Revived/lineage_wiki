@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on renoir
+title: Upgrade LineageOS Revived on renoir
 folder: upgrade
 permalink: /devices/renoir/upgrade/
 device: renoir

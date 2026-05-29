@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on nairo
+title: Update LineageOS Revived on nairo
 folder: update
 permalink: /devices/nairo/update/variant1/
 device: nairo_variant1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on vermeer
+title: Upgrade LineageOS Revived on vermeer
 folder: upgrade
 permalink: /devices/vermeer/upgrade/variant2/
 device: vermeer_variant2

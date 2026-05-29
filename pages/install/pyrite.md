@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on pyrite
+title: Install LineageOS Revived on pyrite
 folder: install
 permalink: /devices/pyrite/install/
 device: pyrite

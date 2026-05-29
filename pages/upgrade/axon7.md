@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on axon7
+title: Upgrade LineageOS Revived on axon7
 folder: upgrade
 permalink: /devices/axon7/upgrade/
 device: axon7

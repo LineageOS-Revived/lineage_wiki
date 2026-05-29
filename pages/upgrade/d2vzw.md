@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on d2vzw
+title: Upgrade LineageOS Revived on d2vzw
 folder: upgrade
 permalink: /devices/d2vzw/upgrade/
 device: d2vzw

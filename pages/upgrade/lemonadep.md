@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on lemonadep
+title: Upgrade LineageOS Revived on lemonadep
 folder: upgrade
 permalink: /devices/lemonadep/upgrade/
 device: lemonadep

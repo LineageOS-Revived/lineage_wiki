@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on bluejay
+title: Update LineageOS Revived on bluejay
 folder: update
 permalink: /devices/bluejay/update/
 device: bluejay

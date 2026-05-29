@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tulip
+title: Install LineageOS Revived on tulip
 folder: install
 permalink: /devices/tulip/install/
 device: tulip

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on vayu
+title: Upgrade LineageOS Revived on vayu
 folder: upgrade
 permalink: /devices/vayu/upgrade/
 device: vayu

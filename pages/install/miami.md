@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on miami
+title: Install LineageOS Revived on miami
 folder: install
 permalink: /devices/miami/install/
 device: miami

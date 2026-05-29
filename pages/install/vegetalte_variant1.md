@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on vegetalte
+title: Install LineageOS Revived on vegetalte
 folder: install
 permalink: /devices/vegetalte/install/variant1/
 device: vegetalte_variant1

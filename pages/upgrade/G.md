@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on G
+title: Upgrade LineageOS Revived on G
 folder: upgrade
 permalink: /devices/G/upgrade/
 device: G

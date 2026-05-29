@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cheeseburger
+title: Upgrade LineageOS Revived on cheeseburger
 folder: upgrade
 permalink: /devices/cheeseburger/upgrade/
 device: cheeseburger

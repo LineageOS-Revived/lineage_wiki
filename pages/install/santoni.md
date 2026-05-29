@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on santoni
+title: Install LineageOS Revived on santoni
 folder: install
 permalink: /devices/santoni/install/
 device: santoni

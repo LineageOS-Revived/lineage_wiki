@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on radxa0
+title: Upgrade LineageOS Revived on radxa0
 folder: upgrade
 permalink: /devices/radxa0/upgrade/
 device: radxa0

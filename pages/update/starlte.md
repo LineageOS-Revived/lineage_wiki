@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on starlte
+title: Update LineageOS Revived on starlte
 folder: update
 permalink: /devices/starlte/update/
 device: starlte

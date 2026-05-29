@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on sif
+title: Update LineageOS Revived on sif
 folder: update
 permalink: /devices/sif/update/
 device: sif

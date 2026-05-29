@@ -9,7 +9,7 @@ toc: false
 
 ## AI Upscaling
 
-You have been redirected here because LineageOS builds for your device do not support the AI upscaling features that the stock ROM supports.
+You have been redirected here because LineageOS Revived builds for your device do not support the AI upscaling features that the stock ROM supports.
 
 AI upscaling utilizing DLSS amongst other components to take lower resolution content and upscale it to 4k.
 

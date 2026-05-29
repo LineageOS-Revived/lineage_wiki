@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on vermeer
+title: Install LineageOS Revived on vermeer
 folder: install
 permalink: /devices/vermeer/install/variant2/
 device: vermeer_variant2

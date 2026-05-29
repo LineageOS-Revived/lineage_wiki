@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on flashlmdd
+title: Update LineageOS Revived on flashlmdd
 folder: update
 permalink: /devices/flashlmdd/update/
 device: flashlmdd

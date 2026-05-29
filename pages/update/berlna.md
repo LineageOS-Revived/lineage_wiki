@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on berlna
+title: Update LineageOS Revived on berlna
 folder: update
 permalink: /devices/berlna/update/
 device: berlna

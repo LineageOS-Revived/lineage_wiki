@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on socrates
+title: Upgrade LineageOS Revived on socrates
 folder: upgrade
 permalink: /devices/socrates/upgrade/
 device: socrates

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on hltechn
+title: Update LineageOS Revived on hltechn
 folder: update
 permalink: /devices/hltechn/update/
 device: hltechn

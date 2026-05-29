@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hawao
+title: Install LineageOS Revived on hawao
 folder: install
 permalink: /devices/hawao/install/
 device: hawao

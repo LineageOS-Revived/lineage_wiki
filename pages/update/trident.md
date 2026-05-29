@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on trident
+title: Update LineageOS Revived on trident
 folder: update
 permalink: /devices/trident/update/
 device: trident

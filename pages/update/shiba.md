@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on shiba
+title: Update LineageOS Revived on shiba
 folder: update
 permalink: /devices/shiba/update/
 device: shiba

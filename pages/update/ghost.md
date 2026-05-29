@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on ghost
+title: Update LineageOS Revived on ghost
 folder: update
 permalink: /devices/ghost/update/
 device: ghost

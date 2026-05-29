@@ -18,7 +18,7 @@ Additional instructions will be provided when you take the test. You are reminde
 
 Please note that once you have been granted unlock access, you **must** unlock your device following instructions of the next step within the validity period (336 hours, or 14 days). Each application is only valid for a single device, and cannot be moved or transferred to any other device. If you are declined for any reason, you can re-attempt the process until you are accepted.
 
-LineageOS is not affiliated with Xiaomi, nor will you find support with filling applications/tests in our community. Please proceed from this step only once all Xiaomi's required steps have been followed, and your device's bootloader is unlocked.
+LineageOS Revived is not affiliated with Xiaomi, nor will you find support with filling applications/tests in our community. Please proceed from this step only once all Xiaomi's required steps have been followed, and your device's bootloader is unlocked.
 
 {% endunless %}
 

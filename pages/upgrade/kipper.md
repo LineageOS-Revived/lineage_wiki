@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on kipper
+title: Upgrade LineageOS Revived on kipper
 folder: upgrade
 permalink: /devices/kipper/upgrade/
 device: kipper

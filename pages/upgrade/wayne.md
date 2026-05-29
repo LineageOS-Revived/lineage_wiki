@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on wayne
+title: Upgrade LineageOS Revived on wayne
 folder: upgrade
 permalink: /devices/wayne/upgrade/
 device: wayne

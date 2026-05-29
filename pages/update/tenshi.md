@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on tenshi
+title: Update LineageOS Revived on tenshi
 folder: update
 permalink: /devices/tenshi/update/
 device: tenshi

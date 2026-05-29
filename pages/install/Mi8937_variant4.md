@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on Mi8937
+title: Install LineageOS Revived on Mi8937
 folder: install
 permalink: /devices/Mi8937/install/variant4/
 device: Mi8937_variant4

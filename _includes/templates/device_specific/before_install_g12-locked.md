@@ -6,7 +6,7 @@ These instructions will only work on devices that have not yet been updated past
 
 You can check this in the Settings application under the "System", "About" tab, labeled "Security Patch Level".
 
-If your device was updated past this build, it is not able to be bootloader unlocked, and you cannot run LineageOS on that device.
+If your device was updated past this build, it is not able to be bootloader unlocked, and you cannot run LineageOS Revived on that device.
 
 Downgrading to older builds is not a viable option.
 

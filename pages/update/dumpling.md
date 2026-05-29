@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on dumpling
+title: Update LineageOS Revived on dumpling
 folder: update
 permalink: /devices/dumpling/update/
 device: dumpling

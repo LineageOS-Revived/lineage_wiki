@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on tulip
+title: Update LineageOS Revived on tulip
 folder: update
 permalink: /devices/tulip/update/
 device: tulip

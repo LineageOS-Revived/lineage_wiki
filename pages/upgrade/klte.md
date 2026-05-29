@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on klte
+title: Upgrade LineageOS Revived on klte
 folder: upgrade
 permalink: /devices/klte/upgrade/
 device: klte

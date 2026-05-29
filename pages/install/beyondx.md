@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on beyondx
+title: Install LineageOS Revived on beyondx
 folder: install
 permalink: /devices/beyondx/install/
 device: beyondx

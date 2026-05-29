@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on berlna
+title: Install LineageOS Revived on berlna
 folder: install
 permalink: /devices/berlna/install/
 device: berlna

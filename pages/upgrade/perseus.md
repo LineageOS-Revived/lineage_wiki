@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on perseus
+title: Upgrade LineageOS Revived on perseus
 folder: upgrade
 permalink: /devices/perseus/upgrade/
 device: perseus

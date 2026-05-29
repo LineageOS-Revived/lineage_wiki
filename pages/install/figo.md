@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on figo
+title: Install LineageOS Revived on figo
 folder: install
 permalink: /devices/figo/install/
 device: figo

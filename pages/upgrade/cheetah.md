@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cheetah
+title: Upgrade LineageOS Revived on cheetah
 folder: upgrade
 permalink: /devices/cheetah/upgrade/
 device: cheetah

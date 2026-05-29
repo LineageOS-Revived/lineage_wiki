@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on beyondx
+title: Upgrade LineageOS Revived on beyondx
 folder: upgrade
 permalink: /devices/beyondx/upgrade/
 device: beyondx

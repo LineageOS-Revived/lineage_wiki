@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on enchilada
+title: Install LineageOS Revived on enchilada
 folder: install
 permalink: /devices/enchilada/install/
 device: enchilada

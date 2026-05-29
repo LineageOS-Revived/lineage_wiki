@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on apollon
+title: Install LineageOS Revived on apollon
 folder: install
 permalink: /devices/apollon/install/variant2/
 device: apollon_variant2

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on kiwi
+title: Update LineageOS Revived on kiwi
 folder: update
 permalink: /devices/kiwi/update/
 device: kiwi

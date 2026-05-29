@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on jagnm
+title: Update LineageOS Revived on jagnm
 folder: update
 permalink: /devices/jagnm/update/
 device: jagnm

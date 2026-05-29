@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on ether
+title: Upgrade LineageOS Revived on ether
 folder: upgrade
 permalink: /devices/ether/upgrade/
 device: ether

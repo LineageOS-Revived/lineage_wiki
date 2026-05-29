@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on fuxi
+title: Update LineageOS Revived on fuxi
 folder: update
 permalink: /devices/fuxi/update/
 device: fuxi

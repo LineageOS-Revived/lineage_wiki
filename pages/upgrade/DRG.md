@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on DRG
+title: Upgrade LineageOS Revived on DRG
 folder: upgrade
 permalink: /devices/DRG/upgrade/
 device: DRG

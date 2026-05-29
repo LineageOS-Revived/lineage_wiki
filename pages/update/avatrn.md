@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on avatrn
+title: Update LineageOS Revived on avatrn
 folder: update
 permalink: /devices/avatrn/update/
 device: avatrn

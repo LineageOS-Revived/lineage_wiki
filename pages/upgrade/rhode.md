@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on rhode
+title: Upgrade LineageOS Revived on rhode
 folder: upgrade
 permalink: /devices/rhode/upgrade/
 device: rhode

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on ocean
+title: Upgrade LineageOS Revived on ocean
 folder: upgrade
 permalink: /devices/ocean/upgrade/
 device: ocean

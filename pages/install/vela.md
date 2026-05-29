@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on vela
+title: Install LineageOS Revived on vela
 folder: install
 permalink: /devices/vela/install/
 device: vela

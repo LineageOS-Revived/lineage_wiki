@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lithium
+title: Install LineageOS Revived on lithium
 folder: install
 permalink: /devices/lithium/install/
 device: lithium

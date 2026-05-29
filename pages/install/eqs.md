@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on eqs
+title: Install LineageOS Revived on eqs
 folder: install
 permalink: /devices/eqs/install/
 device: eqs

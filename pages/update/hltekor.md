@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on hltekor
+title: Update LineageOS Revived on hltekor
 folder: update
 permalink: /devices/hltekor/update/
 device: hltekor

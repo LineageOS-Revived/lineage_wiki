@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on caymanslm
+title: Update LineageOS Revived on caymanslm
 folder: update
 permalink: /devices/caymanslm/update/
 device: caymanslm

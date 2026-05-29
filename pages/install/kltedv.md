@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kltedv
+title: Install LineageOS Revived on kltedv
 folder: install
 permalink: /devices/kltedv/install/
 device: kltedv

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on condor
+title: Install LineageOS Revived on condor
 folder: install
 permalink: /devices/condor/install/
 device: condor

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on merlin
+title: Install LineageOS Revived on merlin
 folder: install
 permalink: /devices/merlin/install/
 device: merlin

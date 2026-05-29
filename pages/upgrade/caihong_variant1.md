@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on caihong
+title: Upgrade LineageOS Revived on caihong
 folder: upgrade
 permalink: /devices/caihong/upgrade/variant1/
 device: caihong_variant1

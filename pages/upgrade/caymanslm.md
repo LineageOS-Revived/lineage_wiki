@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on caymanslm
+title: Upgrade LineageOS Revived on caymanslm
 folder: upgrade
 permalink: /devices/caymanslm/upgrade/
 device: caymanslm

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on thea
+title: Upgrade LineageOS Revived on thea
 folder: upgrade
 permalink: /devices/thea/upgrade/
 device: thea

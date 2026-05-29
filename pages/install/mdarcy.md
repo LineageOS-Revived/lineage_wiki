@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mdarcy
+title: Install LineageOS Revived on mdarcy
 folder: install
 permalink: /devices/mdarcy/install/
 device: mdarcy

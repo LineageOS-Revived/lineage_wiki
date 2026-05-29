@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on angler
+title: Install LineageOS Revived on angler
 folder: install
 permalink: /devices/angler/install/
 device: angler

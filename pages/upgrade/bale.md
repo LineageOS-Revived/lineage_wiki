@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on bale
+title: Upgrade LineageOS Revived on bale
 folder: upgrade
 permalink: /devices/bale/upgrade/
 device: bale

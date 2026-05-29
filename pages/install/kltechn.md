@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kltechn
+title: Install LineageOS Revived on kltechn
 folder: install
 permalink: /devices/kltechn/install/
 device: kltechn

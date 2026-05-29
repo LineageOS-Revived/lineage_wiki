@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on panther
+title: Install LineageOS Revived on panther
 folder: install
 permalink: /devices/panther/install/
 device: panther

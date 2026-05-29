@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on berlin
+title: Upgrade LineageOS Revived on berlin
 folder: upgrade
 permalink: /devices/berlin/upgrade/
 device: berlin

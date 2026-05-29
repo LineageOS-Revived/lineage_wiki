@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on billie
+title: Install LineageOS Revived on billie
 folder: install
 permalink: /devices/billie/install/
 device: billie

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on style3lm
+title: Install LineageOS Revived on style3lm
 folder: install
 permalink: /devices/style3lm/install/
 device: style3lm

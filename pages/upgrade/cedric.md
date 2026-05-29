@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cedric
+title: Upgrade LineageOS Revived on cedric
 folder: upgrade
 permalink: /devices/cedric/upgrade/
 device: cedric

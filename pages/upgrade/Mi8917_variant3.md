@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on Mi8917
+title: Upgrade LineageOS Revived on Mi8917
 folder: upgrade
 permalink: /devices/Mi8917/upgrade/variant3/
 device: Mi8917_variant3

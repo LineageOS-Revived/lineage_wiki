@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on miatoll
+title: Upgrade LineageOS Revived on miatoll
 folder: upgrade
 permalink: /devices/miatoll/upgrade/variant3/
 device: miatoll_variant3

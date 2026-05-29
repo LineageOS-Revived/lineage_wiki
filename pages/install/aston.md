@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on aston
+title: Install LineageOS Revived on aston
 folder: install
 permalink: /devices/aston/install/
 device: aston

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on larry
+title: Install LineageOS Revived on larry
 folder: install
 permalink: /devices/larry/install/variant1/
 device: larry_variant1

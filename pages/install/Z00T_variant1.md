@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on Z00T
+title: Install LineageOS Revived on Z00T
 folder: install
 permalink: /devices/Z00T/install/variant1/
 device: Z00T_variant1

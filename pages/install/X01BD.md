@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on X01BD
+title: Install LineageOS Revived on X01BD
 folder: install
 permalink: /devices/X01BD/install/
 device: X01BD

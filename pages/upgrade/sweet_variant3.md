@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on sweet
+title: Upgrade LineageOS Revived on sweet
 folder: upgrade
 permalink: /devices/sweet/upgrade/variant3/
 device: sweet_variant3

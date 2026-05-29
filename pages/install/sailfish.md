@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sailfish
+title: Install LineageOS Revived on sailfish
 folder: install
 permalink: /devices/sailfish/install/
 device: sailfish

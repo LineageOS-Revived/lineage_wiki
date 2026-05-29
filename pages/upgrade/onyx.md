@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on onyx
+title: Upgrade LineageOS Revived on onyx
 folder: upgrade
 permalink: /devices/onyx/upgrade/
 device: onyx

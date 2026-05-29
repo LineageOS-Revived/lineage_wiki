@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on judyp
+title: Upgrade LineageOS Revived on judyp
 folder: upgrade
 permalink: /devices/judyp/upgrade/
 device: judyp

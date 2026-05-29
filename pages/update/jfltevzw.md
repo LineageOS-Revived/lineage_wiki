@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on jfltevzw
+title: Update LineageOS Revived on jfltevzw
 folder: update
 permalink: /devices/jfltevzw/update/
 device: jfltevzw

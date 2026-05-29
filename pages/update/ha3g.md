@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on ha3g
+title: Update LineageOS Revived on ha3g
 folder: update
 permalink: /devices/ha3g/update/
 device: ha3g

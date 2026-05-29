@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on t0lte
+title: Install LineageOS Revived on t0lte
 folder: install
 permalink: /devices/t0lte/install/
 device: t0lte

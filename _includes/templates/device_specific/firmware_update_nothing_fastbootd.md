@@ -4,7 +4,7 @@
 1. Download the latest full stock ROM update using [nothing_archive](https://github.com/spike0en/nothing_archive)
 {%- endif %}
 2. Extract stock ROM using [payload-dumper-go](https://github.com/ssut/payload-dumper-go/releases/latest)
-3. Boot up LineageOS recovery
+3. Boot up LineageOS Revived recovery
 4. Go to "Advanced" -> "Enter fastboot"
 5. Execute following commands:
    ```

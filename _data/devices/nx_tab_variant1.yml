@@ -21,7 +21,7 @@ no_oem_unlock_switch: true
 peripherals: [3.5mm jack, Accelerometer, Dock, Gyroscope, Joycons, Light sensor]
 quirks: [fde]
 ram: 4 GB
-recovery_boot: Boot to Hekate, then select "More Configs", then hold <kbd>Volume Up</kbd> and select the `LineageOS` entry.
+recovery_boot: Boot to Hekate, then select "More Configs", then hold <kbd>Volume Up</kbd> and select the `LineageOS Revived` entry.
 recovery_partition_name: recovery
 release: 2017-03-03
 screen: {resolution: '1280x720', size: 6.2, technology: 'LCD'}

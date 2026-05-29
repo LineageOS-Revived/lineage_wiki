@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on k3gxx
+title: Install LineageOS Revived on k3gxx
 folder: install
 permalink: /devices/k3gxx/install/
 device: k3gxx

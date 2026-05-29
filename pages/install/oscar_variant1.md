@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on oscar
+title: Install LineageOS Revived on oscar
 folder: install
 permalink: /devices/oscar/install/variant1/
 device: oscar_variant1

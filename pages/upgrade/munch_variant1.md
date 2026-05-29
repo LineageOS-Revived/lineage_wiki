@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on munch
+title: Upgrade LineageOS Revived on munch
 folder: upgrade
 permalink: /devices/munch/upgrade/variant1/
 device: munch_variant1

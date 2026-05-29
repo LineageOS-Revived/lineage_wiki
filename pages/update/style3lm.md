@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on style3lm
+title: Update LineageOS Revived on style3lm
 folder: update
 permalink: /devices/style3lm/update/
 device: style3lm

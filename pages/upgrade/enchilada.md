@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on enchilada
+title: Upgrade LineageOS Revived on enchilada
 folder: upgrade
 permalink: /devices/enchilada/upgrade/
 device: enchilada

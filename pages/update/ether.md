@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on ether
+title: Update LineageOS Revived on ether
 folder: update
 permalink: /devices/ether/update/
 device: ether

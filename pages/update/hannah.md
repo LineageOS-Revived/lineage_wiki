@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on hannah
+title: Update LineageOS Revived on hannah
 folder: update
 permalink: /devices/hannah/update/
 device: hannah

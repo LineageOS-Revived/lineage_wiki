@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cupid
+title: Install LineageOS Revived on cupid
 folder: install
 permalink: /devices/cupid/install/
 device: cupid

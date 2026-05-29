@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on Spacewar
+title: Install LineageOS Revived on Spacewar
 folder: install
 permalink: /devices/Spacewar/install/
 device: Spacewar

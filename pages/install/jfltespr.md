@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on jfltespr
+title: Install LineageOS Revived on jfltespr
 folder: install
 permalink: /devices/jfltespr/install/
 device: jfltespr

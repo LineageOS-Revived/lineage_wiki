@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on avalon
+title: Update LineageOS Revived on avalon
 folder: update
 permalink: /devices/avalon/update/
 device: avalon

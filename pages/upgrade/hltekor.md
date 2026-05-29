@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on hltekor
+title: Upgrade LineageOS Revived on hltekor
 folder: upgrade
 permalink: /devices/hltekor/upgrade/
 device: hltekor

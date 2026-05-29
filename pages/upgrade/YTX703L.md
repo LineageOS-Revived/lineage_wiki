@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on YTX703L
+title: Upgrade LineageOS Revived on YTX703L
 folder: upgrade
 permalink: /devices/YTX703L/upgrade/
 device: YTX703L

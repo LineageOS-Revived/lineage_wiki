@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nuwa
+title: Install LineageOS Revived on nuwa
 folder: install
 permalink: /devices/nuwa/install/
 device: nuwa

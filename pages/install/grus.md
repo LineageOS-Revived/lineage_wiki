@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on grus
+title: Install LineageOS Revived on grus
 folder: install
 permalink: /devices/grus/install/
 device: grus

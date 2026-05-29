@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on onclite
+title: Install LineageOS Revived on onclite
 folder: install
 permalink: /devices/onclite/install/variant2/
 device: onclite_variant2

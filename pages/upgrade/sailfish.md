@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on sailfish
+title: Upgrade LineageOS Revived on sailfish
 folder: upgrade
 permalink: /devices/sailfish/upgrade/
 device: sailfish

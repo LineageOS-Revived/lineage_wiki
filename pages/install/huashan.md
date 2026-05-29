@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on huashan
+title: Install LineageOS Revived on huashan
 folder: install
 permalink: /devices/huashan/install/
 device: huashan

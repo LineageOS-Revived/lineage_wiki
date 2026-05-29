@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on serranoltexx
+title: Upgrade LineageOS Revived on serranoltexx
 folder: upgrade
 permalink: /devices/serranoltexx/upgrade/
 device: serranoltexx

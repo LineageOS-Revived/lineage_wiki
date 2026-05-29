@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on griffin
+title: Upgrade LineageOS Revived on griffin
 folder: upgrade
 permalink: /devices/griffin/upgrade/
 device: griffin

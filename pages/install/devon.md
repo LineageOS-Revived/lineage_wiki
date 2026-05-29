@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on devon
+title: Install LineageOS Revived on devon
 folder: install
 permalink: /devices/devon/install/
 device: devon

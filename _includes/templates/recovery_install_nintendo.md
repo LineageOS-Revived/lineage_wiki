@@ -1,6 +1,6 @@
 ## Pre-Install Information
 
-LineageOS builds for this device support the following device configurations:
+LineageOS Revived builds for this device support the following device configurations:
 
 Configuration 1:
 * An original, exploitable "v1" Nintendo Switch with your preferred JoyCons attached during installation
@@ -37,7 +37,7 @@ Additionally, this guide will not detail exploiting or ModChipping your Switch, 
 
 ## Preparing the SD Card
 1. Connect your device to your PC, and navigate to your SD Card once it is mounted.
-2. Please download the following files from [here](https://download.lineageos.org/devices/{{ device.codename }}/builds) and place them in the noted folders (which you will potentially have to create) on your device's SD Card:
+2. Please download the following files from [here](https://download.lineage.rgbroms.top/devices/{{ device.codename }}/builds) and place them in the noted folders (which you will potentially have to create) on your device's SD Card:
    * `boot.img` -> `switchroot/install/boot.img`
    * `recovery.img` -> `switchroot/install/recovery.img`
    * `nx-plat.dtimg` -> `switchroot/install/nx-plat.dtimg`
@@ -50,7 +50,7 @@ Additionally, this guide will not detail exploiting or ModChipping your Switch, 
    * [`icon_android_hue.bmp`]({{ "images/device_specific/nx/icon_android_hue.bmp" | relative_url }}) -> `switchroot/android/icon_android_hue.bmp`
 4. Create a new text file called `android.ini` at `bootloader/ini/android.ini` and populate it with the following:
 ```
-[LineageOS]
+[LineageOS Revived]
 l4t=1
 boot_prefixes=switchroot/android/
 id=SWANDR
@@ -74,6 +74,6 @@ Found 2 out of 2 Joy-Con Pairing data!
 Both pairing data are HOS based!
 ```
     {% include alerts/note.html content="You must have booted HOS (the stock Nintendo Switch OS) with your preferred JoyCons attached prior to doing this, or it will likely not succeed. You may boot to HOS at this point if necessary, and re-run this specific step after reboot." %}
-10. When the process is complete, navigate to the Hekate's main menu by clicking "X Close" in the top right of the screen. Then select "More Configs", hold the Volume Up button, and select the "LineageOS" option to boot into recovery. Do not release the Volume Up button until you see the LineageOS splash screen.
-    {% include alerts/note.html content="If any messages display in the top left of the LineageOS splash screen, please start again and follow the guide more carefully." %}
-    {% include alerts/warning.html content="Please note that all references to wiping/formatting  `Internal Storage` in LineageOS Recovery refers **only** to the `/data` and `/cache` partitions of your Android installation. None of these actions are capable of wiping/formatting your HOS (the stock Nintendo Switch OS), or HOS Data SD Card partition." %}
+10. When the process is complete, navigate to the Hekate's main menu by clicking "X Close" in the top right of the screen. Then select "More Configs", hold the Volume Up button, and select the "LineageOS Revived" option to boot into recovery. Do not release the Volume Up button until you see the LineageOS Revived splash screen.
+    {% include alerts/note.html content="If any messages display in the top left of the LineageOS Revived splash screen, please start again and follow the guide more carefully." %}
+    {% include alerts/warning.html content="Please note that all references to wiping/formatting  `Internal Storage` in LineageOS Revived Recovery refers **only** to the `/data` and `/cache` partitions of your Android installation. None of these actions are capable of wiping/formatting your HOS (the stock Nintendo Switch OS), or HOS Data SD Card partition." %}

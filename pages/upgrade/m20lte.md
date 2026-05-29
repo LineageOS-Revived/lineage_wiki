@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on m20lte
+title: Upgrade LineageOS Revived on m20lte
 folder: upgrade
 permalink: /devices/m20lte/upgrade/
 device: m20lte

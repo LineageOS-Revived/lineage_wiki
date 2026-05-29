@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on klimtwifi
+title: Update LineageOS Revived on klimtwifi
 folder: update
 permalink: /devices/klimtwifi/update/
 device: klimtwifi

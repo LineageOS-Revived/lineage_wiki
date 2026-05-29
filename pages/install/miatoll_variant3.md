@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on miatoll
+title: Install LineageOS Revived on miatoll
 folder: install
 permalink: /devices/miatoll/install/variant3/
 device: miatoll_variant3

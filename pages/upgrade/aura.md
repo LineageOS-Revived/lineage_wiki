@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on aura
+title: Upgrade LineageOS Revived on aura
 folder: upgrade
 permalink: /devices/aura/upgrade/
 device: aura

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on espressowifi
+title: Upgrade LineageOS Revived on espressowifi
 folder: upgrade
 permalink: /devices/espressowifi/upgrade/
 device: espressowifi

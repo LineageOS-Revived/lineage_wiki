@@ -242,7 +242,7 @@
     {%- endif %}
     <!-- lineage info -->
     <tr>
-        <th scope="row" colspan="2">LineageOS info</th>
+        <th scope="row" colspan="2">LineageOS Revived info</th>
     </tr>
     {%- if device.maintainers != empty %}
     <tr>
@@ -271,7 +271,7 @@
                 <li>
                     {{ device.kernel.version }}
                     {%- if device.kernel.repo %}
-                    (<a href="https://github.com/LineageOS/{{ device.kernel.repo }}">source code</a>)
+                    (<a href="https://github.com/LineageOS-Revived/{{ device.kernel.repo }}">source code</a>)
                     {%- endif %}
                 </li>
             </ul>

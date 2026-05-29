@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on merlin
+title: Upgrade LineageOS Revived on merlin
 folder: upgrade
 permalink: /devices/merlin/upgrade/
 device: merlin

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on judypn
+title: Update LineageOS Revived on judypn
 folder: update
 permalink: /devices/judypn/update/
 device: judypn

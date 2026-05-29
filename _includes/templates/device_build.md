@@ -7,8 +7,8 @@
 ## Introduction
 
 These instructions will hopefully assist you to start with a stock {{ device.vendor }} {{ device.name }}, unlock the bootloader (if necessary), and then download
-the required tools as well as the very latest source code for LineageOS (based on Google’s Android operating system) for your device. Using these, you can build both
-a LineageOS installation zip and a LineageOS Recovery image and install them on your device.
+the required tools as well as the very latest source code for LineageOS Revived (based on Google’s Android operating system) for your device. Using these, you can build both
+a LineageOS Revived installation zip and a LineageOS Revived Recovery image and install them on your device.
 
 It is difficult to say how much experience is necessary to follow these instructions. While this guide is certainly not for the extremely uninitiated,
 these steps shouldn’t require a PhD in software development either. Some readers will have no difficulty and breeze through the steps easily.
@@ -24,7 +24,7 @@ or use what you’ve learned to build a new app or port to a new device-- or may
 {% include templates/device_build_before_init.md %}
 
 
-### Initialize the LineageOS source repository
+### Initialize the LineageOS Revived source repository
 
 {% if device.maintainers != empty %}
 The following branches are officially supported for the {{ device.vendor }} {{ device.name }}:
@@ -51,9 +51,9 @@ The following branches can be used to build for the {{ device.vendor }} {{ devic
 breakfast {{ device.codename }}
 ```
 
-This will download your device's [device specific configuration](https://github.com/LineageOS/{{ device.tree }}) and
+This will download your device's [device specific configuration](https://github.com/LineageOS-Revived/{{ device.tree }}) and
 {%- if device.kernel.repo %}
-[kernel](https://github.com/LineageOS/{{ device.kernel.repo }}).
+[kernel](https://github.com/LineageOS-Revived/{{ device.kernel.repo }}).
 {%- else %}
 kernel.
 {%- endif %}
@@ -65,7 +65,7 @@ makefiles, jump down to [_Extract proprietary blobs_](#extract-proprietary-blobs
 ### Extract proprietary blobs
 
 {% capture extracting_blobs_from_zips %}
-This step requires to have a device already running the latest LineageOS, based on the branch you wish to build for. If you don't have access to such device, refer to [Extracting proprietary blobs from installable zip]({{ "extracting_blobs_from_zips.html" | relative_url }}).
+This step requires to have a device already running the latest LineageOS Revived, based on the branch you wish to build for. If you don't have access to such device, refer to [Extracting proprietary blobs from installable zip]({{ "extracting_blobs_from_zips.html" | relative_url }}).
 {% endcapture %}
 {% include alerts/note.html content=extracting_blobs_from_zips %}
 
@@ -119,15 +119,11 @@ cd $OUT
 
 There you'll find all the files that were created. The two files of more interest are:
 
-1. `{{ device.recovery_partition_name }}.img`, which is the LineageOS recovery image.
-2. `lineage-{{ device.current_branch | precision: 1 }}-{{ site.time | date: "%Y%m%d" }}-UNOFFICIAL-{{ device.codename }}.zip`, which is the LineageOS
+1. `{{ device.recovery_partition_name }}.img`, which is the LineageOS Revived recovery image.
+2. `lineage-{{ device.current_branch | precision: 1 }}-{{ site.time | date: "%Y%m%d" }}-UNOFFICIAL-{{ device.codename }}.zip`, which is the LineageOS Revived
 installer package.
 
 ### Success! So... what's next?
 
 You've done it! Welcome to the elite club of self-builders. You've built your operating system from scratch, from the ground up. You are the master/mistress of your domain... and
 hopefully you've learned a bit on the way and had some fun too.
-
-## To get assistance
-
-* [#LineageOS-dev](https://web.libera.chat/gamja/?channel=#lineageos-dev) - A helpful, real-time chat room (or "channel"), on the Libera.Chat [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. We also have a [Discord Server](https://discord.gg/gD6DMtf) which is bridged with IRC.

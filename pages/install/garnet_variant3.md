@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on garnet
+title: Install LineageOS Revived on garnet
 folder: install
 permalink: /devices/garnet/install/variant3/
 device: garnet_variant3

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on akita
+title: Update LineageOS Revived on akita
 folder: update
 permalink: /devices/akita/update/
 device: akita

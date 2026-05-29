@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on walleye
+title: Update LineageOS Revived on walleye
 folder: update
 permalink: /devices/walleye/update/
 device: walleye

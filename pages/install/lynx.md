@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lynx
+title: Install LineageOS Revived on lynx
 folder: install
 permalink: /devices/lynx/install/
 device: lynx

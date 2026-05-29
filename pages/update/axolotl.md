@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on axolotl
+title: Update LineageOS Revived on axolotl
 folder: update
 permalink: /devices/axolotl/update/
 device: axolotl

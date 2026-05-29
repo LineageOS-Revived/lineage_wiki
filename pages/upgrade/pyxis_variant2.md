@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on pyxis
+title: Upgrade LineageOS Revived on pyxis
 folder: upgrade
 permalink: /devices/pyxis/upgrade/variant2/
 device: pyxis_variant2

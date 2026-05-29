@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on salami
+title: Update LineageOS Revived on salami
 folder: update
 permalink: /devices/salami/update/
 device: salami

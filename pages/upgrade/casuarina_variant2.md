@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on casuarina
+title: Upgrade LineageOS Revived on casuarina
 folder: upgrade
 permalink: /devices/casuarina/upgrade/variant2/
 device: casuarina_variant2

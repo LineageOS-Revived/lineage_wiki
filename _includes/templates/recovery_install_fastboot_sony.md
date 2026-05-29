@@ -8,7 +8,7 @@
 Unlocking the bootloader will erase all data on your device!
 {% if release_year < 2017 %}
 This also includes your DRM keys, which are stored in the Trim Area partition (also called TA).
-Before proceeding, ensure the data you would like to retain is backed up to your PC and/or your Google account, or equivalent. Please note that OEM backup solutions like Samsung and Motorola backup may not be accessible from LineageOS once installed.
+Before proceeding, ensure the data you would like to retain is backed up to your PC and/or your Google account, or equivalent. Please note that OEM backup solutions like Samsung and Motorola backup may not be accessible from LineageOS Revived once installed.
 If you wish to backup the TA partition first, you can find tutorials related to your device on the internet."
 {%- endif -%}
 {%- endcapture %}
@@ -66,9 +66,9 @@ fastboot oem unlock <your_unlock_code>
 {%- elsif device.uses_twrp %}
 1. Download a custom recovery - you can download [TWRP](https://dl.twrp.me/{{ custom_recovery_codename }}). Simply download the latest recovery file, named something like `twrp-x.x.x-x-{{ custom_recovery_codename }}.img`.
 {%- elsif device.maintainers != empty %}
-1. Download [Lineage Recovery](https://download.lineageos.org/devices/{{ custom_recovery_codename }}). Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
+1. Download [Lineage Recovery](https://download.lineage.rgbroms.top/devices/{{ custom_recovery_codename }}). Simply download the latest recovery file, named `{{ device.recovery_partition_name }}.img`.
 {%- else %}
-1. [Build]({{ device | device_link: "build" | relative_url }}) a LineageOS installation package. The recovery will be built as part of it!
+1. [Build]({{ device | device_link: "build" | relative_url }}) a LineageOS Revived installation package. The recovery will be built as part of it!
 {%- endif %}
 2. Connect your device to your PC via USB.
 3. On the computer, open a command prompt (on Windows) or terminal (on Linux or macOS) window, and type:

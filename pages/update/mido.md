@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on mido
+title: Update LineageOS Revived on mido
 folder: update
 permalink: /devices/mido/update/
 device: mido

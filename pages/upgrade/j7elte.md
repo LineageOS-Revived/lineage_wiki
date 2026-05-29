@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on j7elte
+title: Upgrade LineageOS Revived on j7elte
 folder: upgrade
 permalink: /devices/j7elte/upgrade/
 device: j7elte

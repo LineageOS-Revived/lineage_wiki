@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on armani
+title: Upgrade LineageOS Revived on armani
 folder: upgrade
 permalink: /devices/armani/upgrade/
 device: armani

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on suzu
+title: Upgrade LineageOS Revived on suzu
 folder: upgrade
 permalink: /devices/suzu/upgrade/
 device: suzu

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gauguin
+title: Upgrade LineageOS Revived on gauguin
 folder: upgrade
 permalink: /devices/gauguin/upgrade/variant1/
 device: gauguin_variant1

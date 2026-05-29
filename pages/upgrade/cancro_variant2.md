@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on cancro
+title: Upgrade LineageOS Revived on cancro
 folder: upgrade
 permalink: /devices/cancro/upgrade/variant2/
 device: cancro_variant2

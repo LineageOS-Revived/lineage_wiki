@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on Pong
+title: Update LineageOS Revived on Pong
 folder: update
 permalink: /devices/Pong/update/
 device: Pong

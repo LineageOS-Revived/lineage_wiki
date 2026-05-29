@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on chagallwifi
+title: Update LineageOS Revived on chagallwifi
 folder: update
 permalink: /devices/chagallwifi/update/
 device: chagallwifi

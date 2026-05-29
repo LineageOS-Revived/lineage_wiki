@@ -36,13 +36,13 @@ This generation of Amlogic device includes a unique boot mode called "Burn Mode"
  ```
  fastboot getvar unlocked
  ```
- {% include alerts/warning.html content="Please only proceed if the status returns are `unlocked: yes`, if for some reason at this point it does not, please re-run the above to confirm it ran successfully, if it looks to have succeeded but reports `unlocked: no`, your device likely is not bootloader unlockable and you cannot run LineageOS." %}
+ {% include alerts/warning.html content="Please only proceed if the status returns are `unlocked: yes`, if for some reason at this point it does not, please re-run the above to confirm it ran successfully, if it looks to have succeeded but reports `unlocked: no`, your device likely is not bootloader unlockable and you cannot run LineageOS Revived." %}
 
 ## Flashing the dtb and dtbo partitions
 
  {% include alerts/warning.html content="This platform requires the dtb and dtbo partitions to be flashed for recovery to work properly, the process to do so is described below." %}
 
- 1. Download dtb.img and dtbo.img file from [here](https://download.lineageos.org/devices/{{ device.codename }}).
+ 1. Download dtb.img and dtbo.img file from [here](https://download.lineage.rgbroms.top/devices/{{ device.codename }}).
  2. Reboot the device into bootloader mode:
      * {{ device.download_boot }}
  3. Flash the downloaded image files to your device by running:

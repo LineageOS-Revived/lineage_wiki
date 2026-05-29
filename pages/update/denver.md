@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on denver
+title: Update LineageOS Revived on denver
 folder: update
 permalink: /devices/denver/update/
 device: denver

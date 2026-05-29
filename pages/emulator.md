@@ -6,16 +6,16 @@ permalink: emulator.html
 
 ## Introduction
 
-In case you don't have an officially supported device, don't want to test changes on your daily driver, or are just someone who wants to test apps with LineageOS-specific features, we've still got you covered.
+In case you don't have an officially supported device, don't want to test changes on your daily driver, or are just someone who wants to test apps with LineageOS Revived-specific features, we've still got you covered.
 
-These instructions will help you build an emulator-compatible version of LineageOS, ready to run on your computer. If you want to use Android Studio/AVD there are also instructions for packing up/installing your
+These instructions will help you build an emulator-compatible version of LineageOS Revived, ready to run on your computer. If you want to use Android Studio/AVD there are also instructions for packing up/installing your
 custom build instead of the default AOSP images that Google provides.
 
 
 {% include templates/device_build_before_init.md %}
 
 
-### Initialize the LineageOS source repository
+### Initialize the LineageOS Revived source repository
 
 The following branches have been tested for building emulator images:
 
@@ -48,17 +48,17 @@ breakfast <target> eng
 
 |                               |              |  Build targets     |  Supported `<arch>`                |
 |-------------------------------|--------------|--------------------|------------------------------------|
-| **LineageOS 17 and below**    |              |                    |                                    |
+| **LineageOS Revived 17 and below**    |              |                    |                                    |
 |-------------------------------|--------------|--------------------|------------------------------------|
 | Phone                         | Emulator/GSI | `<arch>`           | `arm`, `arm64`, `x86` and `x86_64` |
 |-------------------------------|--------------|--------------------|------------------------------------|
-| **LineageOS 18.1**            |              |                    |                                    |
+| **LineageOS Revived 18.1**            |              |                    |                                    |
 |-------------------------------|--------------|--------------------|------------------------------------|
 | Phone                         | Emulator/GSI | `<arch>`           | `arm`, `arm64`, `x86` and `x86_64` |
 | TV                            | Emulator/GSI | `tv_<arch>`        | `arm`, `arm64`, `x86` and `x86_64` |
 | Automotive                    | Emulator/GSI | `car_<arch>`       | `arm64` and `x86_64`               |
 |-------------------------------|--------------|--------------------|------------------------------------|
-| **LineageOS 19 and above**    |              |                    |                                    |
+| **LineageOS Revived 19 and above**    |              |                    |                                    |
 |-------------------------------|--------------|--------------------|------------------------------------|
 | Phone                         | Emulator     | `sdk_phone_<arch>` | `x86` and `x86_64`                 |
 | Phone                         | GSI          | `gsi_<arch>`       | `arm`, `arm64`, `x86` and `x86_64` |
@@ -67,7 +67,7 @@ breakfast <target> eng
 | Automotive                    | Emulator     | `sdk_car_<arch>`   | `arm64` and `x86_64`               |
 | Automotive                    | GSI          | `gsi_car_<arch>`   | `arm64` and `x86_64`               |
 |-------------------------------|--------------|--------------------|------------------------------------|
-| **LineageOS 21 and above**    |              |                    |                                    |
+| **LineageOS Revived 21 and above**    |              |                    |                                    |
 |-------------------------------|--------------|--------------------|------------------------------------|
 | Phone                         | Emulator     | `sdk_phone_<arch>` | `arm64` and `x86_64`               |
 | Phone                         | GSI          | `gsi_<arch>`       | `arm`, `arm64`, `x86` and `x86_64` |
@@ -80,7 +80,7 @@ breakfast <target> eng
 
 For starting, `x86` or `x86_64` is recommended, as your computer can run it natively using hardware acceleration.
 
-{% include alerts/tip.html content="If you're running an ARM computer such as an Apple Silicon Mac, you should choose `arm64` for supported LineageOS Versions.<br> This will significanly improve the emulator performance compared to using `x86_64` builds via a translation layer such as Rosetta 2." %}
+{% include alerts/tip.html content="If you're running an ARM computer such as an Apple Silicon Mac, you should choose `arm64` for supported LineageOS Revived Versions.<br> This will significanly improve the emulator performance compared to using `x86_64` builds via a translation layer such as Rosetta 2." %}
 
 Instead of `eng` one can also target `userdebug`, the latter is used by official AOSP emulator images, but ADB and communication with the emulator will need to be enabled first.
 
@@ -97,7 +97,7 @@ Assuming the build completed without errors, type the following in the terminal 
 emulator
 ```
 
-The emulator will fire up and you'll see the LineageOS boot animation. After some time, it will finish booting up and be ready to use.
+The emulator will fire up and you'll see the LineageOS Revived boot animation. After some time, it will finish booting up and be ready to use.
 
 
 ### Success! So... what's next?
@@ -111,14 +111,14 @@ hopefully you've learned a bit on the way and had some fun too.
 In case you want to run the emulator image independently from the system/terminal you built it in, you are able to export the built image into a format that can be used by Android Studio/AVD.
 To do that, run the following command in the same terminal that you originally started the build in:
 
-* LineageOS 20 and below
+* LineageOS Revived 20 and below
 ```
 mka sdk_addon
 ```
 
 If you now look into the `out/host/linux-x86/sdk_addon` directory, you will find a ZIP file (ending in `-img.zip`) that contains all the necessary files for running the emulator image externally.
 
-* LineageOS 21 and above
+* LineageOS Revived 21 and above
 ```
 mka emu_img_zip
 ```
@@ -130,10 +130,7 @@ AOSP uses the following path name by default, but you are free to make up your o
 
 `system-images/android-<sdk version>/<tag>/<arch>` (where `<tag>` is one of `default`/`google_apis`/`google_apis_playstore`)
 
-LineageOS emulator builds will use the tag `lineage` by default (visible as "LineageOS" in the images list).
+LineageOS Revived emulator builds will use the tag `lineage` by default (visible as "LineageOS Revived" in the images list).
 
 As long as you **haven't** moved the folder directly into `system-images`, the emulator image should now show up in the of the lists of images when creating a new virtual Android device.
 
-## To get assistance
-
-* [#LineageOS-dev](https://web.libera.chat/gamja/?channel=#lineageos-dev) - A helpful, real-time chat room (or "channel"), on the Libera.Chat [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) network. We also have a [Discord Server](https://discord.gg/gD6DMtf) which is bridged with IRC.

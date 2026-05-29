@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on surnia
+title: Install LineageOS Revived on surnia
 folder: install
 permalink: /devices/surnia/install/
 device: surnia

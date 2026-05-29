@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on athene
+title: Upgrade LineageOS Revived on athene
 folder: upgrade
 permalink: /devices/athene/upgrade/
 device: athene

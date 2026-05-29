@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on suzuran
+title: Update LineageOS Revived on suzuran
 folder: update
 permalink: /devices/suzuran/update/
 device: suzuran

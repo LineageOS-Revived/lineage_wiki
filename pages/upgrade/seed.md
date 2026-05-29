@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on seed
+title: Upgrade LineageOS Revived on seed
 folder: upgrade
 permalink: /devices/seed/upgrade/
 device: seed

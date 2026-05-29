@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on hotdog
+title: Update LineageOS Revived on hotdog
 folder: update
 permalink: /devices/hotdog/update/
 device: hotdog

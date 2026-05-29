@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on a52sxq
+title: Upgrade LineageOS Revived on a52sxq
 folder: upgrade
 permalink: /devices/a52sxq/upgrade/
 device: a52sxq

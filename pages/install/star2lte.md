@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on star2lte
+title: Install LineageOS Revived on star2lte
 folder: install
 permalink: /devices/star2lte/install/
 device: star2lte

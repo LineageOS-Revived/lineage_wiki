@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on r8q
+title: Install LineageOS Revived on r8q
 folder: install
 permalink: /devices/r8q/install/variant1/
 device: r8q_variant1

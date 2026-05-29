@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on capri
+title: Install LineageOS Revived on capri
 folder: install
 permalink: /devices/capri/install/variant1/
 device: capri_variant1

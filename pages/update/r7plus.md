@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on r7plus
+title: Update LineageOS Revived on r7plus
 folder: update
 permalink: /devices/r7plus/update/
 device: r7plus

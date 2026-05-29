@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on mata
+title: Upgrade LineageOS Revived on mata
 folder: upgrade
 permalink: /devices/mata/upgrade/
 device: mata

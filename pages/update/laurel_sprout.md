@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on laurel_sprout
+title: Update LineageOS Revived on laurel_sprout
 folder: update
 permalink: /devices/laurel_sprout/update/
 device: laurel_sprout

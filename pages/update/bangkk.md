@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on bangkk
+title: Update LineageOS Revived on bangkk
 folder: update
 permalink: /devices/bangkk/update/
 device: bangkk

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on n2awifi
+title: Update LineageOS Revived on n2awifi
 folder: update
 permalink: /devices/n2awifi/update/
 device: n2awifi

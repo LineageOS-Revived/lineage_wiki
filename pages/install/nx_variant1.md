@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nx
+title: Install LineageOS Revived on nx
 folder: install
 permalink: /devices/nx/install/variant1/
 device: nx_variant1

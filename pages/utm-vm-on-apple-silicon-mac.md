@@ -4,8 +4,8 @@ title: Building and installing for UTM virtual machine on Apple Silicon Mac
 permalink: utm-vm-on-apple-silicon-mac.html
 ---
 
-{% include alerts/warning.html content="This is not officially supported and is maintained by individual LineageOS maintainers. Due to this, unlike Cuttlefish/Emulator/AVD which is guaranteed to function when built, these targets carry no such guarantee." %}
-{% include alerts/warning.html content="None of the `virtio_*` build targets are built by LineageOS build servers, and no OTA updates will be delivered to builds of these targets. As such, you must build all images and update the builds manually." %}
+{% include alerts/warning.html content="This is not officially supported and is maintained by individual LineageOS Revived maintainers. Due to this, unlike Cuttlefish/Emulator/AVD which is guaranteed to function when built, these targets carry no such guarantee." %}
+{% include alerts/warning.html content="None of the `virtio_*` build targets are built by LineageOS Revived build servers, and no OTA updates will be delivered to builds of these targets. As such, you must build all images and update the builds manually." %}
 
 ## Known issues
 
@@ -15,7 +15,7 @@ Please refer to [here](libvirt-qemu.html#known-issues).
 
 ## Introduction
 
-Similar to [libvirt QEMU virtual machine](libvirt-qemu.html#introduction), this also offers a LineageOS experience inside a QEMU-based virtual machine.
+Similar to [libvirt QEMU virtual machine](libvirt-qemu.html#introduction), this also offers a LineageOS Revived experience inside a QEMU-based virtual machine.
 
 The UTM app is a popular non-commercial virtual machine app made for Apple iOS and macOS, built on QEMU.
 
@@ -25,7 +25,7 @@ The `virtio_*` targets are also suitable for use in a UTM virtual machine.
 
 {% include templates/device_build_before_init.md %}
 
-### Initialize the LineageOS source repository
+### Initialize the LineageOS Revived source repository
 
 The following branches are currently supported for building a UTM virtual machine package:
 
@@ -50,7 +50,7 @@ Please refer to [this](libvirt-qemu.html#select-the-target-to-build) to help sel
 
 Time to start building!
 
-To build the ZIP archive containing UTM virtual machine package with LineageOS pre-installed:
+To build the ZIP archive containing UTM virtual machine package with LineageOS Revived pre-installed:
 ```
 m vm-utm-zip
 ```
@@ -69,9 +69,9 @@ Locate the ZIP archive `UTM-VM-lineage-*-{{ site.time | date: "%Y%m%d" }}-UNOFFI
 
 Double-click on it to decompress it.
 
-After the decompression process finishes, the UTM virtual machine package named `LineageOS_on_<Architecture>.utm` will appear in the same directory.
+After the decompression process finishes, the UTM virtual machine package named `LineageOS Revived_on_<Architecture>.utm` will appear in the same directory.
 
-Double-click on the package, the UTM main window will appear, and the virtual machine will be loaded on UTM with the name `LineageOS on <Architecture>`.
+Double-click on the package, the UTM main window will appear, and the virtual machine will be loaded on UTM with the name `LineageOS Revived on <Architecture>`.
 
 ### Set the renderer backend
 

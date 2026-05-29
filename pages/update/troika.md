@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on troika
+title: Update LineageOS Revived on troika
 folder: update
 permalink: /devices/troika/update/
 device: troika

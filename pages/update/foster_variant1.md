@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on foster
+title: Update LineageOS Revived on foster
 folder: update
 permalink: /devices/foster/update/variant1/
 device: foster_variant1

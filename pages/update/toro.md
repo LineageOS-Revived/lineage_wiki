@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on toro
+title: Update LineageOS Revived on toro
 folder: update
 permalink: /devices/toro/update/
 device: toro

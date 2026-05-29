@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on cupid
+title: Update LineageOS Revived on cupid
 folder: update
 permalink: /devices/cupid/update/
 device: cupid

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mt2
+title: Install LineageOS Revived on mt2
 folder: install
 permalink: /devices/mt2/install/
 device: mt2

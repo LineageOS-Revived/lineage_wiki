@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on gunnar
+title: Upgrade LineageOS Revived on gunnar
 folder: upgrade
 permalink: /devices/gunnar/upgrade/
 device: gunnar

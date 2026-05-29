@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on porg
+title: Install LineageOS Revived on porg
 folder: install
 permalink: /devices/porg/install/variant2/
 device: porg_variant2

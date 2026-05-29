@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on davinci
+title: Upgrade LineageOS Revived on davinci
 folder: upgrade
 permalink: /devices/davinci/upgrade/variant2/
 device: davinci_variant2

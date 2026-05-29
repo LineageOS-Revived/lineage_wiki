@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gtesqltespr
+title: Install LineageOS Revived on gtesqltespr
 folder: install
 permalink: /devices/gtesqltespr/install/
 device: gtesqltespr

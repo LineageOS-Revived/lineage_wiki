@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on felix
+title: Install LineageOS Revived on felix
 folder: install
 permalink: /devices/felix/install/
 device: felix

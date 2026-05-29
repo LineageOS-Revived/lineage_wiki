@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on felix
+title: Update LineageOS Revived on felix
 folder: update
 permalink: /devices/felix/update/
 device: felix

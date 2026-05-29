@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on m5_tab
+title: Install LineageOS Revived on m5_tab
 folder: install
 permalink: /devices/m5_tab/install/
 device: m5_tab

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on anne
+title: Upgrade LineageOS Revived on anne
 folder: upgrade
 permalink: /devices/anne/upgrade/
 device: anne

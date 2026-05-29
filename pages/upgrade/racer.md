@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on racer
+title: Upgrade LineageOS Revived on racer
 folder: upgrade
 permalink: /devices/racer/upgrade/
 device: racer

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on tegu
+title: Update LineageOS Revived on tegu
 folder: update
 permalink: /devices/tegu/update/
 device: tegu

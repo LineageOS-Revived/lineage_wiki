@@ -10,7 +10,7 @@ for f in _data/devices/*.yml; do
         current_branch="cm-$current_branch"
     fi
 
-    version=$(curl -s https://raw.githubusercontent.com/LineageOS/$repo/$current_branch/Makefile | grep -E '^(VERSION|PATCHLEVEL)')
+    version=$(curl -s https://raw.githubusercontent.com/LineageOS Revived/$repo/$current_branch/Makefile | grep -E '^(VERSION|PATCHLEVEL)')
     version=$(echo "$version" | xargs echo | awk '{ print $3"."$6 }')
 
     sed -i "s/^kernel:.*/kernel: {repo: $repo, version: '$version'}/" $f

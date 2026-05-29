@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on tucana
+title: Update LineageOS Revived on tucana
 folder: update
 permalink: /devices/tucana/update/variant3/
 device: tucana_variant3

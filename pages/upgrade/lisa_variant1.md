@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Upgrade LineageOS on lisa
+title: Upgrade LineageOS Revived on lisa
 folder: upgrade
 permalink: /devices/lisa/upgrade/variant1/
 device: lisa_variant1

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on z3s
+title: Install LineageOS Revived on z3s
 folder: install
 permalink: /devices/z3s/install/
 device: z3s

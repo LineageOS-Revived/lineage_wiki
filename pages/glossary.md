@@ -44,7 +44,7 @@ toc: false
 - A state in which the device never reaches the end of it's boot phase and continually starts over
 - Useless when used in describing an error, since there are many points in time during a device boot where it might abort and start over, e.g.
   - At the vendor splash logo
-  - At the LineageOS bootanimation (three white circles rotating on the screen)
+  - At the LineageOS Revived bootanimation (three white circles rotating on the screen)
   - Reaching the lock screen or setup screen but immediately restarting
   - etc.
 
@@ -65,7 +65,7 @@ toc: false
 #### Degoogled
 
 - A term describing that an OS has no software parts from, or that attempt to connect to Google
-- LineageOS is not explicitly degoogled, we simply don't ship [GApps](#gapps) due to licensing
+- LineageOS Revived is not explicitly degoogled, we simply don't ship [GApps](#gapps) due to licensing
 
 #### ETA
 
@@ -85,7 +85,7 @@ toc: false
 #### GApps
 
 - Google Apps, usually consisting of GMS (Google Mobile Services), the Play Store, and a varying amount of the native Apps made by Google (Dialer, Messenger, Calender, etc.)
-- Google Apps are not preinstalled on LineageOS but can be installed **during** installation of LineageOS, please see your device's Install guide for more information
+- Google Apps are not preinstalled on LineageOS Revived but can be installed **during** installation of LineageOS Revived, please see your device's Install guide for more information
 
 #### OEM
 
@@ -99,8 +99,8 @@ toc: false
 
 - People sometimes wrongfully use this when they mean [Unlocking](#Unlocked)
 - Refers to being able to access and modify the contents of read-only partitions via apps or a shell (usually involving a "superuser" (su) binary)
-- Some apps "detect" root access on LineageOS (which does not come rooted!) when they actually mean "modified device"
-- LineageOS does not offer any rooting solution (despite `adb root`) and does not provide support to install any
+- Some apps "detect" root access on LineageOS Revived (which does not come rooted!) when they actually mean "modified device"
+- LineageOS Revived does not offer any rooting solution (despite `adb root`) and does not provide support to install any
 
 #### Stock ROM
 

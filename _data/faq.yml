@@ -1,18 +1,18 @@
 - installation:
-    - question: "Installing LineageOS zips in Recovery results in 'Error 7'"
+    - question: "Installing LineageOS Revived zips in Recovery results in 'Error 7'"
       response: |
         - The most common reasons for this error are:
           - You are trying to install a build for a different device. _You need to make sure you download the zip for the correct device **and** variant_.
-          - You are attempting to migrate from an unofficial build to official LineageOS. _A full data wipe is needed if you are coming from something other than an official build of LineageOS._
-          - Your vendor/modem/bootloader is too old (or maybe too new). _Flash the correct stock image for your device, before wiping data and attempting to install LineageOS again_. This information should be listed on the device's wiki page.
+          - You are attempting to migrate from an unofficial build to official LineageOS Revived. _A full data wipe is needed if you are coming from something other than an official build of LineageOS Revived._
+          - Your vendor/modem/bootloader is too old (or maybe too new). _Flash the correct stock image for your device, before wiping data and attempting to install LineageOS Revived again_. This information should be listed on the device's wiki page.
           - Your recovery is outdated. _Flash the newest available version of the recommended recovery image for your device_.
         - If your error still persists after confirming these are not causing your issue, ask someone for help on IRC [#lineageos@Libera.Chat](https://web.libera.chat/gamja/?channel=#lineageos) or on the [subreddit](http://reddit.com/r/lineageos) and provide a recovery log.
-    - question: "Can I flash an official LineageOS build overtop an unofficial build?"
+    - question: "Can I flash an official LineageOS Revived build overtop an unofficial build?"
       response: |
-        No. When migrating from an unofficial build to an official LineageOS build, you must follow the installation guide for your device exactly as written. We will not provide support for any other installation path.
-    - question: "How can I install the Google apps package after installing and booting LineageOS?"
+        No. When migrating from an unofficial build to an official LineageOS Revived build, you must follow the installation guide for your device exactly as written. We will not provide support for any other installation path.
+    - question: "How can I install the Google apps package after installing and booting LineageOS Revived?"
       response: |
-        If you have already booted into LineageOS, you will need to perform a factory reset and then sideload the recommended Google apps package *before* booting LineageOS again. The first boot of LineageOS performs critical system initialization. Installing Google apps after this process has completed can lead to a variety of issues, so they must be installed prior to the initial boot.
+        If you have already booted into LineageOS Revived, you will need to perform a factory reset and then sideload the recommended Google apps package *before* booting LineageOS Revived again. The first boot of LineageOS Revived performs critical system initialization. Installing Google apps after this process has completed can lead to a variety of issues, so they must be installed prior to the initial boot.
     - question: "Where does the updater app store the downloaded zip?"
       response: "`/data/lineageos_updates/`"
     - question: "Can/should I relock my bootloader?"
@@ -27,21 +27,17 @@
         - The download portal exposes various images for our devices. Some are required for the installation or upgrade process (which you can read up on your device's instructions),
           some are just there and might help us when we try to debug or fix an issue for you.
         - If they aren't mentioned on your device's wiki pages, just ignore them!
-    - question: "Where can I find the last build for xxx device before support was dropped or its LineageOS version was deprecated?"
+    - question: "Where can I find the last build for xxx device before support was dropped or its LineageOS Revived version was deprecated?"
       response: |
         - In short, you can't. We don't build more than 2 versions usually (exemptions were made when [major hurdles](https://lineageos.org/Changelog-27/#deprecations) prevented a large amount of devices to receive a newer version) and we don't keep old builds around for a multitude of reasons, the largest being that we won't keep old, insecure, potentially broken builds around. Additionally, we don't have the server space (or the space on mirrors) to do so.
-        - There might be archives in the wild and you can check if they are actually signed by LineageOS [here](https://download.lineageos.org/verify). Please don't expect us to provide any support for them, though, beyond what we offer on this wiki!
+        - There might be archives in the wild and you can check if they are actually signed by LineageOS Revived [here](https://download.lineage.rgbroms.top/verify). Please don't expect us to provide any support for them, though, beyond what we offer on this wiki!
     - question: "A build for my device wasn’t posted on the usual day, or disappeared — where is it?"
       response: |
          - Official support does not guarantee that a build will be produced for every week. Builds may be skipped or temporarily removed due to infrastructure issues, build failures, or device-specific problems detected during the build process.
-         - In some cases, a build may also be removed if the device is no longer part of the official build roster, if older builds are being purged, or if the LineageOS version it supported is no longer maintained.
+         - In some cases, a build may also be removed if the device is no longer part of the official build roster, if older builds are being purged, or if the LineageOS Revived version it supported is no longer maintained.
          - A skipped or removed build does **not** necessarily mean that support for the device has been dropped. You can check your device’s wiki page to confirm its current support status.
          - Please do not ask for ETAs.
 - "device support":
-    - question: "My device is _not_ officially supported, but I’d really like to give LineageOS a try. Can you support my device?"
-      response: |
-        - All devices are maintained by open source contributors - <a href="/device_requests.html">sorry, we don't take device requests</a>. If you would like to bring-up LineageOS for a device, and can meet some basic standards, we'll happily look into making it official.
-        - If you would like to submit your device tree and kernel for official builds, please take a look at <a href="/submitting_device.html">Submitting a port</a> page.
     - question: "My device is _not_ on the device list, but it is just the same as that other model. Can I use it?"
       response: |
         - If your device is not listed, it's not supported.
@@ -58,7 +54,7 @@
         - If something doesn't work, look into <a href="how-to/bugreport">How to submit a bug</a>.
     - question: "Why do you support this old device but not my newer one?"
       response: "Because all maintainers are volunteers doing this in their free time, and someone happened to love this device enough to bring it up and properly support it."
-    - question: "Where are guides so I can port LineageOS to my unsupported device?"
+    - question: "Where are guides so I can port LineageOS Revived to my unsupported device?"
       response: |
         - There are none.
         - See what other similar devices did to get them to work.
@@ -77,10 +73,10 @@
         - Ask whoever provided it to you, because it's their work.
     - question: "What security updates will my device get?"
       response: |
-        - LineageOS devices receive several different kinds of security updates, each residing in a different part of the software stack:
-            - Android (AOSP) Security Patches: These are the security updates published by Google for supported Android versions. LineageOS integrates, tests, and ships these patches for all supported devices as quickly as possible. Every maintained device receives these AOSP security updates.
+        - LineageOS Revived devices receive several different kinds of security updates, each residing in a different part of the software stack:
+            - Android (AOSP) Security Patches: These are the security updates published by Google for supported Android versions. LineageOS Revived integrates, tests, and ships these patches for all supported devices as quickly as possible. Every maintained device receives these AOSP security updates.
             - Vendor Security Patch Level (Vendor SPL): These patches come from the device manufacturer and apply to proprietary vendor components (such as HALs, drivers, and other closed-source binaries). The Vendor SPL reflects the patch level of the stock firmware your device's vendor blobs were taken from. In most cases, this corresponds to the latest available stock build for that device, but for a variety of reasons, some devices extract from an older, or carrier specific build.
-            - Firmware (Bootloader/Modem/etc.): These are hardware-specific often closed-source components such as the bootloader, modem, TrustZone/TEE, etc. LineageOS cannot update these on its own. Many devices ship the expected firmware in their installation package, but some require the user install a specific firmware version prior to attempting to install LineageOS. Please refer to you device's specific installation guide for more information on this process!
+            - Firmware (Bootloader/Modem/etc.): These are hardware-specific often closed-source components such as the bootloader, modem, TrustZone/TEE, etc. LineageOS Revived cannot update these on its own. Many devices ship the expected firmware in their installation package, but some require the user install a specific firmware version prior to attempting to install LineageOS Revived. Please refer to you device's specific installation guide for more information on this process!
 - "common issues":
     - question: "My device doesn’t pass Play Integrity!"
       response: "Some devices pass their bootloader unlock status and verity status to Android's kernel during boot. We don't purposefully remove those flags, as it isn't our place to lie about security features. There's also a [blog post](https://www.lineageos.org/PlayIntegrity/) about this topic, which explains our reasons further."

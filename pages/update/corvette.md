@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Update LineageOS on corvette
+title: Update LineageOS Revived on corvette
 folder: update
 permalink: /devices/corvette/update/
 device: corvette

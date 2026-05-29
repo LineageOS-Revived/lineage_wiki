@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on fajita
+title: Install LineageOS Revived on fajita
 folder: install
 permalink: /devices/fajita/install/variant2/
 device: fajita_variant2
