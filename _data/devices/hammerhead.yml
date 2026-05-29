@@ -8,14 +8,14 @@ codename: hammerhead
 cpu: Krait 400
 cpu_cores: '4'
 cpu_freq: 2.26 GHz
-current_branch: 14.1
+current_branch: 18.1
 dimensions: None
 download_boot: With the device powered off, hold <kbd>Volume Down</kbd>. Then press and hold <kbd>Power</kbd> until a boot menu appears.
 gpu: Qualcomm Adreno 330
 image: hammerhead.png
 install_method: fastboot_nexus
 kernel: {repo: android_kernel_lge_hammerhead, version: '3.4'}
-maintainers: []
+maintainers: [SirRGB]
 name: Nexus 5
 network: [2G GSM, 2G CDMA, 3G UMTS, 4G LTE]
 no_oem_unlock_switch: true
@@ -32,5 +32,5 @@ type: phone
 uses_twrp: true
 vendor: Google
 vendor_short: lge
-versions: [14.1]
+versions: [14.1, 15.1, 16.0, 17.1, 18.1]
 wifi: 802.11 a/b/g/n/ac
