@@ -3,7 +3,7 @@ FROM docker.io/ruby:3.2
 WORKDIR /src
 ADD Gemfile /src
 ADD Gemfile.lock /src
-RUN gem install bundler -v 2.3.26
+RUN gem install bundler -v 2.3.27
 RUN bundle install
 
 VOLUME /src

@@ -1,7 +1,7 @@
-FROM docker.io/ruby:2.4 as builder
+FROM docker.io/ruby:2.7 as builder
 COPY . /src
 WORKDIR /src
-RUN gem install bundler
+RUN gem install bundler -v 2.3.27
 RUN bundle install
 RUN bundle exec jekyll build
 
