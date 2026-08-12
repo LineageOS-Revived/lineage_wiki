@@ -39,7 +39,7 @@ include:
   - pages/info/montana.md
   - pages/info/ali.md
 #  - pages/info/potter.md
-#  - pages/info/sanders.md
+  - pages/info/sanders.md
 
 # these are the files and directories that jekyll will exclude from the build
 
