@@ -52,9 +52,9 @@ The following branches can be used to build for the {{ display_name }}:
 breakfast {{ device.codename }}
 ```
 
-This will download your device's [device specific configuration](https://github.com/LineageOS/{{ device.tree }}) and
+This will download your device's [device specific configuration](https://github.com/LineageOS-Revived/{{ device.tree }}) and
 {%- if device.kernel.repo %}
-[kernel](https://github.com/LineageOS/{{ device.kernel.repo }}).
+[kernel](https://github.com/LineageOS-Revived/{{ device.kernel.repo }}).
 {%- else %}
 kernel.
 {%- endif %}
