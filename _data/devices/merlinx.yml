@@ -1,6 +1,6 @@
 architecture: arm64
 battery: {capacity: 5020, removable: false, tech: 'Li-Po'}
-before_install: {instructions: 'needs_specific_android_fw', lineage_version: 20, version: '11'}
+before_install: {instructions: 'needs_specific_android_fw', lineage_version: 23.2, version: '12'}
 bluetooth: {profiles: [A2DP], spec: '5.0'}
 cameras:
   - {flash: 'LED', info: '48 MP (wide)'}
@@ -11,14 +11,14 @@ codename: merlinx
 cpu: Cortex-A75 & Cortex-A55
 cpu_cores: '8'
 cpu_freq: 2 x 2.0 GHz + 6 x 1.8 GHz
-current_branch: 20
+current_branch: 23.2
 dimensions: {depth: 8.9, height: 162.3, width: 77.2}
 download_boot: With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd>. Keep holding both buttons until the word "FASTBOOT" appears on the screen, then release.
 gpu: ARM Mali-G52 MC2
 image: merlinx.png
 install_method: fastboot_xiaomi
-kernel: {repo: android_kernel_xiaomi_mt6768, version: '4.14'}
-maintainers: []
+kernel: {repo: android_kernel_xiaomi_mt6768, version: '4.19'}
+maintainers: [surblazer]
 name: Redmi Note 9
 network: [2G GSM, 3G UMTS, 4G LTE]
 peripherals: [3.5mm jack, Accelerometer, Compass, Dual SIM, Fingerprint reader, Galileo, GLONASS, GPS, Gyroscope, Light sensor, Proximity sensor]
@@ -33,5 +33,5 @@ tree: android_device_xiaomi_merlinx
 type: phone
 vendor: Xiaomi
 vendor_short: xiaomi
-versions: [20]
+versions: [20, 23.2]
 wifi: 802.11 a/b/g/n/ac

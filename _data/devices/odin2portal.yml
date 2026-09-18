@@ -27,7 +27,7 @@ release: 2025-01
 screen: {refresh_rate: 165, resolution: '1920x1080', size: 7.0, technology: 'AMOLED'}
 sdcard: {size_max: '2 TB'}
 soc: Qualcomm Dragonwing™ QCS8550 (QCS8550)
-storage: 128/512/1024 GB UFS3.1
+storage: 128/512/1024 GB UFS4.0
 tree: android_device_ayn_odin2portal
 type: Handheld game console
 vendor: AYN
