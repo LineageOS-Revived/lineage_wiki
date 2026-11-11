@@ -11,7 +11,7 @@ codename: fogos
 cpu: Kryo 660
 cpu_cores: '8'
 cpu_freq: 2 x 2.2 GHz + 6 x 1.7 GHz
-current_branch: 23.2
+current_branch: 24.0
 dimensions: {depth: 8, height: 162.7, width: 74.6}
 download_boot: With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd>.
 gpu: Qualcomm Adreno 619
@@ -19,7 +19,7 @@ image: fogos.png
 install_method: fastboot_motorola
 is_ab_device: true
 kernel: {repo: android_kernel_motorola_sm6375, version: '5.4'}
-maintainers: [mikeioannina]
+maintainers: [mikeioannina, Deivid Ignacio Parra (Deivid21)]
 models: [XT2363-8, XT2363-9]
 name: moto g45 5G
 network: [2G GSM, 3G UMTS, 4G LTE, 5G NR]
@@ -38,5 +38,5 @@ type: phone
 variant: 2
 vendor: Motorola
 vendor_short: motorola
-versions: [22.2, 23.0, 23.2]
+versions: [22.2, 23.0, 23.2, 24.0]
 wifi: 802.11 a/b/g/n/ac

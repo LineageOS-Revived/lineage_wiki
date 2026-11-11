@@ -12,7 +12,7 @@ codename: a21s
 cpu: Cortex-A55
 cpu_cores: '8'
 cpu_freq: 8 x 2.0 GHz
-current_branch: 23.2
+current_branch: 24.0
 dimensions: {depth: 8.9, height: 163.7, width: 75.3}
 download_boot: With the device powered off, hold <kbd>Volume Up</kbd> + <kbd>Volume Down</kbd> then connect USB cable to PC.
 firmware_update: firmware_update_samsung_a21s
@@ -26,7 +26,6 @@ models: [SM-A217F, SM-A217M, SM-A217F/DS, SM-A217F/DSN, SM-A217M/DS]
 name: Galaxy A21s
 network: [2G GSM, 3G UMTS, 4G LTE]
 peripherals: [3.5mm jack, Accelerometer, Compass, Fingerprint reader, GPS, Gyroscope, Proximity sensor]
-quirks: [ims]
 ram: 2/3/4/6 GB
 recovery_boot: With the device powered off, hold <kbd>Volume Up</kbd> + <kbd>Power</kbd> while the device is connected to a PC via USB cable.
 recovery_partition_name: recovery
@@ -39,5 +38,5 @@ tree: android_device_samsung_a21s
 type: phone
 vendor: Samsung
 vendor_short: samsung
-versions: [22.1, 22.2, 23.0, 23.2]
+versions: [22.1, 22.2, 23.0, 23.2, 24.0]
 wifi: 802.11 a/b/g/n/ac

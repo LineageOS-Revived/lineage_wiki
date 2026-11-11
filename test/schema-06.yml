@@ -27,6 +27,8 @@ definitions:
         enum:
           - Li-Ion
           - Li-Po
+          - Si/C Li-Ion
+          - Si/C Li-Po
     required:
       - capacity
       - removable
@@ -111,8 +113,10 @@ definitions:
       - ARM Mali-G76 MC4
       - ARM Mali-G76 MP12
       - ARM Mali-G77 MP11
+      - ARM Mali-G77 MC9
       - ARM Mali-G78 MP20
       - ARM Mali-G610 MC3
+      - ARM Mali-G610 MC6
       - ARM Mali-G710 MC10
       - ARM Mali-G710 MP7
       - ARM Mali-G715 MC7
@@ -132,9 +136,12 @@ definitions:
       - NVIDIA Kepler DX1 192-core
       - NVIDIA Maxwell 256-core
       - NVIDIA Tegra 4
+      - PowerVR DXT-48-1536
       - PowerVR G6430
+      - PowerVR GE8320
       - PowerVR SGX540
       - PowerVR SGX544MP2
+      - Samsung Xclipse 530
       - Samsung Xclipse 920
       - Qualcomm Adreno 225
       - Qualcomm Adreno 302
@@ -194,6 +201,7 @@ definitions:
       - Qualcomm Adreno 810
       - Qualcomm Adreno 825
       - Qualcomm Adreno 830
+      - Qualcomm Adreno 840
   iso8601_reduced_precision_date:
     description: Date in ISO8601 reduced precision format
     examples:
@@ -249,9 +257,12 @@ definitions:
       - P-OLED
       - AMOLED
       - Dynamic AMOLED
+      - Dynamic AMOLED 2X
       - Fluid AMOLED
       - Fluid 2.0 LTPO AMOLED
       - Fluid 3.0 LTPO AMOLED
+      - Foldable Dynamic AMOLED 2X
+      - Foldable Flexi-fluid 3.0 LTPO AMOLED
       - Foldable OLED
       - Foldable LTPO OLED
       - LTPO AMOLED
@@ -270,6 +281,7 @@ definitions:
       - LCD
       - Super LCD
       - PLS LCD
+      - Super Fluid 3.0 LTPO OLED
       - Super PLS LCD
       - Super clear LCD
       - TFT LCD
@@ -300,21 +312,27 @@ definitions:
       - Amlogic S905Y2
       - Amlogic S905X3
       - Amlogic S905X4
+      - Amlogic S905Y4
       - Google Tensor GS101
       - Google Tensor GS201
       - Google Tensor G3
       - Google Tensor G4
+      - Google Tensor G5
       - HiSilicon Kirin 659
       - HiSilicon Kirin 970
       - Intel Atom Z2560
       - Intel Atom Z3560
       - Intel Atom Z3580
-      - Mediatek Dimensity 7030
-      - Mediatek Helio G80
-      - Mediatek Helio G81 Extreme
-      - Mediatek Helio G85
-      - Mediatek Helio G95
-      - Mediatek Helio G99
+      - MediaTek Dimensity 7030
+      - MediaTek Dimensity 8020
+      - MediaTek Dimensity 8100
+      - MediaTek Helio G25
+      - MediaTek Helio G80
+      - MediaTek Helio G81 Extreme
+      - MediaTek Helio G85
+      - MediaTek Helio G95
+      - MediaTek Helio G99
+      - MediaTek MT8188J
       - NVIDIA Tegra 4 (T114)
       - NVIDIA Tegra K1 (T124)
       - NVIDIA Tegra X1 (T210)
@@ -324,6 +342,7 @@ definitions:
       - Qualcomm APQ8064T Snapdragon 600
       - Qualcomm APQ8076 Snapdragon 652
       - Qualcomm APQ8084 Snapdragon 805
+      - Qualcomm Dragonwing™ CQ8725S (CQ8725S)
       - Qualcomm Dragonwing™ QCM6490 (QCM6490)
       - Qualcomm Dragonwing™ QCS8550 (QCS8550)
       - Qualcomm MSM8210 Snapdragon 200
@@ -428,8 +447,10 @@ definitions:
       - Qualcomm SM8650 Snapdragon 8 Gen3
       - Qualcomm SM8735 Snapdragon 8s Gen4
       - Qualcomm SM8750 Snapdragon 8 Elite
+      - Qualcomm SM8850 Snapdragon 8 Elite Gen 5
       - Samsung Exynos 2200
       - Samsung Exynos 1280
+      - Samsung Exynos 1480
       - Samsung Exynos 850
       - Samsung Exynos 4210
       - Samsung Exynos 4412
@@ -475,6 +496,7 @@ definitions:
       - 22.2
       - 23.0
       - 23.2
+      - 24.0
     type: number
   valid_kernel_versions:
     enum:
@@ -491,6 +513,7 @@ definitions:
       - '5.15'
       - '6.1'
       - '6.6'
+      - '6.12'
     type: string
   valid_networks:
     description: All valid networks a device can support
@@ -563,6 +586,7 @@ definitions:
         - Radar
         - RGB ambient light
         - RJ45 Ethernet port
+        - SPDIF
         - Stereo front speakers
         - Stereo speakers
         - Thermometer
@@ -584,7 +608,6 @@ definitions:
       - dolby_vision
       - esim
       - external_cameras
-      - face_unlock
       - fde
       - hardware_encryption
       - ims
@@ -667,6 +690,7 @@ properties:
           - '5.2'
           - '5.3'
           - '5.4'
+          - '6.0'
         type: string
     required:
       - spec
@@ -692,6 +716,7 @@ properties:
     enum:
       - Cortex-A15
       - Cortex-A15 & Cortex-A7
+      - Cortex-A35
       - Cortex-A53
       - Cortex-A53 & Cortex-A53
       - Cortex-A53 & Cortex-A57
@@ -711,6 +736,7 @@ properties:
       - Cortex-X3 & Cortex-A715 & Cortex-A510
       - Cortex-X3 & Cortex-A715 & Cortex-A710 & Cortex-A510
       - Cortex-X4 & Cortex-A720 & Cortex-A520
+      - Cortex-X4 & Cortex-A725 & Cortex-A520
       - Denver
       - Denver 2 & Cortex-A57
       - Exynos M1 & Cortex-A53
@@ -833,6 +859,7 @@ properties:
       - fastboot_nokia
       - fastboot_nubia
       - fastboot_oneplus_tmo
+      - fastboot_oplus
       - fastboot_oppo
       - fastboot_sony
       - fastboot_realme
@@ -951,6 +978,9 @@ properties:
     "$id": "/properties/required_bootloader"
     minItems: 1
     type: array
+  requires_fastbootd:
+    "$id": "/properties/requires_fastbootd"
+    type: boolean
   screen:
     "$id": "/properties/screen"
     oneOf:
@@ -1001,6 +1031,7 @@ properties:
     "$id": "/properties/vendor"
     enum:
       - 10.or
+      - Amazon
       - ARK
       - Askey
       - ASUS
@@ -1035,6 +1066,7 @@ properties:
       - Realme
       - Retroid Pocket
       - Samsung
+      - SDMC
       - SHIFT
       - Smartisan
       - Solana
@@ -1053,6 +1085,7 @@ properties:
     "$id": "/properties/vendor_short"
     enum:
       - 10or
+      - amazon
       - amlogic
       - ark
       - askey
@@ -1087,6 +1120,7 @@ properties:
       - realme
       - retroidpocket
       - samsung
+      - sdmc
       - shift
       - smartisan
       - sony

@@ -13,19 +13,19 @@ codename: y2s
 cpu: Exynos M5 & Cortex-A76 & Cortex-A55
 cpu_cores: '8'
 cpu_freq: 2 x 2.73 GHz + 2x 2.50 + 4 x 2.00 GHz
-current_branch: 23.2
+current_branch: 24.0
 dimensions: {depth: 7.8, height: 161.9, width: 73.7}
 download_boot: With the device powered off, hold <kbd>Volume Up</kbd> + <kbd>Volume Down</kbd> then connect USB cable to PC.
 gpu: ARM Mali-G77 MP11
 image: y2s.png
 install_method: samloader_rs
 kernel: {repo: android_kernel_samsung_universal9830, version: '4.19'}
-maintainers: [ExtremeXT, fcuzzocrea]
+maintainers: [ExtremeXT, fcuzzocrea, CmdCtrlDevic3]
 models: [SM-G985F, SM-G985F/DS, SM-G986B, SM-G986B/DS]
 name: Galaxy S20+ (4G/5G)
 network: [2G GSM, 3G UMTS, 4G LTE, 5G NR]
 peripherals: [A-GPS, Accelerometer, Barometer, Compass, DP over USB-C, Depth Sensor, Dual SIM, Dual-frequency GNSS, eSIM, Fingerprint reader, BeiDou, Galileo, GLONASS, GPS, SBAS, QZSS, Gyroscope, Hall effect sensor, Light sensor, NFC, Pedometer, Proximity sensor, Qi wireless charging, Qi reverse wireless charging, Stereo speakers, USB OTG]
-quirks: [esim, ims]
+quirks: [esim]
 ram: 8 GB
 recovery_boot: Reboot and immediately hold <kbd>Volume Up</kbd> + <kbd>Power</kbd> while the device is connected to a PC via USB cable.
 recovery_partition_name: recovery
@@ -38,5 +38,5 @@ tree: android_device_samsung_y2s
 type: phone
 vendor: Samsung
 vendor_short: samsung
-versions: [23.0, 23.2]
+versions: [23.0, 23.2, 24.0]
 wifi: 802.11 a/b/g/n/ac/ax

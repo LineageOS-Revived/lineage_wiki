@@ -13,6 +13,8 @@ a "backup" of the Google Apps on your device and then "restore" them, but this d
 
 The Google Apps packages are **not supported** in any way by LineageOS.
 
+Looking for an open-source alternative? See our [microG guide]({{ "microg/" | relative_url }}).
+
 
 ## Installation
 
@@ -31,6 +33,7 @@ These packages are only dependent on your OS version and architecture, which can
 
 |Version                   |Link                                                   |
 |--------------------------|-------------------------------------------------------|
+|LineageOS 24 (Android 17)|MindTheGapps ([ARM](https://github.com/MindTheGapps/17.0.0-arm/releases/latest), [ARM64](https://github.com/MindTheGapps/17.0.0-arm64/releases/latest))|
 |LineageOS 23 (Android 16)|MindTheGapps ([ARM](https://github.com/MindTheGapps/16.0.0-arm/releases/latest), [ARM64](https://github.com/MindTheGapps/16.0.0-arm64/releases/latest))|
 |LineageOS 22 (Android 15)|MindTheGapps ([ARM](https://github.com/MindTheGapps/15.0.0-arm/releases/latest), [ARM64](https://github.com/MindTheGapps/15.0.0-arm64/releases/latest))|
 |LineageOS 21 (Android 14)|MindTheGapps ([ARM](https://github.com/MindTheGapps/14.0.0-arm/releases/latest), [ARM64](https://github.com/MindTheGapps/14.0.0-arm64/releases/latest))|
@@ -44,6 +47,7 @@ These packages are only dependent on your OS version and architecture, which can
 
 |Version                   |Link                                                   |
 |--------------------------|-------------------------------------------------------|
+|LineageOS 24 (Android 17)|MindTheGapps ([ARM](https://github.com/MindTheGapps/17.0.0-arm-ATV/releases/latest), [ARM64](https://github.com/MindTheGapps/17.0.0-arm64-ATV/releases/latest))|
 |LineageOS 23 (Android 16)|MindTheGapps ([ARM](https://github.com/MindTheGapps/16.0.0-arm-ATV/releases/latest), [ARM64](https://github.com/MindTheGapps/16.0.0-arm64-ATV/releases/latest))|
 |LineageOS 22 (Android 15)|MindTheGapps ([ARM](https://github.com/MindTheGapps/15.0.0-arm-ATV/releases/latest), [ARM64](https://github.com/MindTheGapps/15.0.0-arm64-ATV/releases/latest))|
 |LineageOS 21 (Android 14)|MindTheGapps ([ARM](https://github.com/MindTheGapps/14.0.0-arm-ATV/releases/latest), [ARM64](https://github.com/MindTheGapps/14.0.0-arm64-ATV/releases/latest))|

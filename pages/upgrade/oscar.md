@@ -4,6 +4,5 @@ title: Upgrade LineageOS on oscar
 folder: upgrade
 permalink: /devices/oscar/upgrade/
 device: oscar
-toc: false
 ---
-{% include templates/device_variants.md %}
+{% include templates/device_upgrade.md %}

@@ -18,7 +18,7 @@
     - question: "Can/should I relock my bootloader?"
       response: "Few devices allow for it and even less work properly after that. Relocking can result in actual unusable devices, so be warned!"
     - question: "I have relocked my bootloader and can’t get my device to work anymore. What now?"
-      response: "Sorry, as per the question right above, we don't support this usecase and there may not be a good way to recover. [XDA](https://www.xda-developers.com), other similar forums or a search engine may be of use."
+      response: "Sorry, as per the question right above, we don't support this usecase and there may not be a good way to recover. [XDA](https://www.xdaforums.com), other similar forums or a search engine may be of use."
 - downloads:
     - question: "My device _is_ officially supported, but there’s no zips for it on the download page. Where are they?"
       response: "Be patient. Devices are slowly being built throughout the week. Maintainers have busy lives, and sometimes an issue is holding it back. Please do not ask for ETAs."
@@ -89,7 +89,9 @@
         - We only provide help for officially supported devices for which we provide our own guides. Follow those instead!
         - If you follow the official guide for your device line-by-line and still experience issues, feel free to ask again.
     - question: "My notifications do not work!"
-      response: "Push notifications require GApps or MicroG. When using MicroG you will need to enable GCM (Google Cloud Messaging) in MicroG's settings."
+      response: "Push notifications require GApps or microG. When using microG, you will need to enable GCM (Google Cloud Messaging) in microG's settings."
+    - question: "How do I install microG?"
+      response: "For instructions on how to install and configure microG, please see our [microG guide](/microg/)."
     - question: "I am having weird errors; apps won't install, developer settings crash, and the screen lock has strange error messages."
       response: |
         In the event that all Google accounts were not removed from the device (as required by the installation instructions), stock Android's Factory Reset Protection (FRP) persists on the device and causes these problems. In order to resolve this, follow these instructions:
